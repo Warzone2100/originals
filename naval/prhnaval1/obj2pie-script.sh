@@ -1,9 +1,9 @@
 SCALE="60"
-obj2pie -s $SCALE -y -r prhnaval1_green.obj prhnaval1_green.pie page-28-naval.png
-obj2pie -s $SCALE -y -r prhnaval1_orange.obj prhnaval1_orange.pie page-28-naval.png
-obj2pie -s $SCALE -y -r prhnaval1_grey.obj prhnaval1_grey.pie page-28-naval.png
-obj2pie -s $SCALE -y -r prhnaval1_black.obj prhnaval1_black.pie page-28-naval.png
-obj2pie -s $SCALE -y -r prhnaval1_red.obj prhnaval1_red.pie page-28-naval.png
-obj2pie -s $SCALE -y -r prhnaval1_blue.obj prhnaval1_blue.pie page-28-naval.png
-obj2pie -s $SCALE -y -r prhnaval1_purple.obj prhnaval1_purple.pie page-28-naval.png
-obj2pie -s $SCALE -y -r prhnaval1_cyan.obj prhnaval1_cyan.pie page-28-naval.png
+obj2pie -s $SCALE -y -r prhnaval1_1.obj prhnaval1_1.pie page-28-naval.png
+obj2pie -s $SCALE -y -r prhnaval1_2.obj prhnaval1_2.pie page-28-naval.png
+obj2pie -s $SCALE -y -r prhnaval1_3.obj prhnaval1_3.pie page-28-naval.png
+obj2pie -s $SCALE -y -r prhnaval1_4.obj prhnaval1_4.pie page-28-naval.png
+obj2pie -s $SCALE -y -r prhnaval1_5.obj prhnaval1_5.pie page-28-naval.png
+obj2pie -s $SCALE -y -r prhnaval1_6.obj prhnaval1_6.pie page-28-naval.png
+obj2pie -s $SCALE -y -r prhnaval1_7.obj prhnaval1_7.pie page-28-naval.png
+obj2pie -s $SCALE -y -r prhnaval1_8.obj prhnaval1_8.pie page-28-naval.png
