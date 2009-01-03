@@ -1,0 +1,4218 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="1024px"
+   height="1024px"
+   viewBox="0 0 1024 1024"
+   version="1.1"
+   id="svg2"
+   sodipodi:version="0.32"
+   inkscape:version="0.46"
+   sodipodi:docname="powergen-vector.svg"
+   inkscape:output_extension="org.inkscape.output.svg.inkscape"
+   inkscape:export-filename="/home/elio/Projekte/warzone/originals/structures/powergen/powergen-vector.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90">
+  <metadata
+     id="metadata1359">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs1357">
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 512 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="1024 : 512 : 1"
+       inkscape:persp3d-origin="512 : 341.33333 : 1"
+       id="perspective897" />
+    <linearGradient
+       id="linearGradient5746">
+      <stop
+         style="stop-color:#b9b9b9;stop-opacity:1;"
+         offset="0"
+         id="stop5748" />
+      <stop
+         style="stop-color:#747474;stop-opacity:1;"
+         offset="1"
+         id="stop5750" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient5419">
+      <stop
+         id="stop5421"
+         offset="0"
+         style="stop-color:#c3c3c3;stop-opacity:1;" />
+      <stop
+         id="stop5423"
+         offset="1"
+         style="stop-color:#838383;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient5397">
+      <stop
+         style="stop-color:#c3c3c3;stop-opacity:1;"
+         offset="0"
+         id="stop5399" />
+      <stop
+         style="stop-color:#a8a8a8;stop-opacity:1;"
+         offset="1"
+         id="stop5401" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient8968">
+      <stop
+         style="stop-color:#666666;stop-opacity:1;"
+         offset="0"
+         id="stop8970" />
+      <stop
+         id="stop8976"
+         offset="0.14011139"
+         style="stop-color:#878787;stop-opacity:1;" />
+      <stop
+         id="stop8974"
+         offset="0.66891891"
+         style="stop-color:#6a6a6a;stop-opacity:1;" />
+      <stop
+         style="stop-color:#585858;stop-opacity:1;"
+         offset="1"
+         id="stop8972" />
+    </linearGradient>
+    <linearGradient
+       gradientUnits="userSpaceOnUse"
+       y2="546.10022"
+       x2="476.2482"
+       y1="507.88599"
+       x1="476.2482"
+       id="linearGradient3930"
+       xlink:href="#linearGradient4454"
+       inkscape:collect="always" />
+    <linearGradient
+       gradientUnits="userSpaceOnUse"
+       y2="650.93213"
+       x2="539.93811"
+       y1="618.70599"
+       x1="539.93811"
+       id="linearGradient3856"
+       xlink:href="#linearGradient3858"
+       inkscape:collect="always" />
+    <linearGradient
+       gradientUnits="userSpaceOnUse"
+       y2="383.91119"
+       x2="517.70752"
+       y1="519.49799"
+       x1="517.70752"
+       id="linearGradient3822"
+       xlink:href="#linearGradient3617"
+       inkscape:collect="always" />
+    <radialGradient
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1,0,0,0.8675865,0,21.210119)"
+       r="80.445"
+       fy="160.181"
+       fx="185.46899"
+       cy="160.181"
+       cx="185.46899"
+       id="radialGradient3790"
+       xlink:href="#linearGradient4239"
+       inkscape:collect="always" />
+    <linearGradient
+       gradientUnits="userSpaceOnUse"
+       y2="263.86597"
+       x2="959.90601"
+       y1="263.86597"
+       x1="996.29498"
+       id="linearGradient3884"
+       xlink:href="#linearGradient3617"
+       inkscape:collect="always" />
+    <linearGradient
+       gradientUnits="userSpaceOnUse"
+       y2="257.45099"
+       x2="960.90601"
+       y1="257.45099"
+       x1="930.26703"
+       id="linearGradient3862"
+       xlink:href="#linearGradient3617"
+       inkscape:collect="always" />
+    <linearGradient
+       gradientUnits="userSpaceOnUse"
+       y2="94.70005"
+       x2="966.36902"
+       y1="94.70005"
+       x1="1002.756"
+       id="linearGradient3825"
+       xlink:href="#linearGradient3617"
+       inkscape:collect="always" />
+    <linearGradient
+       gradientUnits="userSpaceOnUse"
+       y2="88.091499"
+       x2="967.36902"
+       y1="88.091499"
+       x1="936.73199"
+       id="linearGradient3803"
+       xlink:href="#linearGradient3617"
+       inkscape:collect="always" />
+    <linearGradient
+       gradientUnits="userSpaceOnUse"
+       y2="845.83813"
+       x2="575.17603"
+       y1="848.76959"
+       x1="654.52301"
+       id="linearGradient23568"
+       xlink:href="#linearGradient3617"
+       inkscape:collect="always" />
+    <linearGradient
+       gradientUnits="userSpaceOnUse"
+       y2="875.724"
+       x2="851.94299"
+       y1="875.724"
+       x1="777.685"
+       id="linearGradient23548"
+       xlink:href="#linearGradient3617"
+       inkscape:collect="always" />
+    <linearGradient
+       gradientUnits="userSpaceOnUse"
+       y2="876.86499"
+       x2="568.216"
+       y1="876.86499"
+       x1="487.189"
+       id="linearGradient23526"
+       xlink:href="#linearGradient3617"
+       inkscape:collect="always" />
+    <linearGradient
+       gradientUnits="userSpaceOnUse"
+       y2="849.10504"
+       x2="286.45499"
+       y1="854.23517"
+       x1="367.931"
+       id="linearGradient23506"
+       xlink:href="#linearGradient3617"
+       inkscape:collect="always" />
+    <linearGradient
+       gradientUnits="userSpaceOnUse"
+       y2="879.51001"
+       x2="279.987"
+       y1="879.51001"
+       x1="202.18201"
+       id="linearGradient23486"
+       xlink:href="#linearGradient3617"
+       inkscape:collect="always" />
+    <linearGradient
+       gradientUnits="userSpaceOnUse"
+       y2="863.68073"
+       x2="3.4400001"
+       y1="857.08484"
+       x1="80.714996"
+       id="linearGradient23466"
+       xlink:href="#linearGradient3617"
+       inkscape:collect="always" />
+    <linearGradient
+       gradientUnits="userSpaceOnUse"
+       y2="1015.6542"
+       x2="409.2421"
+       y1="980.112"
+       x1="409.2421"
+       id="linearGradient23367"
+       xlink:href="#linearGradient3617"
+       inkscape:collect="always" />
+    <linearGradient
+       gradientUnits="userSpaceOnUse"
+       y2="305.53049"
+       x2="764.99103"
+       y1="305.53049"
+       x1="523.47302"
+       id="linearGradient23344"
+       xlink:href="#linearGradient23346"
+       inkscape:collect="always" />
+    <linearGradient
+       gradientUnits="userSpaceOnUse"
+       y2="694.45044"
+       x2="756.60895"
+       y1="694.45044"
+       x1="780.85101"
+       id="linearGradient23294"
+       xlink:href="#linearGradient4239"
+       inkscape:collect="always" />
+    <linearGradient
+       gradientUnits="userSpaceOnUse"
+       y2="691.1911"
+       x2="440.00854"
+       y1="691.1911"
+       x1="463.44"
+       id="linearGradient23286"
+       xlink:href="#linearGradient4239"
+       inkscape:collect="always" />
+    <linearGradient
+       gradientUnits="userSpaceOnUse"
+       y2="708.75"
+       x2="666.22601"
+       y1="708.75"
+       x1="643.026"
+       id="linearGradient23278"
+       xlink:href="#linearGradient4239"
+       inkscape:collect="always" />
+    <linearGradient
+       gradientUnits="userSpaceOnUse"
+       y2="709.0965"
+       x2="348.64899"
+       y1="709.0965"
+       x1="324.98599"
+       id="linearGradient23270"
+       xlink:href="#linearGradient4239"
+       inkscape:collect="always" />
+    <linearGradient
+       gradientUnits="userSpaceOnUse"
+       y2="698.65967"
+       x2="283.47198"
+       y1="698.65967"
+       x1="306.81201"
+       id="linearGradient23262"
+       xlink:href="#linearGradient4239"
+       inkscape:collect="always" />
+    <linearGradient
+       gradientUnits="userSpaceOnUse"
+       y2="708.5025"
+       x2="192.101"
+       y1="708.5025"
+       x1="169.00999"
+       id="linearGradient23254"
+       xlink:href="#linearGradient4239"
+       inkscape:collect="always" />
+    <linearGradient
+       gradientUnits="userSpaceOnUse"
+       y2="653.22803"
+       x2="470.92151"
+       y1="683.90302"
+       x1="470.92151"
+       id="linearGradient23184"
+       xlink:href="#linearGradient4239"
+       inkscape:collect="always" />
+    <linearGradient
+       gradientUnits="userSpaceOnUse"
+       y2="682.11304"
+       x2="460.83984"
+       y1="704.41302"
+       x1="460.83984"
+       id="linearGradient23128"
+       xlink:href="#linearGradient4454"
+       inkscape:collect="always" />
+    <linearGradient
+       gradientUnits="userSpaceOnUse"
+       y2="875.35901"
+       x2="921.07153"
+       y1="811.89099"
+       x1="921.06989"
+       id="linearGradient4549"
+       xlink:href="#linearGradient3617"
+       inkscape:collect="always" />
+    <linearGradient
+       gradientUnits="userSpaceOnUse"
+       y2="227.53731"
+       x2="815.27448"
+       y1="196.562"
+       x1="809.5459"
+       id="linearGradient4523"
+       xlink:href="#linearGradient4454"
+       inkscape:collect="always" />
+    <linearGradient
+       gradientUnits="userSpaceOnUse"
+       y2="226.38307"
+       x2="735.02979"
+       y1="196.562"
+       x1="745.16968"
+       id="linearGradient4521"
+       xlink:href="#linearGradient4454"
+       inkscape:collect="always" />
+    <linearGradient
+       gradientUnits="userSpaceOnUse"
+       y2="225.0708"
+       x2="695.21423"
+       y1="196.562"
+       x1="687.56158"
+       id="linearGradient4519"
+       xlink:href="#linearGradient4454"
+       inkscape:collect="always" />
+    <linearGradient
+       gradientUnits="userSpaceOnUse"
+       y2="227.19318"
+       x2="614.63147"
+       y1="196.562"
+       x1="617.32892"
+       id="linearGradient4517"
+       xlink:href="#linearGradient4454"
+       inkscape:collect="always" />
+    <linearGradient
+       gradientUnits="userSpaceOnUse"
+       y2="224.68945"
+       x2="568.87952"
+       y1="196.562"
+       x1="568.87952"
+       id="linearGradient4515"
+       xlink:href="#linearGradient4454"
+       inkscape:collect="always" />
+    <linearGradient
+       gradientUnits="userSpaceOnUse"
+       y2="225.61612"
+       x2="491.375"
+       y1="196.562"
+       x1="494.20697"
+       id="linearGradient4513"
+       xlink:href="#linearGradient4454"
+       inkscape:collect="always" />
+    <linearGradient
+       gradientUnits="userSpaceOnUse"
+       y2="263.254"
+       x2="776.65802"
+       y1="204.83299"
+       x1="776.65802"
+       id="linearGradient4457"
+       xlink:href="#linearGradient4433"
+       inkscape:collect="always" />
+    <linearGradient
+       gradientUnits="userSpaceOnUse"
+       y2="263.254"
+       x2="653.07898"
+       y1="202.569"
+       x1="653.07898"
+       id="linearGradient4455"
+       xlink:href="#linearGradient4433"
+       inkscape:collect="always" />
+    <linearGradient
+       gradientUnits="userSpaceOnUse"
+       y2="261.349"
+       x2="530.08002"
+       y1="199.939"
+       x1="530.08002"
+       id="linearGradient4431"
+       xlink:href="#linearGradient4433"
+       inkscape:collect="always" />
+    <radialGradient
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1,0,0,0.8679236,0,21.144969)"
+       r="173.75549"
+       fy="160.0965"
+       fx="185.58749"
+       cy="160.0965"
+       cx="185.58749"
+       id="radialGradient4349"
+       xlink:href="#linearGradient4239"
+       inkscape:collect="always" />
+    <radialGradient
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1,0,0,0.8676144,0,21.203935)"
+       r="150.21651"
+       fy="160.168"
+       fx="185.54449"
+       cy="160.168"
+       cx="185.54449"
+       id="radialGradient4333"
+       xlink:href="#linearGradient4239"
+       inkscape:collect="always" />
+    <radialGradient
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1,0,0,0.8679968,0,21.144408)"
+       r="80.695"
+       fy="160.181"
+       fx="185.46899"
+       cy="160.181"
+       cx="185.46899"
+       id="radialGradient4237"
+       xlink:href="#linearGradient4239"
+       inkscape:collect="always" />
+    <linearGradient
+       y2="85.818687"
+       x2="203.76593"
+       y1="85.818687"
+       x1="148.35251"
+       gradientUnits="userSpaceOnUse"
+       id="linearGradient4159"
+       xlink:href="#linearGradient3769"
+       inkscape:collect="always" />
+    <linearGradient
+       y2="85.818687"
+       x2="203.76593"
+       y1="85.818687"
+       x1="148.35251"
+       gradientUnits="userSpaceOnUse"
+       id="linearGradient4157"
+       xlink:href="#linearGradient3769"
+       inkscape:collect="always" />
+    <linearGradient
+       y2="85.818687"
+       x2="203.76593"
+       y1="85.818687"
+       x1="148.35251"
+       gradientUnits="userSpaceOnUse"
+       id="linearGradient4135"
+       xlink:href="#linearGradient3769"
+       inkscape:collect="always" />
+    <linearGradient
+       y2="85.818687"
+       x2="203.76593"
+       y1="85.818687"
+       x1="148.35251"
+       gradientUnits="userSpaceOnUse"
+       id="linearGradient4133"
+       xlink:href="#linearGradient3769"
+       inkscape:collect="always" />
+    <linearGradient
+       gradientUnits="userSpaceOnUse"
+       y2="85.818687"
+       x2="203.76593"
+       y1="85.818687"
+       x1="148.35251"
+       id="linearGradient4067"
+       xlink:href="#linearGradient3769"
+       inkscape:collect="always" />
+    <linearGradient
+       y2="91.187752"
+       x2="195.76839"
+       y1="75.53363"
+       x1="195.76839"
+       gradientUnits="userSpaceOnUse"
+       id="linearGradient4015"
+       xlink:href="#linearGradient3953"
+       inkscape:collect="always" />
+    <linearGradient
+       y2="91.187752"
+       x2="195.76839"
+       y1="75.53363"
+       x1="195.76839"
+       gradientUnits="userSpaceOnUse"
+       id="linearGradient4002"
+       xlink:href="#linearGradient3953"
+       inkscape:collect="always" />
+    <linearGradient
+       y2="91.187752"
+       x2="195.76839"
+       y1="75.53363"
+       x1="195.76839"
+       gradientUnits="userSpaceOnUse"
+       id="linearGradient3986"
+       xlink:href="#linearGradient3953"
+       inkscape:collect="always" />
+    <linearGradient
+       gradientUnits="userSpaceOnUse"
+       y2="91.187752"
+       x2="195.76839"
+       y1="75.53363"
+       x1="195.76839"
+       id="linearGradient3970"
+       xlink:href="#linearGradient3953"
+       inkscape:collect="always" />
+    <radialGradient
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1,0,0,0.8678492,0,21.167058)"
+       r="98.546501"
+       fy="160.17349"
+       fx="185.5145"
+       cy="160.17349"
+       cx="185.5145"
+       id="radialGradient3813"
+       xlink:href="#linearGradient3769"
+       inkscape:collect="always" />
+    <radialGradient
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1,0,0,0.8675243,0,12.383766)"
+       r="103.585"
+       fy="93.4795"
+       fx="499.22101"
+       cy="93.4795"
+       cx="499.22101"
+       id="radialGradient3767"
+       xlink:href="#linearGradient4454"
+       inkscape:collect="always" />
+    <linearGradient
+       gradientUnits="userSpaceOnUse"
+       y2="621.48181"
+       x2="426.96936"
+       y1="601.258"
+       x1="426.96936"
+       id="linearGradient3727"
+       xlink:href="#linearGradient4454"
+       inkscape:collect="always" />
+    <linearGradient
+       gradientUnits="userSpaceOnUse"
+       y2="585.98187"
+       x2="455.70401"
+       y1="563.45203"
+       x1="455.70401"
+       id="linearGradient3711"
+       xlink:href="#linearGradient4454"
+       inkscape:collect="always" />
+    <linearGradient
+       id="linearGradient4454">
+      <stop
+         id="stop4456"
+         offset="0"
+         style="stop-color:#383838;stop-opacity:1;" />
+      <stop
+         id="stop4458"
+         offset="1"
+         style="stop-color:#656565;stop-opacity:1;" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient3617">
+      <stop
+         style="stop-color:#b0b0b0;stop-opacity:1;"
+         offset="0"
+         id="stop3619" />
+      <stop
+         style="stop-color:#747474;stop-opacity:1;"
+         offset="1"
+         id="stop3621" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient3769">
+      <stop
+         id="stop3771"
+         offset="0"
+         style="stop-color:#f6ff1f;stop-opacity:1;" />
+      <stop
+         id="stop3787"
+         offset="1"
+         style="stop-color:#f2f955;stop-opacity:1;" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient3953">
+      <stop
+         style="stop-color:#070707;stop-opacity:1;"
+         offset="0"
+         id="stop3955" />
+      <stop
+         style="stop-color:#363636;stop-opacity:1;"
+         offset="1"
+         id="stop3957" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient4239">
+      <stop
+         id="stop4241"
+         offset="0"
+         style="stop-color:#a7a7a7;stop-opacity:1;" />
+      <stop
+         id="stop4243"
+         offset="1"
+         style="stop-color:#949494;stop-opacity:1;" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient4433">
+      <stop
+         style="stop-color:#3e3e3e;stop-opacity:1;"
+         offset="0"
+         id="stop4435" />
+      <stop
+         id="stop4525"
+         offset="0.45578232"
+         style="stop-color:#696969;stop-opacity:1;" />
+      <stop
+         style="stop-color:#cdcdcd;stop-opacity:1;"
+         offset="1"
+         id="stop4437" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient23346">
+      <stop
+         id="stop23348"
+         offset="0"
+         style="stop-color:#333333;stop-opacity:1;" />
+      <stop
+         style="stop-color:#696969;stop-opacity:1;"
+         offset="0.31153467"
+         id="stop23350" />
+      <stop
+         id="stop23354"
+         offset="0.47788814"
+         style="stop-color:#ababab;stop-opacity:1;" />
+      <stop
+         id="stop23352"
+         offset="1"
+         style="stop-color:#a3a3a3;stop-opacity:1;" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient3858">
+      <stop
+         id="stop3860"
+         offset="0"
+         style="stop-color:#a9a9a9;stop-opacity:1" />
+      <stop
+         id="stop3862"
+         offset="1"
+         style="stop-color:#747474;stop-opacity:1;" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3769"
+       id="linearGradient8775"
+       gradientUnits="userSpaceOnUse"
+       x1="148.35251"
+       y1="85.818687"
+       x2="203.76593"
+       y2="85.818687" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4239"
+       id="radialGradient8839"
+       cx="199.43449"
+       cy="174.007"
+       fx="199.43449"
+       fy="174.007"
+       r="140.85851"
+       gradientTransform="matrix(1,0,0,0.8666712,0,23.200151)"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient8968"
+       id="linearGradient8966"
+       x1="506.65601"
+       y1="513.01099"
+       x2="606.79498"
+       y2="513.01099"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4239"
+       id="linearGradient9016"
+       x1="612.81702"
+       y1="513.79199"
+       x2="760.78998"
+       y2="513.79199"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3953"
+       id="linearGradient9119"
+       x1="130.26801"
+       y1="556.33899"
+       x2="130.26801"
+       y2="519.75488"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3617"
+       id="linearGradient5032"
+       x1="163.10179"
+       y1="608.59381"
+       x2="104.52882"
+       y2="712.66162"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3617"
+       id="linearGradient5052"
+       x1="170.21677"
+       y1="753.88794"
+       x2="102.40182"
+       y2="863.81873"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3617"
+       id="linearGradient5072"
+       x1="177.42238"
+       y1="903.24622"
+       x2="105.54353"
+       y2="1013.5434"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3617"
+       id="linearGradient5190"
+       x1="330.53"
+       y1="863.40503"
+       x2="371.73199"
+       y2="863.40503"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3617"
+       id="linearGradient5211"
+       x1="264.789"
+       y1="849.34967"
+       x2="223.40402"
+       y2="849.34967"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4433"
+       id="linearGradient5242"
+       x1="277.04199"
+       y1="979.28149"
+       x2="307.71201"
+       y2="979.28149"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3617"
+       id="linearGradient5244"
+       x1="317.44501"
+       y1="964.43719"
+       x2="275.4498"
+       y2="964.43719"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4433"
+       id="linearGradient5252"
+       x1="334.40201"
+       y1="979.88202"
+       x2="364.08401"
+       y2="979.88202"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4433"
+       id="linearGradient5260"
+       x1="337.03201"
+       y1="741.58447"
+       x2="364.63101"
+       y2="741.58447"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4433"
+       id="linearGradient5262"
+       x1="280.78201"
+       y1="743.09253"
+       x2="309.28201"
+       y2="743.09253"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4239"
+       id="linearGradient5275"
+       x1="374.31299"
+       y1="964.63818"
+       x2="332.20206"
+       y2="964.63818"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4239"
+       id="linearGradient5277"
+       gradientUnits="userSpaceOnUse"
+       x1="374.31299"
+       y1="964.63818"
+       x2="333.37042"
+       y2="964.63818" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3617"
+       id="linearGradient5295"
+       x1="375.522"
+       y1="722.58545"
+       x2="334.0433"
+       y2="722.58545"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3617"
+       id="linearGradient5297"
+       x1="319.72198"
+       y1="729.83282"
+       x2="278.34702"
+       y2="729.83282"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3858"
+       id="linearGradient5311"
+       x1="235.129"
+       y1="838.63416"
+       x2="222.808"
+       y2="838.63416"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3858"
+       id="linearGradient5325"
+       x1="251.104"
+       y1="858.354"
+       x2="263.07401"
+       y2="858.354"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3858"
+       id="linearGradient5346"
+       x1="265.83099"
+       y1="599.58728"
+       x2="224.45602"
+       y2="599.58728"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3858"
+       id="linearGradient5361"
+       x1="331.64999"
+       y1="626.8255"
+       x2="373.013"
+       y2="626.8255"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3617"
+       id="linearGradient5369"
+       x1="342.49741"
+       y1="483.48199"
+       x2="342.49741"
+       y2="462.995"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3617"
+       id="linearGradient5371"
+       x1="388.33499"
+       y1="532.24799"
+       x2="388.33499"
+       y2="555.09802"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3617"
+       id="linearGradient5373"
+       x1="290.59589"
+       y1="532.24799"
+       x2="290.59589"
+       y2="552.49884"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3617"
+       id="linearGradient5381"
+       x1="386.845"
+       y1="254.65401"
+       x2="386.845"
+       y2="232.04198"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient5397"
+       id="linearGradient5389"
+       x1="286.92001"
+       y1="518.81403"
+       x2="286.92001"
+       y2="533.59302"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient5397"
+       id="linearGradient5391"
+       x1="337.90051"
+       y1="496.505"
+       x2="337.90051"
+       y2="482.229"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient5397"
+       id="linearGradient5393"
+       x1="386.86801"
+       y1="512.08698"
+       x2="386.86801"
+       y2="533.59302"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient5397"
+       id="linearGradient5395"
+       x1="386.86801"
+       y1="271.86499"
+       x2="386.86801"
+       y2="253.64"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4433"
+       id="linearGradient5409"
+       x1="335.31195"
+       y1="553.37903"
+       x2="335.31195"
+       y2="495.40167"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4454"
+       id="linearGradient5431"
+       x1="287.63"
+       y1="347.60001"
+       x2="287.63"
+       y2="370.72601"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient5419"
+       id="linearGradient5439"
+       x1="287.95651"
+       y1="465.41959"
+       x2="287.95651"
+       y2="519.87598"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient5397"
+       id="linearGradient5447"
+       x1="386.32199"
+       y1="335.73099"
+       x2="386.32199"
+       y2="270.85699"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient5419"
+       id="linearGradient5455"
+       x1="388.013"
+       y1="449.19601"
+       x2="388.013"
+       y2="510.89545"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3617"
+       id="linearGradient5481"
+       x1="314.54099"
+       y1="361.11349"
+       x2="397.41101"
+       y2="361.11349"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3617"
+       id="linearGradient5483"
+       x1="352.6311"
+       y1="406.59241"
+       x2="313.89301"
+       y2="443.57849"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3617"
+       id="linearGradient5485"
+       gradientUnits="userSpaceOnUse"
+       x1="359.763"
+       y1="363.70459"
+       x2="322.11499"
+       y2="334.16501" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4433"
+       id="linearGradient5513"
+       x1="421.823"
+       y1="226.5195"
+       x2="463.23401"
+       y2="226.5195"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient5397"
+       id="linearGradient5521"
+       x1="462.23401"
+       y1="226.37399"
+       x2="470.37601"
+       y2="226.37399"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient5397"
+       id="linearGradient5523"
+       x1="469.29401"
+       y1="226.38499"
+       x2="481.98401"
+       y2="226.38499"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient5397"
+       id="linearGradient5525"
+       x1="480.92499"
+       y1="226.37"
+       x2="491.70001"
+       y2="226.37"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4433"
+       id="linearGradient5539"
+       x1="423.65799"
+       y1="315.625"
+       x2="465.069"
+       y2="315.625"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient5397"
+       id="linearGradient5547"
+       x1="471.129"
+       y1="315.48999"
+       x2="483.819"
+       y2="315.48999"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient5397"
+       id="linearGradient5549"
+       x1="464.069"
+       y1="315.47949"
+       x2="472.211"
+       y2="315.47949"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient5397"
+       id="linearGradient5551"
+       x1="482.76001"
+       y1="315.47549"
+       x2="493.534"
+       y2="315.47549"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4433"
+       id="linearGradient5577"
+       x1="421.72101"
+       y1="399.45001"
+       x2="465.573"
+       y2="399.45001"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient5397"
+       id="linearGradient5585"
+       x1="464.573"
+       y1="399.30499"
+       x2="473.147"
+       y2="399.30499"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient5397"
+       id="linearGradient5587"
+       x1="472.06"
+       y1="399.31601"
+       x2="485.45599"
+       y2="399.31601"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient5397"
+       id="linearGradient5589"
+       x1="484.39301"
+       y1="399.30099"
+       x2="495.758"
+       y2="399.30099"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3858"
+       id="linearGradient5607"
+       x1="455.24811"
+       y1="186.39485"
+       x2="426.89725"
+       y2="162.81592"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3858"
+       id="linearGradient5665"
+       x1="451.25049"
+       y1="219.04785"
+       x2="480.67801"
+       y2="203.76041"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3858"
+       id="linearGradient5667"
+       x1="462.00616"
+       y1="273.94519"
+       x2="426.9032"
+       y2="251.40269"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3858"
+       id="linearGradient5669"
+       x1="443.60941"
+       y1="307.11691"
+       x2="480.67801"
+       y2="290.27481"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3858"
+       id="linearGradient5671"
+       x1="461.62384"
+       y1="356.99338"
+       x2="423.65799"
+       y2="334.45087"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3858"
+       id="linearGradient5673"
+       x1="423.65799"
+       y1="368.65903"
+       x2="468.26535"
+       y2="389.64688"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient5746"
+       id="linearGradient5707"
+       x1="425.39499"
+       y1="722.95001"
+       x2="461.27301"
+       y2="722.95001"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4433"
+       id="linearGradient5744"
+       x1="496.68701"
+       y1="686.57239"
+       x2="462.78757"
+       y2="686.57239"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient8968"
+       id="linearGradient5752"
+       gradientUnits="userSpaceOnUse"
+       x1="506.65601"
+       y1="513.01099"
+       x2="606.79498"
+       y2="513.01099" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient8968"
+       id="linearGradient5755"
+       gradientUnits="userSpaceOnUse"
+       x1="506.65601"
+       y1="513.01099"
+       x2="606.79498"
+       y2="513.01099" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient8968"
+       id="linearGradient5758"
+       gradientUnits="userSpaceOnUse"
+       x1="506.65601"
+       y1="513.01099"
+       x2="606.79498"
+       y2="513.01099" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4239"
+       id="radialGradient5761"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1,0,0,0.8666712,0,23.200151)"
+       cx="199.43449"
+       cy="174.007"
+       fx="199.43449"
+       fy="174.007"
+       r="140.85851" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3953"
+       id="linearGradient4056"
+       x1="145.35201"
+       y1="484.57208"
+       x2="145.35201"
+       y2="447.461"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3953"
+       id="linearGradient4064"
+       x1="130.358"
+       y1="411.80499"
+       x2="130.358"
+       y2="371.39301"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
+  <sodipodi:namedview
+     inkscape:window-height="949"
+     inkscape:window-width="1280"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="1"
+     guidetolerance="10.0"
+     gridtolerance="10.0"
+     objecttolerance="10.0"
+     borderopacity="1.0"
+     bordercolor="#666666"
+     pagecolor="#a5a5a5"
+     id="base"
+     showgrid="false"
+     inkscape:zoom="1.3644951"
+     inkscape:cx="220.46518"
+     inkscape:cy="464.88729"
+     inkscape:window-x="0"
+     inkscape:window-y="25"
+     inkscape:current-layer="svg2"
+     showguides="true"
+     inkscape:guide-bbox="true" />
+  <desc
+     id="desc4">UV-Map from Object: Empty.001. Exported from Blender3D with UV Exportscript</desc>
+  <path
+     style="fill:#a1a1a1;stroke:none;stroke-width:1px;fill-opacity:1"
+     d="M 914.193,359.489 L 912.01,397.744 L 916.347,397.744 L 914.193,359.489 z"
+     id="polygon12" />
+  <path
+     style="fill:#a1a1a1;stroke:none;stroke-width:1px;fill-opacity:1"
+     d="M 874.706,361.261 L 872.523,399.516 L 876.86,399.516 L 874.706,361.261 z"
+     id="polygon14" />
+  <path
+     style="fill:#a1a1a1;stroke:none;stroke-width:1px;fill-opacity:1"
+     d="M 834.381,361.299 L 832.199,399.554 L 836.536,399.554 L 834.381,361.299 z"
+     id="polygon16" />
+  <path
+     style="fill:#a1a1a1;stroke:none;stroke-width:1px;fill-opacity:1"
+     d="M 792.516,362.139 L 790.342,400.245 L 794.662,400.245 L 792.516,362.139 z"
+     id="polygon18" />
+  <path
+     style="fill:#a1a1a1;stroke:none;stroke-width:1px;fill-opacity:1"
+     d="M 997.903,360.846 L 995.734,398.855 L 1000.044,398.855 L 997.903,360.846 z"
+     id="polygon20" />
+  <path
+     style="fill:#a1a1a1;stroke:none;stroke-width:1px;fill-opacity:1"
+     d="M 956.422,359.228 L 954.24,397.483 L 958.577,397.483 L 956.422,359.228 z"
+     id="polygon22" />
+  <g
+     id="g4158"
+     style="fill:#a1a1a1;fill-opacity:1;stroke:none">
+    <path
+       id="polygon24"
+       d="M 788.162,718.482 L 786.003,756.333 L 790.293,756.333 L 788.162,718.482 z"
+       style="fill:#a1a1a1;stroke:none;stroke-width:1px;fill-opacity:1" />
+    <path
+       id="polygon26"
+       d="M 994.078,717.406 L 991.923,755.201 L 996.207,755.201 L 994.078,717.406 z"
+       style="fill:#a1a1a1;stroke:none;stroke-width:1px;fill-opacity:1" />
+    <path
+       id="polygon28"
+       d="M 954.877,718.569 L 952.728,756.238 L 956.998,756.238 L 954.877,718.569 z"
+       style="fill:#a1a1a1;stroke:none;stroke-width:1px;fill-opacity:1" />
+    <path
+       id="polygon30"
+       d="M 913.516,718.076 L 911.358,755.909 L 915.646,755.909 L 913.516,718.076 z"
+       style="fill:#a1a1a1;stroke:none;stroke-width:1px;fill-opacity:1" />
+    <path
+       id="polygon32"
+       d="M 871.881,720.211 L 869.736,757.822 L 873.999,757.822 L 871.881,720.211 z"
+       style="fill:#a1a1a1;stroke:none;stroke-width:1px;fill-opacity:1" />
+    <path
+       id="polygon34"
+       d="M 829.378,720.183 L 827.227,757.896 L 831.502,757.896 L 829.378,720.183 z"
+       style="fill:#a1a1a1;stroke:none;stroke-width:1px;fill-opacity:1" />
+  </g>
+  <g
+     id="g4017"
+     style="fill:#a1a1a1;fill-opacity:1;stroke:none">
+    <path
+       id="polygon36"
+       d="M 790.902,11.329 L 788.721,49.584 L 793.056,49.584 L 790.902,11.329 z"
+       style="fill:#a1a1a1;stroke:none;stroke-width:1px;fill-opacity:1" />
+    <path
+       id="polygon38"
+       d="M 1000.005,14.07 L 997.848,51.89 L 1002.134,51.89 L 1000.005,14.07 z"
+       style="fill:#a1a1a1;stroke:none;stroke-width:1px;fill-opacity:1" />
+    <path
+       id="polygon40"
+       d="M 959.937,9.989 L 957.75,48.336 L 962.096,48.336 L 959.937,9.989 z"
+       style="fill:#a1a1a1;stroke:none;stroke-width:1px;fill-opacity:1" />
+    <path
+       id="polygon42"
+       d="M 919.566,13.958 L 917.404,51.876 L 921.701,51.876 L 919.566,13.958 z"
+       style="fill:#a1a1a1;stroke:none;stroke-width:1px;fill-opacity:1" />
+    <path
+       id="polygon44"
+       d="M 878.065,14.356 L 875.903,52.265 L 880.199,52.265 L 878.065,14.356 z"
+       style="fill:#a1a1a1;stroke:none;stroke-width:1px;fill-opacity:1" />
+    <path
+       id="polygon46"
+       d="M 836.089,11.308 L 833.908,49.563 L 838.243,49.563 L 836.089,11.308 z"
+       style="fill:#a1a1a1;stroke:none;stroke-width:1px;fill-opacity:1" />
+  </g>
+  <g
+     id="g8841"
+     style="stroke:none;stroke-opacity:1;fill-opacity:1;fill:#aaaaaa">
+    <path
+       id="polygon54"
+       d="M 352.748,173.955 L 275.19,39.727 L 269.572,52.429 L 339.793,173.959 L 352.748,173.955 z"
+       style="fill:#aaaaaa;stroke:none;stroke-width:1px;stroke-opacity:1;fill-opacity:1" />
+    <path
+       id="polygon56"
+       d="M 275.282,308.236 L 352.748,173.955 L 339.793,173.959 L 269.655,295.537 L 275.282,308.236 z"
+       style="fill:#aaaaaa;stroke:none;stroke-width:1px;stroke-opacity:1;fill-opacity:1" />
+    <path
+       id="polygon58"
+       d="M 275.19,39.727 L 120.167,39.78 L 129.214,52.477 L 269.572,52.429 L 275.19,39.727 z"
+       style="fill:#aaaaaa;stroke:none;stroke-width:1px;stroke-opacity:1;fill-opacity:1" />
+    <path
+       id="polygon60"
+       d="M 120.167,39.78 L 42.7,174.061 L 59.076,174.055 L 129.214,52.477 L 120.167,39.78 z"
+       style="fill:#aaaaaa;stroke:none;stroke-width:1px;stroke-opacity:1;fill-opacity:1" />
+    <path
+       id="polygon62"
+       d="M 42.7,174.061 L 120.258,308.289 L 129.297,295.585 L 59.076,174.055 L 42.7,174.061 z"
+       style="fill:#aaaaaa;stroke:none;stroke-width:1px;stroke-opacity:1;fill-opacity:1" />
+    <path
+       id="polygon64"
+       d="M 120.258,308.289 L 275.282,308.236 L 269.655,295.537 L 129.297,295.585 L 120.258,308.289 z"
+       style="fill:#aaaaaa;stroke:none;stroke-width:1px;stroke-opacity:1;fill-opacity:1" />
+  </g>
+  <g
+     id="g4104"
+     style="fill:#747474;fill-opacity:1;stroke:none">
+    <path
+       id="polygon94"
+       d="M 899.063,606.145 L 896.822,610.072 L 931.342,610.072 L 929.129,606.145 L 899.063,606.145 z"
+       style="fill:#747474;stroke:none;stroke-width:1px;fill-opacity:1" />
+    <path
+       id="polygon96"
+       d="M 859.576,607.917 L 857.335,611.844 L 891.855,611.844 L 889.642,607.917 L 859.576,607.917 z"
+       style="fill:#747474;stroke:none;stroke-width:1px;fill-opacity:1" />
+    <path
+       id="polygon98"
+       d="M 819.252,607.955 L 817.011,611.882 L 851.531,611.882 L 849.318,607.955 L 819.252,607.955 z"
+       style="fill:#747474;stroke:none;stroke-width:1px;fill-opacity:1" />
+    <path
+       id="polygon100"
+       d="M 777.446,607.834 L 775.213,611.746 L 809.599,611.746 L 807.394,607.834 L 777.446,607.834 z"
+       style="fill:#747474;stroke:none;stroke-width:1px;fill-opacity:1" />
+    <path
+       id="polygon102"
+       d="M 982.871,605.917 L 980.644,609.819 L 1014.943,609.819 L 1012.744,605.917 L 982.871,605.917 z"
+       style="fill:#747474;stroke:none;stroke-width:1px;fill-opacity:1" />
+    <path
+       id="polygon104"
+       d="M 941.294,605.884 L 939.052,609.811 L 973.572,609.811 L 971.359,605.884 L 941.294,605.884 z"
+       style="fill:#747474;stroke:none;stroke-width:1px;fill-opacity:1" />
+  </g>
+  <g
+     id="g4220"
+     style="fill:#747474;fill-opacity:1;stroke:none">
+    <path
+       id="polygon106"
+       d="M 773.193,962.538 L 771.09,966.58 L 805.017,966.58 L 802.942,962.538 L 773.193,962.538 z"
+       style="fill:#747474;stroke:none;stroke-width:1px;fill-opacity:1" />
+    <path
+       id="polygon108"
+       d="M 979.131,961.096 L 977.032,965.131 L 1010.909,965.131 L 1008.836,961.096 L 979.131,961.096 z"
+       style="fill:#747474;stroke:none;stroke-width:1px;fill-opacity:1" />
+    <path
+       id="polygon110"
+       d="M 939.979,961.447 L 937.887,965.47 L 971.651,965.47 L 969.585,961.447 L 939.979,961.447 z"
+       style="fill:#747474;stroke:none;stroke-width:1px;fill-opacity:1" />
+    <path
+       id="polygon112"
+       d="M 898.553,962.011 L 896.452,966.051 L 930.362,966.051 L 928.288,962.011 L 898.553,962.011 z"
+       style="fill:#747474;stroke:none;stroke-width:1px;fill-opacity:1" />
+    <path
+       id="polygon114"
+       d="M 857.007,962.715 L 854.918,966.731 L 888.63,966.731 L 886.567,962.715 L 857.007,962.715 z"
+       style="fill:#747474;stroke:none;stroke-width:1px;fill-opacity:1" />
+    <path
+       id="polygon116"
+       d="M 814.463,963.347 L 812.368,967.374 L 846.171,967.374 L 844.103,963.347 L 814.463,963.347 z"
+       style="fill:#747474;stroke:none;stroke-width:1px;fill-opacity:1" />
+  </g>
+  <g
+     id="g4057"
+     style="fill:#747474;fill-opacity:1;stroke:none">
+    <path
+       id="polygon118"
+       d="M 775.773,257.985 L 773.469,261.828 L 808.113,261.828 L 805.839,257.985 L 775.773,257.985 z"
+       style="fill:#747474;stroke:none;stroke-width:1px;fill-opacity:1" />
+    <path
+       id="polygon120"
+       d="M 985.048,257.922 L 982.77,261.721 L 1017.021,261.721 L 1014.772,257.922 L 985.048,257.922 z"
+       style="fill:#747474;stroke:none;stroke-width:1px;fill-opacity:1" />
+    <path
+       id="polygon122"
+       d="M 944.771,257.234 L 942.462,261.087 L 977.189,261.087 L 974.909,257.234 L 944.771,257.234 z"
+       style="fill:#747474;stroke:none;stroke-width:1px;fill-opacity:1" />
+    <path
+       id="polygon126"
+       d="M 863.072,258.782 L 860.79,262.591 L 895.121,262.591 L 892.867,258.782 L 863.072,258.782 z"
+       style="fill:#747474;stroke:none;stroke-width:1px;fill-opacity:1" />
+    <path
+       id="polygon128"
+       d="M 820.96,257.964 L 818.657,261.807 L 853.301,261.807 L 851.026,257.964 L 820.96,257.964 z"
+       style="fill:#747474;stroke:none;stroke-width:1px;fill-opacity:1" />
+  </g>
+  <g
+     id="g4096"
+     style="fill:#747474;fill-opacity:1;stroke:none">
+    <path
+       id="polygon130"
+       d="M 899.952,557.932 L 901.874,564.241 L 926.355,564.241 L 928.252,557.932 L 899.952,557.932 z"
+       style="fill:#747474;stroke:none;stroke-width:1px;fill-opacity:1" />
+    <path
+       id="polygon132"
+       d="M 860.465,559.704 L 862.387,566.013 L 886.868,566.013 L 888.765,559.704 L 860.465,559.704 z"
+       style="fill:#747474;stroke:none;stroke-width:1px;fill-opacity:1" />
+    <path
+       id="polygon134"
+       d="M 820.141,559.741 L 822.062,566.05 L 846.544,566.05 L 848.441,559.741 L 820.141,559.741 z"
+       style="fill:#747474;stroke:none;stroke-width:1px;fill-opacity:1" />
+    <path
+       id="polygon136"
+       d="M 778.331,559.808 L 780.245,566.093 L 804.631,566.093 L 806.52,559.808 L 778.331,559.808 z"
+       style="fill:#747474;stroke:none;stroke-width:1px;fill-opacity:1" />
+    <path
+       id="polygon138"
+       d="M 983.755,558.014 L 985.664,564.282 L 1009.987,564.282 L 1011.872,558.014 L 983.755,558.014 z"
+       style="fill:#747474;stroke:none;stroke-width:1px;fill-opacity:1" />
+    <path
+       id="polygon140"
+       d="M 942.182,557.67 L 944.104,563.979 L 968.585,563.979 L 970.482,557.67 L 942.182,557.67 z"
+       style="fill:#747474;stroke:none;stroke-width:1px;fill-opacity:1" />
+  </g>
+  <path
+     style="fill:#747474;stroke:none;stroke-width:1px;fill-opacity:1"
+     d="M 774.008,914.941 L 775.973,921.075 L 800.196,921.075 L 802.136,914.941 L 774.008,914.941 z"
+     id="polygon142" />
+  <path
+     style="fill:#747474;stroke:none;stroke-width:1px;fill-opacity:1"
+     d="M 979.946,913.57 L 981.908,919.695 L 1006.095,919.695 L 1008.031,913.57 L 979.946,913.57 z"
+     id="polygon144" />
+  <path
+     style="fill:#747474;stroke:none;stroke-width:1px;fill-opacity:1"
+     d="M 940.791,914.08 L 942.747,920.185 L 966.853,920.185 L 968.783,914.08 L 940.791,914.08 z"
+     id="polygon146" />
+  <path
+     style="fill:#747474;stroke:none;stroke-width:1px;fill-opacity:1"
+     d="M 899.369,914.438 L 901.333,920.569 L 925.543,920.569 L 927.483,914.438 L 899.369,914.438 z"
+     id="polygon148" />
+  <path
+     style="fill:#747474;stroke:none;stroke-width:1px;fill-opacity:1"
+     d="M 857.818,915.42 L 859.77,921.516 L 883.839,921.516 L 885.767,915.42 L 857.818,915.42 z"
+     id="polygon150" />
+  <path
+     style="fill:#747474;stroke:none;stroke-width:1px;fill-opacity:1"
+     d="M 815.276,915.924 L 817.234,922.036 L 841.368,922.036 L 843.301,915.924 L 815.276,915.924 z"
+     id="polygon152" />
+  <g
+     id="g4042"
+     style="fill:#747474;fill-opacity:1;stroke:none">
+    <path
+       id="polygon154"
+       d="M 776.645,209.8 L 778.583,216.08 L 803.064,216.08 L 804.978,209.8 L 776.645,209.8 z"
+       style="fill:#747474;stroke:none;stroke-width:1px;fill-opacity:1" />
+    <path
+       id="polygon156"
+       d="M 985.91,210.285 L 987.826,216.494 L 1012.029,216.494 L 1013.921,210.285 L 985.91,210.285 z"
+       style="fill:#747474;stroke:none;stroke-width:1px;fill-opacity:1" />
+    <path
+       id="polygon158"
+       d="M 945.645,208.935 L 947.589,215.23 L 972.128,215.23 L 974.047,208.935 L 945.645,208.935 z"
+       style="fill:#747474;stroke:none;stroke-width:1px;fill-opacity:1" />
+    <path
+       id="polygon162"
+       d="M 863.936,211.033 L 865.857,217.257 L 890.117,217.257 L 892.014,211.033 L 863.936,211.033 z"
+       style="fill:#747474;stroke:none;stroke-width:1px;fill-opacity:1" />
+    <path
+       id="polygon164"
+       d="M 821.832,209.779 L 823.771,216.059 L 848.252,216.059 L 850.166,209.779 L 821.832,209.779 z"
+       style="fill:#747474;stroke:none;stroke-width:1px;fill-opacity:1" />
+  </g>
+  <g
+     id="g4112"
+     style="fill:#a1a1a1;fill-opacity:1;stroke:none">
+    <path
+       id="polygon166"
+       d="M 908.368,460.761 L 905.121,502.269 L 923.148,502.269 L 919.943,460.761 L 908.368,460.761 z"
+       style="fill:#a1a1a1;stroke:none;stroke-width:1px;fill-opacity:1" />
+    <path
+       id="polygon168"
+       d="M 868.882,462.533 L 865.634,504.041 L 883.662,504.041 L 880.456,462.533 L 868.882,462.533 z"
+       style="fill:#a1a1a1;stroke:none;stroke-width:1px;fill-opacity:1" />
+    <path
+       id="polygon170"
+       d="M 828.557,462.571 L 825.31,504.078 L 843.337,504.078 L 840.131,462.571 L 828.557,462.571 z"
+       style="fill:#a1a1a1;stroke:none;stroke-width:1px;fill-opacity:1" />
+    <path
+       id="polygon172"
+       d="M 786.715,463.016 L 783.48,504.362 L 801.437,504.362 L 798.243,463.016 L 786.715,463.016 z"
+       style="fill:#a1a1a1;stroke:none;stroke-width:1px;fill-opacity:1" />
+    <path
+       id="polygon174"
+       d="M 992.116,461.468 L 988.89,502.708 L 1006.802,502.708 L 1003.616,461.468 L 992.116,461.468 z"
+       style="fill:#a1a1a1;stroke:none;stroke-width:1px;fill-opacity:1" />
+    <path
+       id="polygon176"
+       d="M 950.598,460.5 L 947.351,502.008 L 965.379,502.008 L 962.172,460.5 L 950.598,460.5 z"
+       style="fill:#a1a1a1;stroke:none;stroke-width:1px;fill-opacity:1" />
+  </g>
+  <g
+     id="g4182"
+     style="fill:#a1a1a1;fill-opacity:1;stroke:none">
+    <path
+       id="polygon178"
+       d="M 782.399,818.687 L 779.186,857.819 L 797.024,857.819 L 793.852,818.687 L 782.399,818.687 z"
+       style="fill:#a1a1a1;stroke:none;stroke-width:1px;fill-opacity:1" />
+    <path
+       id="polygon180"
+       d="M 988.324,817.46 L 985.116,856.534 L 1002.926,856.534 L 999.759,817.46 L 988.324,817.46 z"
+       style="fill:#a1a1a1;stroke:none;stroke-width:1px;fill-opacity:1" />
+    <path
+       id="polygon182"
+       d="M 949.142,818.29 L 945.944,857.234 L 963.695,857.234 L 960.538,818.29 L 949.142,818.29 z"
+       style="fill:#a1a1a1;stroke:none;stroke-width:1px;fill-opacity:1" />
+    <path
+       id="polygon184"
+       d="M 907.756,818.231 L 904.544,857.345 L 922.372,857.345 L 919.202,818.231 L 907.756,818.231 z"
+       style="fill:#a1a1a1;stroke:none;stroke-width:1px;fill-opacity:1" />
+    <path
+       id="polygon186"
+       d="M 866.156,819.778 L 862.963,858.662 L 880.687,858.662 L 877.535,819.778 L 866.156,819.778 z"
+       style="fill:#a1a1a1;stroke:none;stroke-width:1px;fill-opacity:1" />
+    <path
+       id="polygon188"
+       d="M 823.636,820.021 L 820.435,859.011 L 838.207,859.011 L 835.046,820.021 L 823.636,820.021 z"
+       style="fill:#a1a1a1;stroke:none;stroke-width:1px;fill-opacity:1" />
+  </g>
+  <g
+     id="g4001"
+     style="fill:#a1a1a1;fill-opacity:1;stroke:none">
+    <path
+       id="polygon190"
+       d="M 785.078,112.601 L 781.831,154.191 L 799.858,154.191 L 796.652,112.601 L 785.078,112.601 z"
+       style="fill:#a1a1a1;stroke:none;stroke-width:1px;fill-opacity:1" />
+    <path
+       id="polygon192"
+       d="M 994.247,114.191 L 991.037,155.309 L 1008.859,155.309 L 1005.69,114.191 L 994.247,114.191 z"
+       style="fill:#a1a1a1;stroke:none;stroke-width:1px;fill-opacity:1" />
+    <path
+       id="polygon194"
+       d="M 954.099,111.503 L 950.844,153.193 L 968.914,153.193 L 965.7,111.503 L 954.099,111.503 z"
+       style="fill:#a1a1a1;stroke:none;stroke-width:1px;fill-opacity:1" />
+    <path
+       id="polygon196"
+       d="M 913.793,114.339 L 910.574,155.563 L 928.443,155.563 L 925.265,114.339 L 913.793,114.339 z"
+       style="fill:#a1a1a1;stroke:none;stroke-width:1px;fill-opacity:1" />
+    <path
+       id="polygon198"
+       d="M 872.294,114.713 L 869.075,155.927 L 886.94,155.927 L 883.763,114.713 L 872.294,114.713 z"
+       style="fill:#a1a1a1;stroke:none;stroke-width:1px;fill-opacity:1" />
+    <path
+       id="polygon200"
+       d="M 830.265,112.58 L 827.018,154.17 L 845.046,154.17 L 841.839,112.58 L 830.265,112.58 z"
+       style="fill:#a1a1a1;stroke:none;stroke-width:1px;fill-opacity:1" />
+  </g>
+  <g
+     id="g4080"
+     style="fill:#747474;fill-opacity:1;stroke:none">
+    <path
+       id="polygon202"
+       d="M 907.637,452.598 L 908.368,460.761 L 919.943,460.761 L 920.664,452.598 L 907.637,452.598 z"
+       style="fill:#747474;stroke:none;stroke-width:1px;fill-opacity:1" />
+    <path
+       id="polygon204"
+       d="M 868.15,454.37 L 868.882,462.533 L 880.456,462.533 L 881.177,454.37 L 868.15,454.37 z"
+       style="fill:#747474;stroke:none;stroke-width:1px;fill-opacity:1" />
+    <path
+       id="polygon206"
+       d="M 827.826,454.408 L 828.557,462.571 L 840.131,462.571 L 840.853,454.408 L 827.826,454.408 z"
+       style="fill:#747474;stroke:none;stroke-width:1px;fill-opacity:1" />
+    <path
+       id="polygon208"
+       d="M 785.986,454.885 L 786.715,463.016 L 798.243,463.016 L 798.962,454.885 L 785.986,454.885 z"
+       style="fill:#747474;stroke:none;stroke-width:1px;fill-opacity:1" />
+    <path
+       id="polygon210"
+       d="M 991.39,453.357 L 992.116,461.468 L 1003.616,461.468 L 1004.333,453.357 L 991.39,453.357 z"
+       style="fill:#747474;stroke:none;stroke-width:1px;fill-opacity:1" />
+    <path
+       id="polygon212"
+       d="M 949.867,452.337 L 950.598,460.5 L 962.172,460.5 L 962.894,452.337 L 949.867,452.337 z"
+       style="fill:#747474;stroke:none;stroke-width:1px;fill-opacity:1" />
+  </g>
+  <g
+     id="g4236"
+     style="fill:#747474;fill-opacity:1;stroke:none">
+    <path
+       id="polygon214"
+       d="M 781.72,810.445 L 782.399,818.687 L 793.852,818.687 L 794.521,810.445 L 781.72,810.445 z"
+       style="fill:#747474;stroke:none;stroke-width:1px;fill-opacity:1" />
+    <path
+       id="polygon216"
+       d="M 987.647,809.231 L 988.324,817.46 L 999.759,817.46 L 1000.429,809.231 L 987.647,809.231 z"
+       style="fill:#747474;stroke:none;stroke-width:1px;fill-opacity:1" />
+    <path
+       id="polygon218"
+       d="M 948.466,810.089 L 949.142,818.29 L 960.538,818.29 L 961.205,810.089 L 948.466,810.089 z"
+       style="fill:#747474;stroke:none;stroke-width:1px;fill-opacity:1" />
+    <path
+       id="polygon220"
+       d="M 907.077,809.994 L 907.756,818.231 L 919.202,818.231 L 919.872,809.994 L 907.077,809.994 z"
+       style="fill:#747474;stroke:none;stroke-width:1px;fill-opacity:1" />
+    <path
+       id="polygon222"
+       d="M 865.481,811.59 L 866.156,819.778 L 877.535,819.778 L 878.2,811.59 L 865.481,811.59 z"
+       style="fill:#747474;stroke:none;stroke-width:1px;fill-opacity:1" />
+    <path
+       id="polygon224"
+       d="M 822.96,811.81 L 823.636,820.021 L 835.046,820.021 L 835.714,811.81 L 822.96,811.81 z"
+       style="fill:#747474;stroke:none;stroke-width:1px;fill-opacity:1" />
+  </g>
+  <g
+     id="g4033"
+     style="fill:#747474;fill-opacity:1;stroke:none">
+    <path
+       id="polygon226"
+       d="M 784.403,104.232 L 785.078,112.601 L 796.652,112.601 L 797.319,104.232 L 784.403,104.232 z"
+       style="fill:#747474;stroke:none;stroke-width:1px;fill-opacity:1" />
+    <path
+       id="polygon228"
+       d="M 993.58,105.917 L 994.247,114.191 L 1005.69,114.191 L 1006.349,105.917 L 993.58,105.917 z"
+       style="fill:#747474;stroke:none;stroke-width:1px;fill-opacity:1" />
+    <path
+       id="polygon230"
+       d="M 953.422,103.114 L 954.099,111.503 L 965.7,111.503 L 966.368,103.114 L 953.422,103.114 z"
+       style="fill:#747474;stroke:none;stroke-width:1px;fill-opacity:1" />
+    <path
+       id="polygon232"
+       d="M 913.124,106.043 L 913.793,114.339 L 925.265,114.339 L 925.925,106.043 L 913.124,106.043 z"
+       style="fill:#747474;stroke:none;stroke-width:1px;fill-opacity:1" />
+    <path
+       id="polygon234"
+       d="M 871.625,106.419 L 872.294,114.713 L 883.763,114.713 L 884.423,106.419 L 871.625,106.419 z"
+       style="fill:#747474;stroke:none;stroke-width:1px;fill-opacity:1" />
+    <path
+       id="polygon236"
+       d="M 829.59,104.211 L 830.265,112.58 L 841.839,112.58 L 842.506,104.211 L 829.59,104.211 z"
+       style="fill:#747474;stroke:none;stroke-width:1px;fill-opacity:1" />
+  </g>
+  <g
+     id="g4072"
+     style="fill:#747474;fill-opacity:1;stroke:none">
+    <path
+       id="polygon238"
+       d="M 912.01,397.744 L 910.586,404.521 L 917.753,404.521 L 916.347,397.744 L 912.01,397.744 z"
+       style="fill:#747474;stroke:none;stroke-width:1px;fill-opacity:1" />
+    <path
+       id="polygon240"
+       d="M 872.523,399.516 L 871.099,406.293 L 878.266,406.293 L 876.86,399.516 L 872.523,399.516 z"
+       style="fill:#747474;stroke:none;stroke-width:1px;fill-opacity:1" />
+    <path
+       id="polygon242"
+       d="M 832.199,399.554 L 830.775,406.331 L 837.942,406.331 L 836.536,399.554 L 832.199,399.554 z"
+       style="fill:#747474;stroke:none;stroke-width:1px;fill-opacity:1" />
+    <path
+       id="polygon244"
+       d="M 790.342,400.245 L 788.924,406.995 L 796.062,406.995 L 794.662,400.245 L 790.342,400.245 z"
+       style="fill:#747474;stroke:none;stroke-width:1px;fill-opacity:1" />
+    <path
+       id="polygon246"
+       d="M 995.734,398.855 L 994.32,405.589 L 1001.441,405.589 L 1000.044,398.855 L 995.734,398.855 z"
+       style="fill:#747474;stroke:none;stroke-width:1px;fill-opacity:1" />
+    <path
+       id="polygon248"
+       d="M 954.24,397.483 L 952.816,404.26 L 959.983,404.26 L 958.577,397.483 L 954.24,397.483 z"
+       style="fill:#747474;stroke:none;stroke-width:1px;fill-opacity:1" />
+  </g>
+  <g
+     id="g4166"
+     style="fill:#747474;fill-opacity:1;stroke:none">
+    <path
+       id="polygon250"
+       d="M 786.003,756.333 L 784.618,763.203 L 791.661,763.203 L 790.293,756.333 L 786.003,756.333 z"
+       style="fill:#747474;stroke:none;stroke-width:1px;fill-opacity:1" />
+    <path
+       id="polygon252"
+       d="M 991.923,755.201 L 990.54,762.06 L 997.572,762.06 L 996.207,755.201 L 991.923,755.201 z"
+       style="fill:#747474;stroke:none;stroke-width:1px;fill-opacity:1" />
+    <path
+       id="polygon254"
+       d="M 952.728,756.238 L 951.35,763.075 L 958.358,763.075 L 956.998,756.238 L 952.728,756.238 z"
+       style="fill:#747474;stroke:none;stroke-width:1px;fill-opacity:1" />
+    <path
+       id="polygon256"
+       d="M 911.358,755.909 L 909.973,762.775 L 917.012,762.775 L 915.646,755.909 L 911.358,755.909 z"
+       style="fill:#747474;stroke:none;stroke-width:1px;fill-opacity:1" />
+    <path
+       id="polygon258"
+       d="M 869.736,757.822 L 868.36,764.648 L 875.358,764.648 L 873.999,757.822 L 869.736,757.822 z"
+       style="fill:#747474;stroke:none;stroke-width:1px;fill-opacity:1" />
+    <path
+       id="polygon260"
+       d="M 827.227,757.896 L 825.847,764.74 L 832.864,764.74 L 831.502,757.896 L 827.227,757.896 z"
+       style="fill:#747474;stroke:none;stroke-width:1px;fill-opacity:1" />
+  </g>
+  <g
+     id="g4025"
+     style="fill:#747474;fill-opacity:1;stroke:none">
+    <path
+       id="polygon262"
+       d="M 788.721,49.584 L 787.326,56.567 L 794.432,56.567 L 793.056,49.584 L 788.721,49.584 z"
+       style="fill:#747474;stroke:none;stroke-width:1px;fill-opacity:1" />
+    <path
+       id="polygon264"
+       d="M 997.848,51.89 L 996.47,58.793 L 1003.495,58.793 L 1002.134,51.89 L 997.848,51.89 z"
+       style="fill:#747474;stroke:none;stroke-width:1px;fill-opacity:1" />
+    <path
+       id="polygon266"
+       d="M 957.75,48.336 L 956.353,55.335 L 963.475,55.335 L 962.096,48.336 L 957.75,48.336 z"
+       style="fill:#747474;stroke:none;stroke-width:1px;fill-opacity:1" />
+    <path
+       id="polygon268"
+       d="M 917.404,51.876 L 916.022,58.797 L 923.065,58.797 L 921.701,51.876 L 917.404,51.876 z"
+       style="fill:#747474;stroke:none;stroke-width:1px;fill-opacity:1" />
+    <path
+       id="polygon270"
+       d="M 875.903,52.265 L 874.522,59.184 L 881.563,59.184 L 880.199,52.265 L 875.903,52.265 z"
+       style="fill:#747474;stroke:none;stroke-width:1px;fill-opacity:1" />
+    <path
+       id="polygon272"
+       d="M 833.908,49.563 L 832.514,56.546 L 839.62,56.546 L 838.243,49.563 L 833.908,49.563 z"
+       style="fill:#747474;stroke:none;stroke-width:1px;fill-opacity:1" />
+  </g>
+  <g
+     id="g4120"
+     style="stroke:none;fill:#0f0f0f;fill-opacity:1">
+    <path
+       id="polygon274"
+       d="M 910.586,404.521 L 907.637,452.598 L 920.664,452.598 L 917.753,404.521 L 910.586,404.521 z"
+       style="fill:#0f0f0f;stroke:none;stroke-width:1px;fill-opacity:1" />
+    <path
+       id="polygon276"
+       d="M 871.099,406.293 L 868.15,454.37 L 881.177,454.37 L 878.266,406.293 L 871.099,406.293 z"
+       style="fill:#0f0f0f;stroke:none;stroke-width:1px;fill-opacity:1" />
+    <path
+       id="polygon278"
+       d="M 830.775,406.331 L 827.826,454.408 L 840.853,454.408 L 837.942,406.331 L 830.775,406.331 z"
+       style="fill:#0f0f0f;stroke:none;stroke-width:1px;fill-opacity:1" />
+    <path
+       id="polygon280"
+       d="M 788.924,406.995 L 785.986,454.885 L 798.962,454.885 L 796.062,406.995 L 788.924,406.995 z"
+       style="fill:#0f0f0f;stroke:none;stroke-width:1px;fill-opacity:1" />
+    <path
+       id="polygon282"
+       d="M 994.32,405.589 L 991.39,453.357 L 1004.333,453.357 L 1001.441,405.589 L 994.32,405.589 z"
+       style="fill:#0f0f0f;stroke:none;stroke-width:1px;fill-opacity:1" />
+    <path
+       id="polygon284"
+       d="M 952.816,404.26 L 949.867,452.337 L 962.894,452.337 L 959.983,404.26 L 952.816,404.26 z"
+       style="fill:#0f0f0f;stroke:none;stroke-width:1px;fill-opacity:1" />
+  </g>
+  <g
+     id="g4174"
+     style="fill:#0f0f0f;fill-opacity:1;stroke:none">
+    <path
+       id="polygon286"
+       d="M 784.618,763.203 L 781.72,810.445 L 794.521,810.445 L 791.661,763.203 L 784.618,763.203 z"
+       style="fill:#0f0f0f;stroke:none;stroke-width:1px;fill-opacity:1" />
+    <path
+       id="polygon288"
+       d="M 990.54,762.06 L 987.647,809.231 L 1000.429,809.231 L 997.572,762.06 L 990.54,762.06 z"
+       style="fill:#0f0f0f;stroke:none;stroke-width:1px;fill-opacity:1" />
+    <path
+       id="polygon290"
+       d="M 951.35,763.075 L 948.466,810.089 L 961.205,810.089 L 958.358,763.075 L 951.35,763.075 z"
+       style="fill:#0f0f0f;stroke:none;stroke-width:1px;fill-opacity:1" />
+    <path
+       id="polygon292"
+       d="M 909.973,762.775 L 907.077,809.994 L 919.872,809.994 L 917.012,762.775 L 909.973,762.775 z"
+       style="fill:#0f0f0f;stroke:none;stroke-width:1px;fill-opacity:1" />
+    <path
+       id="polygon294"
+       d="M 868.36,764.648 L 865.481,811.59 L 878.2,811.59 L 875.358,764.648 L 868.36,764.648 z"
+       style="fill:#0f0f0f;stroke:none;stroke-width:1px;fill-opacity:1" />
+    <path
+       id="polygon296"
+       d="M 825.847,764.74 L 822.96,811.81 L 835.714,811.81 L 832.864,764.74 L 825.847,764.74 z"
+       style="fill:#0f0f0f;stroke:none;stroke-width:1px;fill-opacity:1" />
+  </g>
+  <g
+     id="g3993"
+     style="fill:#0f0f0f;fill-opacity:1;stroke:none">
+    <path
+       id="polygon298"
+       d="M 787.326,56.567 L 784.403,104.232 L 797.319,104.232 L 794.432,56.567 L 787.326,56.567 z"
+       style="fill:#0f0f0f;stroke:none;stroke-width:1px;fill-opacity:1" />
+    <path
+       id="polygon300"
+       d="M 996.47,58.793 L 993.58,105.917 L 1006.349,105.917 L 1003.495,58.793 L 996.47,58.793 z"
+       style="fill:#0f0f0f;stroke:none;stroke-width:1px;fill-opacity:1" />
+    <path
+       id="polygon302"
+       d="M 956.353,55.335 L 953.422,103.114 L 966.368,103.114 L 963.475,55.335 L 956.353,55.335 z"
+       style="fill:#0f0f0f;stroke:none;stroke-width:1px;fill-opacity:1" />
+    <path
+       id="polygon304"
+       d="M 916.022,58.797 L 913.124,106.043 L 925.925,106.043 L 923.065,58.797 L 916.022,58.797 z"
+       style="fill:#0f0f0f;stroke:none;stroke-width:1px;fill-opacity:1" />
+    <path
+       id="polygon306"
+       d="M 874.522,59.184 L 871.625,106.419 L 884.423,106.419 L 881.563,59.184 L 874.522,59.184 z"
+       style="fill:#0f0f0f;stroke:none;stroke-width:1px;fill-opacity:1" />
+    <path
+       id="polygon308"
+       d="M 832.514,56.546 L 829.59,104.211 L 842.506,104.211 L 839.62,56.546 L 832.514,56.546 z"
+       style="fill:#0f0f0f;stroke:none;stroke-width:1px;fill-opacity:1" />
+  </g>
+  <g
+     id="g4088"
+     style="fill:#747474;fill-opacity:1;stroke:none">
+    <path
+       id="polygon310"
+       d="M 905.121,502.269 L 902.918,509.583 L 925.324,509.583 L 923.148,502.269 L 905.121,502.269 z"
+       style="fill:#747474;stroke:none;stroke-width:1px;fill-opacity:1" />
+    <path
+       id="polygon312"
+       d="M 865.634,504.041 L 863.431,511.355 L 885.837,511.355 L 883.662,504.041 L 865.634,504.041 z"
+       style="fill:#747474;stroke:none;stroke-width:1px;fill-opacity:1" />
+    <path
+       id="polygon314"
+       d="M 825.31,504.078 L 823.107,511.393 L 845.513,511.393 L 843.337,504.078 L 825.31,504.078 z"
+       style="fill:#747474;stroke:none;stroke-width:1px;fill-opacity:1" />
+    <path
+       id="polygon316"
+       d="M 783.48,504.362 L 781.285,511.648 L 803.604,511.648 L 801.437,504.362 L 783.48,504.362 z"
+       style="fill:#747474;stroke:none;stroke-width:1px;fill-opacity:1" />
+    <path
+       id="polygon318"
+       d="M 988.89,502.708 L 986.701,509.976 L 1008.963,509.976 L 1006.802,502.708 L 988.89,502.708 z"
+       style="fill:#747474;stroke:none;stroke-width:1px;fill-opacity:1" />
+    <path
+       id="polygon320"
+       d="M 947.351,502.008 L 945.148,509.322 L 967.554,509.322 L 965.379,502.008 L 947.351,502.008 z"
+       style="fill:#747474;stroke:none;stroke-width:1px;fill-opacity:1" />
+  </g>
+  <g
+     id="g4228"
+     style="fill:#747474;fill-opacity:1;stroke:none">
+    <path
+       id="polygon322"
+       d="M 779.186,857.819 L 776.956,866.885 L 799.226,866.885 L 797.024,857.819 L 779.186,857.819 z"
+       style="fill:#747474;stroke:none;stroke-width:1px;fill-opacity:1" />
+    <path
+       id="polygon324"
+       d="M 985.116,856.534 L 982.889,865.587 L 1005.126,865.587 L 1002.926,856.534 L 985.116,856.534 z"
+       style="fill:#747474;stroke:none;stroke-width:1px;fill-opacity:1" />
+    <path
+       id="polygon326"
+       d="M 945.944,857.234 L 943.724,866.257 L 965.887,866.257 L 963.695,857.234 L 945.944,857.234 z"
+       style="fill:#747474;stroke:none;stroke-width:1px;fill-opacity:1" />
+    <path
+       id="polygon328"
+       d="M 904.544,857.345 L 902.315,866.406 L 924.574,866.406 L 922.372,857.345 L 904.544,857.345 z"
+       style="fill:#747474;stroke:none;stroke-width:1px;fill-opacity:1" />
+    <path
+       id="polygon330"
+       d="M 862.963,858.662 L 860.746,867.671 L 882.875,867.671 L 880.687,858.662 L 862.963,858.662 z"
+       style="fill:#747474;stroke:none;stroke-width:1px;fill-opacity:1" />
+    <path
+       id="polygon332"
+       d="M 820.435,859.011 L 818.212,868.044 L 840.401,868.044 L 838.207,859.011 L 820.435,859.011 z"
+       style="fill:#747474;stroke:none;stroke-width:1px;fill-opacity:1" />
+  </g>
+  <g
+     id="g4049"
+     style="fill:#747474;fill-opacity:1;stroke:none">
+    <path
+       id="polygon334"
+       d="M 781.831,154.191 L 779.614,161.393 L 802.047,161.393 L 799.858,154.191 L 781.831,154.191 z"
+       style="fill:#747474;stroke:none;stroke-width:1px;fill-opacity:1" />
+    <path
+       id="polygon336"
+       d="M 991.037,155.309 L 988.845,162.428 L 1011.023,162.428 L 1008.859,155.309 L 991.037,155.309 z"
+       style="fill:#747474;stroke:none;stroke-width:1px;fill-opacity:1" />
+    <path
+       id="polygon338"
+       d="M 950.844,153.193 L 948.622,160.412 L 971.108,160.412 L 968.914,153.193 L 950.844,153.193 z"
+       style="fill:#747474;stroke:none;stroke-width:1px;fill-opacity:1" />
+    <path
+       id="polygon340"
+       d="M 910.574,155.563 L 908.377,162.701 L 930.612,162.701 L 928.443,155.563 L 910.574,155.563 z"
+       style="fill:#747474;stroke:none;stroke-width:1px;fill-opacity:1" />
+    <path
+       id="polygon342"
+       d="M 869.075,155.927 L 866.879,163.064 L 889.109,163.064 L 886.94,155.927 L 869.075,155.927 z"
+       style="fill:#747474;stroke:none;stroke-width:1px;fill-opacity:1" />
+    <path
+       id="polygon344"
+       d="M 827.018,154.17 L 824.801,161.373 L 847.234,161.373 L 845.046,154.17 L 827.018,154.17 z"
+       style="fill:#747474;stroke:none;stroke-width:1px;fill-opacity:1" />
+  </g>
+  <g
+     id="g4128"
+     style="fill:#0f0f0f;fill-opacity:1;stroke:none">
+    <path
+       id="polygon346"
+       d="M 902.918,509.583 L 899.952,557.932 L 928.252,557.932 L 925.324,509.583 L 902.918,509.583 z"
+       style="fill:#0f0f0f;stroke:none;stroke-width:1px;fill-opacity:1" />
+    <path
+       id="polygon348"
+       d="M 863.431,511.355 L 860.465,559.704 L 888.765,559.704 L 885.837,511.355 L 863.431,511.355 z"
+       style="fill:#0f0f0f;stroke:none;stroke-width:1px;fill-opacity:1" />
+    <path
+       id="polygon350"
+       d="M 823.107,511.393 L 820.141,559.741 L 848.441,559.741 L 845.513,511.393 L 823.107,511.393 z"
+       style="fill:#0f0f0f;stroke:none;stroke-width:1px;fill-opacity:1" />
+    <path
+       id="polygon352"
+       d="M 781.285,511.648 L 778.331,559.808 L 806.52,559.808 L 803.604,511.648 L 781.285,511.648 z"
+       style="fill:#0f0f0f;stroke:none;stroke-width:1px;fill-opacity:1" />
+    <path
+       id="polygon354"
+       d="M 986.701,509.976 L 983.755,558.014 L 1011.872,558.014 L 1008.963,509.976 L 986.701,509.976 z"
+       style="fill:#0f0f0f;stroke:none;stroke-width:1px;fill-opacity:1" />
+    <path
+       id="polygon356"
+       d="M 945.148,509.322 L 942.182,557.67 L 970.482,557.67 L 967.554,509.322 L 945.148,509.322 z"
+       style="fill:#0f0f0f;stroke:none;stroke-width:1px;fill-opacity:1" />
+  </g>
+  <g
+     id="g4190"
+     style="fill:#0f0f0f;fill-opacity:1;stroke:none">
+    <path
+       id="polygon358"
+       d="M 776.956,866.885 L 774.008,914.941 L 802.136,914.941 L 799.226,866.885 L 776.956,866.885 z"
+       style="fill:#0f0f0f;stroke:none;stroke-width:1px;fill-opacity:1" />
+    <path
+       id="polygon360"
+       d="M 982.889,865.587 L 979.946,913.57 L 1008.031,913.57 L 1005.126,865.587 L 982.889,865.587 z"
+       style="fill:#0f0f0f;stroke:none;stroke-width:1px;fill-opacity:1" />
+    <path
+       id="polygon362"
+       d="M 943.724,866.257 L 940.791,914.08 L 968.783,914.08 L 965.887,866.257 L 943.724,866.257 z"
+       style="fill:#0f0f0f;stroke:none;stroke-width:1px;fill-opacity:1" />
+    <path
+       id="polygon364"
+       d="M 902.315,866.406 L 899.369,914.438 L 927.483,914.438 L 924.574,866.406 L 902.315,866.406 z"
+       style="fill:#0f0f0f;stroke:none;stroke-width:1px;fill-opacity:1" />
+    <path
+       id="polygon366"
+       d="M 860.746,867.671 L 857.818,915.42 L 885.767,915.42 L 882.875,867.671 L 860.746,867.671 z"
+       style="fill:#0f0f0f;stroke:none;stroke-width:1px;fill-opacity:1" />
+    <path
+       id="polygon368"
+       d="M 818.212,868.044 L 815.276,915.924 L 843.301,915.924 L 840.401,868.044 L 818.212,868.044 z"
+       style="fill:#0f0f0f;stroke:none;stroke-width:1px;fill-opacity:1" />
+  </g>
+  <g
+     id="g4009"
+     style="fill:#0f0f0f;fill-opacity:1;stroke:none">
+    <path
+       id="polygon370"
+       d="M 779.614,161.393 L 776.645,209.8 L 804.978,209.8 L 802.047,161.393 L 779.614,161.393 z"
+       style="fill:#0f0f0f;stroke:none;stroke-width:1px;fill-opacity:1" />
+    <path
+       id="polygon372"
+       d="M 988.845,162.428 L 985.91,210.285 L 1013.921,210.285 L 1011.023,162.428 L 988.845,162.428 z"
+       style="fill:#0f0f0f;stroke:none;stroke-width:1px;fill-opacity:1" />
+    <path
+       id="polygon374"
+       d="M 948.622,160.412 L 945.645,208.935 L 974.047,208.935 L 971.108,160.412 L 948.622,160.412 z"
+       style="fill:#0f0f0f;stroke:none;stroke-width:1px;fill-opacity:1" />
+    <path
+       id="polygon376"
+       d="M 908.377,162.701 L 905.434,210.682 L 933.518,210.682 L 930.612,162.701 L 908.377,162.701 z"
+       style="fill:#0f0f0f;stroke:none;stroke-width:1px;fill-opacity:1" />
+    <path
+       id="polygon378"
+       d="M 866.879,163.064 L 863.936,211.033 L 892.014,211.033 L 889.109,163.064 L 866.879,163.064 z"
+       style="fill:#0f0f0f;stroke:none;stroke-width:1px;fill-opacity:1" />
+    <path
+       id="polygon380"
+       d="M 824.801,161.373 L 821.832,209.779 L 850.166,209.779 L 847.234,161.373 L 824.801,161.373 z"
+       style="fill:#0f0f0f;stroke:none;stroke-width:1px;fill-opacity:1" />
+  </g>
+  <g
+     id="g4136"
+     style="stroke:none">
+    <path
+       id="polygon382"
+       d="M 901.874,564.241 L 899.063,606.145 L 929.129,606.145 L 926.355,564.241 L 901.874,564.241 z"
+       style="fill:#a1a1a1;stroke:none;stroke-width:1px;fill-opacity:1" />
+    <path
+       id="polygon384"
+       d="M 862.387,566.013 L 859.576,607.917 L 889.642,607.917 L 886.868,566.013 L 862.387,566.013 z"
+       style="fill:#a1a1a1;stroke:none;stroke-width:1px;fill-opacity:1" />
+    <path
+       id="polygon386"
+       d="M 822.062,566.05 L 819.252,607.955 L 849.318,607.955 L 846.544,566.05 L 822.062,566.05 z"
+       style="fill:#a1a1a1;stroke:none;stroke-width:1px;fill-opacity:1" />
+    <path
+       id="polygon388"
+       d="M 780.245,566.093 L 777.446,607.834 L 807.394,607.834 L 804.631,566.093 L 780.245,566.093 z"
+       style="fill:#a1a1a1;stroke:none;stroke-width:1px;fill-opacity:1" />
+    <path
+       id="polygon390"
+       d="M 985.664,564.282 L 982.871,605.917 L 1012.744,605.917 L 1009.987,564.282 L 985.664,564.282 z"
+       style="fill:#a1a1a1;stroke:none;stroke-width:1px;fill-opacity:1" />
+    <path
+       id="polygon392"
+       d="M 944.104,563.979 L 941.294,605.884 L 971.359,605.884 L 968.585,563.979 L 944.104,563.979 z"
+       style="fill:#a1a1a1;stroke:none;stroke-width:1px;fill-opacity:1" />
+  </g>
+  <g
+     id="g4198"
+     style="fill:#a1a1a1;fill-opacity:1;stroke:none">
+    <path
+       id="polygon394"
+       d="M 775.973,921.075 L 773.193,962.538 L 802.942,962.538 L 800.196,921.075 L 775.973,921.075 z"
+       style="fill:#a1a1a1;stroke:none;stroke-width:1px;fill-opacity:1" />
+    <path
+       id="polygon396"
+       d="M 981.908,919.695 L 979.131,961.096 L 1008.836,961.096 L 1006.095,919.695 L 981.908,919.695 z"
+       style="fill:#a1a1a1;stroke:none;stroke-width:1px;fill-opacity:1" />
+    <path
+       id="polygon398"
+       d="M 942.747,920.185 L 939.979,961.447 L 969.585,961.447 L 966.853,920.185 L 942.747,920.185 z"
+       style="fill:#a1a1a1;stroke:none;stroke-width:1px;fill-opacity:1" />
+    <path
+       id="polygon400"
+       d="M 901.333,920.569 L 898.553,962.011 L 928.288,962.011 L 925.543,920.569 L 901.333,920.569 z"
+       style="fill:#a1a1a1;stroke:none;stroke-width:1px;fill-opacity:1" />
+    <path
+       id="polygon402"
+       d="M 859.77,921.516 L 857.007,962.715 L 886.567,962.715 L 883.839,921.516 L 859.77,921.516 z"
+       style="fill:#a1a1a1;stroke:none;stroke-width:1px;fill-opacity:1" />
+    <path
+       id="polygon404"
+       d="M 817.234,922.036 L 814.463,963.347 L 844.103,963.347 L 841.368,922.036 L 817.234,922.036 z"
+       style="fill:#a1a1a1;stroke:none;stroke-width:1px;fill-opacity:1" />
+  </g>
+  <g
+     id="g4064"
+     style="fill:#a1a1a1;fill-opacity:1;stroke:none">
+    <path
+       id="polygon406"
+       d="M 778.583,216.08 L 775.773,257.985 L 805.839,257.985 L 803.064,216.08 L 778.583,216.08 z"
+       style="fill:#a1a1a1;stroke:none;stroke-width:1px;fill-opacity:1" />
+    <path
+       id="polygon408"
+       d="M 987.826,216.494 L 985.048,257.922 L 1014.772,257.922 L 1012.029,216.494 L 987.826,216.494 z"
+       style="fill:#a1a1a1;stroke:none;stroke-width:1px;fill-opacity:1" />
+    <path
+       id="polygon410"
+       d="M 947.589,215.23 L 944.771,257.234 L 974.909,257.234 L 972.128,215.23 L 947.589,215.23 z"
+       style="fill:#a1a1a1;stroke:none;stroke-width:1px;fill-opacity:1" />
+    <path
+       id="polygon412"
+       d="M 907.356,216.907 L 904.57,258.442 L 934.371,258.442 L 931.621,216.907 L 907.356,216.907 z"
+       style="fill:#a1a1a1;stroke:none;stroke-width:1px;fill-opacity:1" />
+    <path
+       id="polygon414"
+       d="M 865.857,217.257 L 863.072,258.782 L 892.867,258.782 L 890.117,217.257 L 865.857,217.257 z"
+       style="fill:#a1a1a1;stroke:none;stroke-width:1px;fill-opacity:1" />
+    <path
+       id="polygon416"
+       d="M 823.771,216.059 L 820.96,257.964 L 851.026,257.964 L 848.252,216.059 L 823.771,216.059 z"
+       style="fill:#a1a1a1;stroke:none;stroke-width:1px;fill-opacity:1" />
+  </g>
+  <path
+     style="fill:url(#linearGradient5409);stroke:none;stroke-width:1px;fill-opacity:1"
+     d="M 350.168,496.005 L 349.751,552.879 L 326.624,552.782 L 326.484,495.906 L 350.168,496.005 z"
+     id="polygon418" />
+  <path
+     style="fill:url(#linearGradient5455);stroke:none;stroke-width:1px;fill-opacity:1"
+     d="M 376.737,513.018 L 398.606,512.587 L 399.289,449.696 L 376.765,450.141 L 376.737,513.018 z"
+     id="polygon420" />
+  <path
+     style="fill:url(#linearGradient5439);stroke:none;stroke-width:1px;fill-opacity:1"
+     d="M 276.763,463.285 L 276.758,519.314 L 299.008,519.376 L 299.155,463.344 L 276.763,463.285 z"
+     id="polygon422" />
+  <path
+     style="fill:url(#linearGradient5447);stroke:none;stroke-width:1px;fill-opacity:1"
+     d="M 397.327,271.365 L 375.598,271.357 L 375.317,334.665 L 396.911,335.231 L 397.327,271.365 z"
+     id="polygon424" />
+  <path
+     style="fill:#bbbbbb;stroke:none;stroke-width:1px;fill-opacity:1"
+     d="M 298.464,431.534 L 276.647,431.756 L 276.763,463.285 L 299.155,463.344 L 298.464,431.534 z"
+     id="polygon426" />
+  <g
+     id="g8849"
+     style="fill:#bebebe;fill-opacity:1;stroke:none">
+    <path
+       id="polygon434"
+       d="M 293.08,8.716 L 102.255,8.781 L 120.167,39.78 L 275.19,39.727 L 293.08,8.716 z"
+       style="fill:#bebebe;stroke:none;stroke-width:1px;fill-opacity:1" />
+    <path
+       id="path8852"
+       d="M 102.255,8.781 L 6.899,174.073 L 42.7,174.061 L 120.167,39.78 L 102.255,8.781 z"
+       style="fill:#bebebe;stroke:none;stroke-width:1px;fill-opacity:1" />
+    <path
+       id="polygon438"
+       d="M 6.899,174.073 L 102.368,339.3 L 120.258,308.289 L 42.7,174.061 L 6.899,174.073 z"
+       style="fill:#bebebe;stroke:none;stroke-width:1px;fill-opacity:1" />
+    <path
+       id="polygon440"
+       d="M 102.368,339.3 L 293.193,339.234 L 275.282,308.236 L 120.258,308.289 L 102.368,339.3 z"
+       style="fill:#bebebe;stroke:none;stroke-width:1px;fill-opacity:1" />
+    <path
+       id="polygon442"
+       d="M 293.193,339.234 L 388.549,173.943 L 352.748,173.955 L 275.282,308.236 L 293.193,339.234 z"
+       style="fill:#bebebe;stroke:none;stroke-width:1px;fill-opacity:1" />
+    <path
+       id="polygon444"
+       d="M 388.549,173.943 L 293.08,8.716 L 275.19,39.727 L 352.748,173.955 L 388.549,173.943 z"
+       style="fill:#bebebe;stroke:none;stroke-width:1px;fill-opacity:1" />
+  </g>
+  <g
+     id="g9026"
+     style="fill:#afafaf;fill-opacity:1;stroke:none">
+    <path
+       id="polygon470"
+       d="M 177.398,484.85 L 174.112,515.425 L 202.502,515.425 L 199.257,484.85 L 177.398,484.85 z"
+       style="fill:#afafaf;stroke:none;stroke-width:1px;fill-opacity:1" />
+    <path
+       id="polygon472"
+       d="M 137.633,486.83 L 134.347,517.405 L 162.737,517.405 L 159.492,486.83 L 137.633,486.83 z"
+       style="fill:#afafaf;stroke:none;stroke-width:1px;fill-opacity:1" />
+    <path
+       id="polygon474"
+       d="M 96.617,488.168 L 93.331,518.743 L 121.72,518.743 L 118.476,488.168 L 96.617,488.168 z"
+       style="fill:#afafaf;stroke:none;stroke-width:1px;fill-opacity:1" />
+    <path
+       id="polygon476"
+       d="M 59.696,489.963 L 56.409,520.537 L 84.799,520.537 L 81.554,489.963 L 59.696,489.963 z"
+       style="fill:#afafaf;stroke:none;stroke-width:1px;fill-opacity:1" />
+    <path
+       id="polygon478"
+       d="M 21.23,488.841 L 17.944,519.416 L 46.334,519.416 L 43.089,488.841 L 21.23,488.841 z"
+       style="fill:#afafaf;stroke:none;stroke-width:1px;fill-opacity:1" />
+    <path
+       id="polygon480"
+       d="M 217.544,485.72 L 214.258,516.295 L 242.648,516.295 L 239.403,485.72 L 217.544,485.72 z"
+       style="fill:#afafaf;stroke:none;stroke-width:1px;fill-opacity:1" />
+  </g>
+  <g
+     id="g9058"
+     style="fill:url(#linearGradient4064);fill-opacity:1;stroke:none">
+    <path
+       id="polygon532"
+       d="M 147.375,373.373 L 144.18,408.673 L 153.029,408.673 L 149.874,373.373 L 147.375,373.373 z"
+       style="fill:url(#linearGradient4064);stroke:none;stroke-width:1px;fill-opacity:1.0" />
+    <path
+       id="polygon534"
+       d="M 106.359,374.711 L 103.164,410.011 L 112.012,410.011 L 108.857,374.711 L 106.359,374.711 z"
+       style="fill:url(#linearGradient4064);stroke:none;stroke-width:1px;fill-opacity:1.0" />
+    <path
+       id="polygon536"
+       d="M 69.438,376.505 L 66.242,411.805 L 75.091,411.805 L 71.936,376.505 L 69.438,376.505 z"
+       style="fill:url(#linearGradient4064);stroke:none;stroke-width:1px;fill-opacity:1.0" />
+    <path
+       id="polygon538"
+       d="M 30.972,375.384 L 27.777,410.684 L 36.626,410.684 L 33.471,375.384 L 30.972,375.384 z"
+       style="fill:url(#linearGradient4064);stroke:none;stroke-width:1px;fill-opacity:1.0" />
+    <path
+       id="polygon540"
+       d="M 232.939,407.562 L 229.785,372.263 L 227.286,372.263 L 224.091,407.562 L 232.939,407.562 z"
+       style="fill:url(#linearGradient4064);stroke:none;stroke-width:1px;fill-opacity:1.0" />
+    <path
+       id="polygon542"
+       d="M 192.794,406.693 L 189.639,371.393 L 187.14,371.393 L 183.945,406.693 L 192.794,406.693 z"
+       style="fill:url(#linearGradient4064);stroke:none;stroke-width:1px;fill-opacity:1.0" />
+  </g>
+  <g
+     id="g9050"
+     style="fill:#747474;fill-opacity:1;stroke:none">
+    <path
+       id="polygon524"
+       d="M 144.18,408.673 L 144.32,412.317 L 152.891,412.317 L 153.029,408.673 L 144.18,408.673 z"
+       style="fill:#747474;stroke:none;stroke-width:1px;fill-opacity:1" />
+    <path
+       id="polygon526"
+       d="M 103.164,410.011 L 103.303,413.654 L 111.875,413.654 L 112.012,410.011 L 103.164,410.011 z"
+       style="fill:#747474;stroke:none;stroke-width:1px;fill-opacity:1" />
+    <path
+       id="polygon528"
+       d="M 66.242,411.805 L 66.382,415.449 L 74.953,415.449 L 75.091,411.805 L 66.242,411.805 z"
+       style="fill:#747474;stroke:none;stroke-width:1px;fill-opacity:1" />
+    <path
+       id="polygon530"
+       d="M 27.777,410.684 L 27.917,414.327 L 36.488,414.327 L 36.626,410.684 L 27.777,410.684 z"
+       style="fill:#747474;stroke:none;stroke-width:1px;fill-opacity:1" />
+    <path
+       id="polygon544"
+       d="M 232.802,411.206 L 232.939,407.562 L 224.091,407.562 L 224.23,411.206 L 232.802,411.206 z"
+       style="fill:#747474;stroke:none;stroke-width:1px;fill-opacity:1" />
+    <path
+       id="polygon546"
+       d="M 192.656,410.337 L 192.794,406.693 L 183.945,406.693 L 184.085,410.337 L 192.656,410.337 z"
+       style="fill:#747474;stroke:none;stroke-width:1px;fill-opacity:1" />
+  </g>
+  <g
+     id="g9042"
+     style="fill:#afafaf;fill-opacity:1;stroke:none">
+    <path
+       id="polygon516"
+       d="M 144.32,412.317 L 140.966,445.145 L 156.202,445.145 L 152.891,412.317 L 144.32,412.317 z"
+       style="fill:#afafaf;stroke:none;stroke-width:1px;fill-opacity:1" />
+    <path
+       id="polygon518"
+       d="M 103.303,413.654 L 99.949,446.483 L 115.186,446.483 L 111.875,413.654 L 103.303,413.654 z"
+       style="fill:#afafaf;stroke:none;stroke-width:1px;fill-opacity:1" />
+    <path
+       id="polygon520"
+       d="M 66.382,415.449 L 63.028,448.277 L 78.264,448.277 L 74.953,415.449 L 66.382,415.449 z"
+       style="fill:#afafaf;stroke:none;stroke-width:1px;fill-opacity:1" />
+    <path
+       id="polygon522"
+       d="M 27.917,414.327 L 24.563,447.156 L 39.799,447.156 L 36.488,414.327 L 27.917,414.327 z"
+       style="fill:#afafaf;stroke:none;stroke-width:1px;fill-opacity:1" />
+    <path
+       id="polygon548"
+       d="M 236.113,444.035 L 232.802,411.206 L 224.23,411.206 L 220.876,444.035 L 236.113,444.035 z"
+       style="fill:#afafaf;stroke:none;stroke-width:1px;fill-opacity:1" />
+    <path
+       id="polygon550"
+       d="M 195.967,443.165 L 192.656,410.337 L 184.085,410.337 L 180.731,443.165 L 195.967,443.165 z"
+       style="fill:#afafaf;stroke:none;stroke-width:1px;fill-opacity:1" />
+  </g>
+  <g
+     id="g9073"
+     style="fill:#747474;fill-opacity:1;stroke:none">
+    <path
+       id="polygon508"
+       d="M 140.966,445.145 L 139.734,449.441 L 157.419,449.44 L 156.202,445.145 L 140.966,445.145 z"
+       style="fill:#747474;stroke:none;stroke-width:1px;fill-opacity:1" />
+    <path
+       id="polygon510"
+       d="M 99.949,446.483 L 98.717,450.779 L 116.402,450.779 L 115.186,446.483 L 99.949,446.483 z"
+       style="fill:#747474;stroke:none;stroke-width:1px;fill-opacity:1" />
+    <path
+       id="polygon512"
+       d="M 63.028,448.277 L 61.796,452.573 L 79.481,452.573 L 78.264,448.277 L 63.028,448.277 z"
+       style="fill:#747474;stroke:none;stroke-width:1px;fill-opacity:1" />
+    <path
+       id="polygon514"
+       d="M 24.563,447.156 L 23.331,451.452 L 41.016,451.452 L 39.799,447.156 L 24.563,447.156 z"
+       style="fill:#747474;stroke:none;stroke-width:1px;fill-opacity:1" />
+    <path
+       id="polygon552"
+       d="M 237.329,448.33 L 236.113,444.035 L 220.876,444.035 L 219.644,448.33 L 237.329,448.33 z"
+       style="fill:#747474;stroke:none;stroke-width:1px;fill-opacity:1" />
+    <path
+       id="polygon554"
+       d="M 197.183,447.461 L 195.967,443.165 L 180.731,443.165 L 179.499,447.461 L 197.183,447.461 z"
+       style="fill:#747474;stroke:none;stroke-width:1px;fill-opacity:1" />
+  </g>
+  <g
+     id="g9034"
+     style="fill:url(#linearGradient4056);fill-opacity:1;stroke:none">
+    <path
+       id="polygon500"
+       d="M 139.734,449.441 L 136.84,481.408 L 160.275,481.408 L 157.419,449.44 L 139.734,449.441 z"
+       style="fill:url(#linearGradient4056);stroke:none;stroke-width:1px;fill-opacity:1.0" />
+    <path
+       id="polygon502"
+       d="M 98.717,450.779 L 95.824,482.746 L 119.259,482.746 L 116.402,450.779 L 98.717,450.779 z"
+       style="fill:url(#linearGradient4056);stroke:none;stroke-width:1px;fill-opacity:1.0" />
+    <path
+       id="polygon504"
+       d="M 61.796,452.573 L 58.902,484.54 L 82.338,484.54 L 79.481,452.573 L 61.796,452.573 z"
+       style="fill:url(#linearGradient4056);stroke:none;stroke-width:1px;fill-opacity:1.0" />
+    <path
+       id="polygon506"
+       d="M 23.331,451.452 L 20.437,483.419 L 43.873,483.419 L 41.016,451.452 L 23.331,451.452 z"
+       style="fill:url(#linearGradient4056);stroke:none;stroke-width:1px;fill-opacity:1.0" />
+    <path
+       id="polygon556"
+       d="M 240.186,480.297 L 237.329,448.33 L 219.644,448.33 L 216.751,480.297 L 240.186,480.297 z"
+       style="fill:url(#linearGradient4056);stroke:none;stroke-width:1px;fill-opacity:1.0" />
+    <path
+       id="polygon558"
+       d="M 200.04,479.428 L 197.183,447.461 L 179.499,447.461 L 176.605,479.428 L 200.04,479.428 z"
+       style="fill:url(#linearGradient4056);stroke:none;stroke-width:1px;fill-opacity:1.0" />
+  </g>
+  <g
+     id="g9081"
+     style="fill-opacity:1;fill:#747474;stroke:none">
+    <path
+       id="polygon490"
+       d="M 136.84,481.408 L 137.633,486.83 L 159.492,486.83 L 160.275,481.408 L 136.84,481.408 z"
+       style="fill:#747474;stroke:none;stroke-width:1px;fill-opacity:1" />
+    <path
+       id="polygon492"
+       d="M 95.824,482.746 L 96.617,488.168 L 118.476,488.168 L 119.259,482.746 L 95.824,482.746 z"
+       style="fill:#747474;stroke:none;stroke-width:1px;fill-opacity:1" />
+    <path
+       id="polygon494"
+       d="M 58.902,484.54 L 59.696,489.963 L 81.554,489.963 L 82.338,484.54 L 58.902,484.54 z"
+       style="fill:#747474;stroke:none;stroke-width:1px;fill-opacity:1" />
+    <path
+       id="polygon496"
+       d="M 20.437,483.419 L 21.23,488.841 L 43.089,488.841 L 43.873,483.419 L 20.437,483.419 z"
+       style="fill:#747474;stroke:none;stroke-width:1px;fill-opacity:1" />
+    <path
+       id="polygon498"
+       d="M 216.751,480.297 L 217.544,485.72 L 239.403,485.72 L 240.186,480.297 L 216.751,480.297 z"
+       style="fill:#747474;stroke:none;stroke-width:1px;fill-opacity:1" />
+    <path
+       id="polygon560"
+       d="M 199.257,484.85 L 200.04,479.428 L 176.605,479.428 L 177.398,484.85 L 199.257,484.85 z"
+       style="fill:#747474;stroke:none;stroke-width:1px;fill-opacity:1" />
+  </g>
+  <g
+     id="g9092"
+     style="fill-opacity:1;fill:#747474;stroke:none">
+    <path
+       id="polygon482"
+       d="M 134.347,517.405 L 132.724,522.408 L 164.339,522.408 L 162.737,517.405 L 134.347,517.405 z"
+       style="fill:#747474;stroke:none;stroke-width:1px;fill-opacity:1" />
+    <path
+       id="polygon484"
+       d="M 93.331,518.743 L 91.707,523.746 L 123.323,523.746 L 121.72,518.743 L 93.331,518.743 z"
+       style="fill:#747474;stroke:none;stroke-width:1px;fill-opacity:1" />
+    <path
+       id="polygon486"
+       d="M 56.409,520.537 L 54.786,525.54 L 86.402,525.54 L 84.799,520.537 L 56.409,520.537 z"
+       style="fill:#747474;stroke:none;stroke-width:1px;fill-opacity:1" />
+    <path
+       id="polygon488"
+       d="M 17.944,519.416 L 16.321,524.419 L 47.937,524.419 L 46.334,519.416 L 17.944,519.416 z"
+       style="fill:#747474;stroke:none;stroke-width:1px;fill-opacity:1" />
+    <path
+       id="polygon562"
+       d="M 244.25,521.298 L 242.648,516.295 L 214.258,516.295 L 212.634,521.298 L 244.25,521.298 z"
+       style="fill:#747474;stroke:none;stroke-width:1px;fill-opacity:1" />
+    <path
+       id="polygon564"
+       d="M 204.105,520.428 L 202.502,515.425 L 174.112,515.425 L 172.489,520.428 L 204.105,520.428 z"
+       style="fill:#747474;stroke:none;stroke-width:1px;fill-opacity:1" />
+  </g>
+  <g
+     id="g9018"
+     style="fill:url(#linearGradient9119);fill-opacity:1.0;stroke:none">
+    <path
+       id="polygon462"
+       d="M 132.724,522.408 L 129.981,552.707 L 167.047,552.707 L 164.339,522.408 L 132.724,522.408 z"
+       style="fill:url(#linearGradient9119);stroke:none;stroke-width:1px;fill-opacity:1.0" />
+    <path
+       id="polygon464"
+       d="M 91.707,523.746 L 88.965,554.045 L 126.031,554.045 L 123.323,523.746 L 91.707,523.746 z"
+       style="fill:url(#linearGradient9119);stroke:none;stroke-width:1px;fill-opacity:1.0" />
+    <path
+       id="polygon466"
+       d="M 54.786,525.54 L 52.044,555.839 L 89.11,555.839 L 86.402,525.54 L 54.786,525.54 z"
+       style="fill:url(#linearGradient9119);stroke:none;stroke-width:1px;fill-opacity:1.0" />
+    <path
+       id="polygon468"
+       d="M 16.321,524.419 L 13.578,554.718 L 50.644,554.718 L 47.937,524.419 L 16.321,524.419 z"
+       style="fill:url(#linearGradient9119);stroke:none;stroke-width:1px;fill-opacity:1.0" />
+    <path
+       id="polygon566"
+       d="M 246.958,551.597 L 244.25,521.298 L 212.634,521.298 L 209.892,551.597 L 246.958,551.597 z"
+       style="fill:url(#linearGradient9119);stroke:none;stroke-width:1px;fill-opacity:1.0" />
+    <path
+       id="polygon576"
+       d="M 204.105,520.428 L 172.489,520.428 L 169.746,550.727 L 206.812,550.727 L 204.105,520.428 z"
+       style="fill:url(#linearGradient9119);stroke:none;stroke-width:1px;fill-opacity:1.0" />
+  </g>
+  <g
+     id="g5709"
+     style="fill-opacity:1;fill:url(#linearGradient5744);stroke:none">
+    <path
+       id="polygon578"
+       d="M 479.769,592.248 L 463.351,592.248 L 463.351,639.582 L 479.769,639.582 L 479.769,592.248 z"
+       style="fill:url(#linearGradient5744);stroke:none;stroke-width:1px;fill-opacity:1" />
+    <path
+       id="polygon582"
+       d="M 496.187,592.248 L 479.769,592.248 L 479.769,639.582 L 496.187,639.582 L 496.187,592.248 z"
+       style="fill:url(#linearGradient5744);stroke:none;stroke-width:1px;fill-opacity:1" />
+    <path
+       id="polygon584"
+       d="M 479.769,544.915 L 463.351,544.915 L 463.351,592.248 L 479.769,592.248 L 479.769,544.915 z"
+       style="fill:url(#linearGradient5744);stroke:none;stroke-width:1px;fill-opacity:1" />
+    <path
+       id="polygon588"
+       d="M 496.187,544.915 L 479.769,544.915 L 479.769,592.248 L 496.187,592.248 L 496.187,544.915 z"
+       style="fill:url(#linearGradient5744);stroke:none;stroke-width:1px;fill-opacity:1" />
+    <path
+       id="polygon590"
+       d="M 479.769,497.581 L 463.351,497.581 L 463.351,544.915 L 479.769,544.915 L 479.769,497.581 z"
+       style="fill:url(#linearGradient5744);stroke:none;stroke-width:1px;fill-opacity:1" />
+    <path
+       id="polygon594"
+       d="M 496.187,497.581 L 479.769,497.581 L 479.769,544.915 L 496.187,544.915 L 496.187,497.581 z"
+       style="fill:url(#linearGradient5744);stroke:none;stroke-width:1px;fill-opacity:1" />
+    <path
+       id="polygon596"
+       d="M 479.769,450.248 L 463.351,450.248 L 463.351,497.581 L 479.769,497.581 L 479.769,450.248 z"
+       style="fill:url(#linearGradient5744);stroke:none;stroke-width:1px;fill-opacity:1" />
+    <path
+       id="polygon600"
+       d="M 496.187,450.248 L 479.769,450.248 L 479.769,497.581 L 496.187,497.581 L 496.187,450.248 z"
+       style="fill:url(#linearGradient5744);stroke:none;stroke-width:1px;fill-opacity:1" />
+    <path
+       id="polygon602"
+       d="M 479.769,970.916 L 463.351,970.916 L 463.351,1018.249 L 479.769,1018.249 L 479.769,970.916 z"
+       style="fill:url(#linearGradient5744);stroke:none;stroke-width:1px;fill-opacity:1" />
+    <path
+       id="polygon606"
+       d="M 496.187,970.916 L 479.769,970.916 L 479.769,1018.249 L 496.187,1018.249 L 496.187,970.916 z"
+       style="fill:url(#linearGradient5744);stroke:none;stroke-width:1px;fill-opacity:1" />
+    <path
+       id="polygon608"
+       d="M 479.769,923.582 L 463.351,923.582 L 463.351,970.916 L 479.769,970.916 L 479.769,923.582 z"
+       style="fill:url(#linearGradient5744);stroke:none;stroke-width:1px;fill-opacity:1" />
+    <path
+       id="polygon612"
+       d="M 496.187,923.582 L 479.769,923.582 L 479.769,970.916 L 496.187,970.916 L 496.187,923.582 z"
+       style="fill:url(#linearGradient5744);stroke:none;stroke-width:1px;fill-opacity:1" />
+    <path
+       id="polygon614"
+       d="M 479.769,876.249 L 463.351,876.249 L 463.351,923.582 L 479.769,923.582 L 479.769,876.249 z"
+       style="fill:url(#linearGradient5744);stroke:none;stroke-width:1px;fill-opacity:1" />
+    <path
+       id="polygon618"
+       d="M 496.187,876.249 L 496.187,923.582 L 479.769,923.582 L 479.769,876.249 L 496.187,876.249 z"
+       style="fill:url(#linearGradient5744);stroke:none;stroke-width:1px;fill-opacity:1" />
+    <path
+       id="polygon622"
+       d="M 496.187,828.915 L 479.769,828.915 L 479.769,876.249 L 496.187,876.249 L 496.187,828.915 z"
+       style="fill:url(#linearGradient5744);stroke:none;stroke-width:1px;fill-opacity:1" />
+    <path
+       id="polygon624"
+       d="M 479.769,781.582 L 463.351,781.582 L 463.351,828.915 L 479.769,828.915 L 479.769,781.582 z"
+       style="fill:url(#linearGradient5744);stroke:none;stroke-width:1px;fill-opacity:1" />
+    <path
+       id="polygon628"
+       d="M 496.187,781.582 L 479.769,781.582 L 479.769,828.915 L 496.187,828.915 L 496.187,781.582 z"
+       style="fill:url(#linearGradient5744);stroke:none;stroke-width:1px;fill-opacity:1" />
+    <path
+       id="polygon630"
+       d="M 479.769,734.248 L 463.351,734.248 L 463.351,781.582 L 479.769,781.582 L 479.769,734.248 z"
+       style="fill:url(#linearGradient5744);stroke:none;stroke-width:1px;fill-opacity:1" />
+    <path
+       id="polygon634"
+       d="M 496.187,734.248 L 479.769,734.248 L 479.769,781.582 L 496.187,781.582 L 496.187,734.248 z"
+       style="fill:url(#linearGradient5744);stroke:none;stroke-width:1px;fill-opacity:1" />
+    <path
+       id="polygon636"
+       d="M 479.769,686.915 L 463.351,686.915 L 463.351,734.248 L 479.769,734.248 L 479.769,686.915 z"
+       style="fill:url(#linearGradient5744);stroke:none;stroke-width:1px;fill-opacity:1" />
+    <path
+       id="polygon640"
+       d="M 496.187,686.915 L 479.769,686.915 L 479.769,734.248 L 496.187,734.248 L 496.187,686.915 z"
+       style="fill:url(#linearGradient5744);stroke:none;stroke-width:1px;fill-opacity:1" />
+    <path
+       id="polygon642"
+       d="M 479.769,639.582 L 463.351,639.582 L 463.351,686.915 L 479.769,686.915 L 479.769,639.582 z"
+       style="fill:url(#linearGradient5744);stroke:none;stroke-width:1px;fill-opacity:1" />
+    <path
+       id="polygon646"
+       d="M 496.187,639.582 L 479.769,639.582 L 479.769,686.915 L 496.187,686.915 L 496.187,639.582 z"
+       style="fill:url(#linearGradient5744);stroke:none;stroke-width:1px;fill-opacity:1" />
+    <path
+       id="polygon648"
+       d="M 463.351,876.249 L 466.818,862.189 L 466.984,845.292 L 463.351,828.915 L 463.351,876.249 z"
+       style="fill:url(#linearGradient5744);stroke:none;stroke-width:1px;fill-opacity:1" />
+    <path
+       id="polygon650"
+       d="M 479.769,828.915 L 463.351,828.915 L 466.984,845.292 L 475.237,846.092 L 479.769,828.915 z"
+       style="fill:url(#linearGradient5744);stroke:none;stroke-width:1px;fill-opacity:1" />
+    <path
+       id="polygon652"
+       d="M 479.769,876.249 L 479.769,828.915 L 475.237,846.092 L 475.055,861.173 L 479.769,876.249 z"
+       style="fill:url(#linearGradient5744);stroke:none;stroke-width:1px;fill-opacity:1" />
+    <path
+       id="polygon654"
+       d="M 479.769,876.249 L 475.055,861.173 L 466.818,862.189 L 463.351,876.249 L 479.769,876.249 z"
+       style="fill:url(#linearGradient5744);stroke:none;stroke-width:1px;fill-opacity:1" />
+  </g>
+  <path
+     style="fill:url(#linearGradient5549);stroke:none;stroke-width:1px;fill-opacity:1"
+     d="M 464.651,311.76 L 464.569,319.152 L 471.629,319.199 L 471.711,311.806 L 464.651,311.76 z"
+     id="polygon656" />
+  <path
+     style="fill:url(#linearGradient5547);stroke:none;stroke-width:1px;fill-opacity:1"
+     d="M 471.711,311.806 L 471.629,319.199 L 483.26,319.174 L 483.319,311.781 L 471.711,311.806 z"
+     id="polygon662" />
+  <path
+     style="fill:url(#linearGradient5551);stroke:none;stroke-width:1px;fill-opacity:1"
+     d="M 483.319,311.781 L 483.26,319.174 L 492.965,319.169 L 493.034,311.777 L 483.319,311.781 z"
+     id="polygon672" />
+  <path
+     style="fill:#4b4b4b;stroke:none;stroke-width:1px;fill-opacity:1"
+     d="M 206.551,1022.402 L 206.232,1013.318 L 190.707,1013.527 L 190.967,1022.613 L 206.551,1022.402 z"
+     id="polygon682" />
+  <path
+     style="fill:#4b4b4b;stroke:none;stroke-width:1px;fill-opacity:1"
+     d="M 190.967,1022.613 L 190.707,1013.527 L 177.591,1013.716 L 177.83,1022.801 L 190.967,1022.613 z"
+     id="polygon692" />
+  <path
+     style="fill:#4b4b4b;stroke:none;stroke-width:1px;fill-opacity:1"
+     d="M 177.83,1022.801 L 177.591,1013.716 L 160.088,1013.344 L 160.327,1022.43 L 177.83,1022.801 z"
+     id="polygon698" />
+  <g
+     id="g5527"
+     style="fill-opacity:1;fill:url(#linearGradient5539);stroke:none">
+    <path
+       id="polygon674"
+       d="M 464.431,319.49 L 464.569,312.098 L 457.8,311.985 L 457.701,319.377 L 464.431,319.49 z"
+       style="fill:url(#linearGradient5539);stroke:none;stroke-width:1px;fill-opacity:1" />
+    <path
+       id="polygon686"
+       d="M 457.701,319.377 L 457.8,311.985 L 447.003,311.847 L 446.943,319.24 L 457.701,319.377 z"
+       style="fill:url(#linearGradient5539);stroke:none;stroke-width:1px;fill-opacity:1" />
+    <path
+       id="polygon688"
+       d="M 446.943,319.24 L 447.003,311.847 L 439.275,311.76 L 439.223,319.153 L 446.943,319.24 z"
+       style="fill:url(#linearGradient5539);stroke:none;stroke-width:1px;fill-opacity:1" />
+    <path
+       id="polygon702"
+       d="M 439.223,319.153 L 439.275,311.76 L 424.21,312.056 L 424.158,319.449 L 439.223,319.153 z"
+       style="fill:url(#linearGradient5539);stroke:none;stroke-width:1px;fill-opacity:1" />
+  </g>
+  <g
+     id="g5629"
+     style="fill-opacity:1;fill:url(#linearGradient5669);stroke:none">
+    <path
+       id="polygon658"
+       d="M 430.458,279.307 L 424.158,279.181 L 424.814,286.755 L 430.912,283.747 L 430.458,279.307 z"
+       style="fill:url(#linearGradient5669);stroke:none;stroke-width:1px;fill-opacity:1" />
+    <path
+       id="polygon666"
+       d="M 424.814,286.755 L 434.242,298.369 L 438.876,293.768 L 430.912,283.747 L 424.814,286.755 z"
+       style="fill:url(#linearGradient5669);stroke:none;stroke-width:1px;fill-opacity:1" />
+    <path
+       id="polygon670"
+       d="M 438.876,293.768 L 434.242,298.369 L 443.813,307.921 L 446.208,301.641 L 438.876,293.768 z"
+       style="fill:url(#linearGradient5669);stroke:none;stroke-width:1px;fill-opacity:1" />
+    <path
+       id="polygon676"
+       d="M 446.208,301.641 L 443.813,307.921 L 454.518,311.76 L 454.225,304.976 L 446.208,301.641 z"
+       style="fill:url(#linearGradient5669);stroke:none;stroke-width:1px;fill-opacity:1" />
+    <path
+       id="polygon684"
+       d="M 454.225,304.976 L 454.518,311.76 L 465.027,307.723 L 461.627,302.006 L 454.225,304.976 z"
+       style="fill:url(#linearGradient5669);stroke:none;stroke-width:1px;fill-opacity:1" />
+    <path
+       id="polygon690"
+       d="M 461.627,302.006 L 465.027,307.723 L 470.858,302.191 L 466.589,297.197 L 461.627,302.006 z"
+       style="fill:url(#linearGradient5669);stroke:none;stroke-width:1px;fill-opacity:1" />
+    <path
+       id="polygon700"
+       d="M 466.589,297.197 L 470.858,302.191 L 482.013,291.06 L 473.151,290.726 L 466.589,297.197 z"
+       style="fill:url(#linearGradient5669);stroke:none;stroke-width:1px;fill-opacity:1" />
+    <path
+       id="polygon704"
+       d="M 473.151,290.726 L 482.013,291.06 L 471.791,279.154 L 467.157,283.755 L 473.151,290.726 z"
+       style="fill:url(#linearGradient5669);stroke:none;stroke-width:1px;fill-opacity:1" />
+  </g>
+  <path
+     style="fill:#4b4b4b;stroke:none;stroke-width:1px;fill-opacity:1"
+     d="M 160.327,1022.43 L 160.088,1013.344 L 142.749,1013.318 L 142.709,1022.405 L 160.327,1022.43 z"
+     id="polygon706" />
+  <g
+     id="g5619"
+     style="fill-opacity:1;fill:url(#linearGradient5667);stroke:none">
+    <path
+       id="polygon660"
+       d="M 482.126,246.503 L 475.828,246.663 L 475.386,251.104 L 481.492,254.079 L 482.126,246.503 z"
+       style="fill:url(#linearGradient5667);stroke:none;stroke-width:1px;fill-opacity:1" />
+    <path
+       id="polygon664"
+       d="M 475.386,251.104 L 467.375,261.167 L 472.03,265.742 L 481.492,254.079 L 475.386,251.104 z"
+       style="fill:url(#linearGradient5667);stroke:none;stroke-width:1px;fill-opacity:1" />
+    <path
+       id="polygon668"
+       d="M 472.03,265.742 L 467.375,261.167 L 460.025,269.044 L 462.449,275.311 L 472.03,265.742 z"
+       style="fill:url(#linearGradient5667);stroke:none;stroke-width:1px;fill-opacity:1" />
+    <path
+       id="polygon678"
+       d="M 462.449,275.311 L 460.025,269.044 L 451.987,272.37 L 451.726,279.154 L 462.449,275.311 z"
+       style="fill:url(#linearGradient5667);stroke:none;stroke-width:1px;fill-opacity:1" />
+    <path
+       id="polygon680"
+       d="M 451.726,279.154 L 451.987,272.37 L 444.564,269.368 L 441.191,275.103 L 451.726,279.154 z"
+       style="fill:url(#linearGradient5667);stroke:none;stroke-width:1px;fill-opacity:1" />
+    <path
+       id="polygon694"
+       d="M 441.191,275.103 L 444.564,269.368 L 439.591,264.557 L 435.345,269.573 L 441.191,275.103 z"
+       style="fill:url(#linearGradient5667);stroke:none;stroke-width:1px;fill-opacity:1" />
+    <path
+       id="polygon696"
+       d="M 435.345,269.573 L 439.591,264.557 L 433.01,258.107 L 424.158,258.479 L 435.345,269.573 z"
+       style="fill:url(#linearGradient5667);stroke:none;stroke-width:1px;fill-opacity:1" />
+    <path
+       id="polygon708"
+       d="M 424.158,258.479 L 433.01,258.107 L 439.105,251.028 L 434.45,246.453 L 424.158,258.479 z"
+       style="fill:url(#linearGradient5667);stroke:none;stroke-width:1px;fill-opacity:1" />
+  </g>
+  <path
+     style="fill:#4b4b4b;stroke:none;stroke-width:1px;fill-opacity:1"
+     d="M 160.375,1012.945 L 160.135,1003.835 L 142.749,1003.808 L 142.709,1012.92 L 160.375,1012.945 z"
+     id="polygon712" />
+  <path
+     style="fill:#4b4b4b;stroke:none;stroke-width:1px;fill-opacity:1"
+     d="M 177.926,1013.318 L 177.686,1004.207 L 160.135,1003.835 L 160.375,1012.945 L 177.926,1013.318 z"
+     id="polygon720" />
+  <path
+     style="fill:#4b4b4b;stroke:none;stroke-width:1px;fill-opacity:1"
+     d="M 191.098,1013.129 L 190.838,1004.018 L 177.686,1004.207 L 177.926,1013.318 L 191.098,1013.129 z"
+     id="polygon726" />
+  <path
+     style="fill:#4b4b4b;stroke:none;stroke-width:1px;fill-opacity:1"
+     d="M 206.725,1012.918 L 206.405,1003.808 L 190.838,1004.018 L 191.098,1013.129 L 206.725,1012.918 z"
+     id="polygon736" />
+  <g
+     id="g5501"
+     style="fill-opacity:1;fill:url(#linearGradient5513);stroke:none">
+    <path
+       id="polygon716"
+       d="M 437.388,230.048 L 437.44,222.654 L 422.375,222.951 L 422.323,230.344 L 437.388,230.048 z"
+       style="fill:url(#linearGradient5513);stroke:none;stroke-width:1px;fill-opacity:1" />
+    <path
+       id="polygon730"
+       d="M 445.108,230.135 L 445.169,222.742 L 437.44,222.654 L 437.388,230.048 L 445.108,230.135 z"
+       style="fill:url(#linearGradient5513);stroke:none;stroke-width:1px;fill-opacity:1" />
+    <path
+       id="polygon732"
+       d="M 455.867,230.272 L 455.965,222.88 L 445.169,222.742 L 445.108,230.135 L 455.867,230.272 z"
+       style="fill:url(#linearGradient5513);stroke:none;stroke-width:1px;fill-opacity:1" />
+    <path
+       id="polygon744"
+       d="M 462.596,230.385 L 462.734,222.993 L 455.965,222.88 L 455.867,230.272 L 462.596,230.385 z"
+       style="fill:url(#linearGradient5513);stroke:none;stroke-width:1px;fill-opacity:1" />
+  </g>
+  <path
+     style="fill:url(#linearGradient5525);stroke:none;stroke-width:1px;fill-opacity:1"
+     d="M 481.484,222.676 L 481.425,230.069 L 491.131,230.064 L 491.2,222.671 L 481.484,222.676 z"
+     id="polygon746" />
+  <path
+     style="fill:url(#linearGradient5523);stroke:none;stroke-width:1px;fill-opacity:1"
+     d="M 469.876,222.701 L 469.794,230.094 L 481.425,230.069 L 481.484,222.676 L 469.876,222.701 z"
+     id="polygon756" />
+  <g
+     id="g5591"
+     style="fill-opacity:1;fill:url(#linearGradient5607);stroke:none">
+    <path
+       id="polygon710"
+       d="M 422.323,169.374 L 431.176,169.002 L 437.271,161.923 L 432.616,157.348 L 422.323,169.374 z"
+       style="fill:url(#linearGradient5607);stroke:none;stroke-width:1px;fill-opacity:1" />
+    <path
+       id="polygon722"
+       d="M 433.51,180.468 L 437.756,175.451 L 431.176,169.002 L 422.323,169.374 L 433.51,180.468 z"
+       style="fill:url(#linearGradient5607);stroke:none;stroke-width:1px;fill-opacity:1" />
+    <path
+       id="polygon724"
+       d="M 439.356,185.998 L 442.729,180.263 L 437.756,175.451 L 433.51,180.468 L 439.356,185.998 z"
+       style="fill:url(#linearGradient5607);stroke:none;stroke-width:1px;fill-opacity:1" />
+    <path
+       id="polygon738"
+       d="M 449.892,190.049 L 450.152,183.265 L 442.729,180.263 L 439.356,185.998 L 449.892,190.049 z"
+       style="fill:url(#linearGradient5607);stroke:none;stroke-width:1px;fill-opacity:1" />
+    <path
+       id="polygon740"
+       d="M 460.614,186.206 L 458.19,179.939 L 450.152,183.265 L 449.892,190.049 L 460.614,186.206 z"
+       style="fill:url(#linearGradient5607);stroke:none;stroke-width:1px;fill-opacity:1" />
+    <path
+       id="polygon750"
+       d="M 470.196,176.637 L 465.541,172.061 L 458.19,179.939 L 460.614,186.206 L 470.196,176.637 z"
+       style="fill:url(#linearGradient5607);stroke:none;stroke-width:1px;fill-opacity:1" />
+    <path
+       id="polygon754"
+       d="M 473.551,161.999 L 465.541,172.061 L 470.196,176.637 L 479.658,164.974 L 473.551,161.999 z"
+       style="fill:url(#linearGradient5607);stroke:none;stroke-width:1px;fill-opacity:1" />
+    <path
+       id="polygon758"
+       d="M 480.292,157.398 L 473.993,157.558 L 473.551,161.999 L 479.658,164.974 L 480.292,157.398 z"
+       style="fill:url(#linearGradient5607);stroke:none;stroke-width:1px;fill-opacity:1" />
+  </g>
+  <g
+     id="g5609"
+     style="fill-opacity:1;fill:url(#linearGradient5665);stroke:none">
+    <path
+       id="polygon714"
+       d="M 471.316,201.621 L 480.178,201.955 L 469.956,190.049 L 465.322,194.65 L 471.316,201.621 z"
+       style="fill:url(#linearGradient5665);stroke:none;stroke-width:1px;fill-opacity:1" />
+    <path
+       id="polygon718"
+       d="M 464.754,208.092 L 469.024,213.086 L 480.178,201.955 L 471.316,201.621 L 464.754,208.092 z"
+       style="fill:url(#linearGradient5665);stroke:none;stroke-width:1px;fill-opacity:1" />
+    <path
+       id="polygon728"
+       d="M 459.792,212.901 L 463.192,218.618 L 469.024,213.086 L 464.754,208.092 L 459.792,212.901 z"
+       style="fill:url(#linearGradient5665);stroke:none;stroke-width:1px;fill-opacity:1" />
+    <path
+       id="polygon734"
+       d="M 452.391,215.871 L 452.683,222.654 L 463.192,218.618 L 459.792,212.901 L 452.391,215.871 z"
+       style="fill:url(#linearGradient5665);stroke:none;stroke-width:1px;fill-opacity:1" />
+    <path
+       id="polygon742"
+       d="M 444.373,212.536 L 441.978,218.816 L 452.683,222.654 L 452.391,215.871 L 444.373,212.536 z"
+       style="fill:url(#linearGradient5665);stroke:none;stroke-width:1px;fill-opacity:1" />
+    <path
+       id="polygon748"
+       d="M 437.041,204.663 L 432.407,209.264 L 441.978,218.816 L 444.373,212.536 L 437.041,204.663 z"
+       style="fill:url(#linearGradient5665);stroke:none;stroke-width:1px;fill-opacity:1" />
+    <path
+       id="polygon752"
+       d="M 422.979,197.65 L 432.407,209.264 L 437.041,204.663 L 429.078,194.642 L 422.979,197.65 z"
+       style="fill:url(#linearGradient5665);stroke:none;stroke-width:1px;fill-opacity:1" />
+    <path
+       id="polygon760"
+       d="M 428.623,190.202 L 422.323,190.076 L 422.979,197.65 L 429.078,194.642 L 428.623,190.202 z"
+       style="fill:url(#linearGradient5665);stroke:none;stroke-width:1px;fill-opacity:1" />
+  </g>
+  <path
+     style="fill:url(#linearGradient5521);stroke:none;stroke-width:1px;fill-opacity:1"
+     d="M 462.816,222.654 L 462.734,230.047 L 469.794,230.094 L 469.876,222.701 L 462.816,222.654 z"
+     id="polygon762" />
+  <path
+     style="fill:url(#linearGradient5585);stroke:none;stroke-width:1px;fill-opacity:1"
+     d="M 465.16,395.585 L 465.073,402.978 L 472.56,403.025 L 472.647,395.632 L 465.16,395.585 z"
+     id="polygon764" />
+  <path
+     style="fill:url(#linearGradient5587);stroke:none;stroke-width:1px;fill-opacity:1"
+     d="M 472.647,395.632 L 472.56,403.025 L 484.893,403 L 484.956,395.607 L 472.647,395.632 z"
+     id="polygon770" />
+  <path
+     style="fill:url(#linearGradient5589);stroke:none;stroke-width:1px;fill-opacity:1"
+     d="M 484.956,395.607 L 484.893,403 L 495.185,402.994 L 495.258,395.602 L 484.956,395.607 z"
+     id="polygon780" />
+  <path
+     style="fill:#4b4b4b;stroke:none;stroke-width:1px;fill-opacity:1"
+     d="M 207.278,1003.405 L 206.955,994.217 L 191.253,994.429 L 191.516,1003.617 L 207.278,1003.405 z"
+     id="polygon790" />
+  <path
+     style="fill:#4b4b4b;stroke:none;stroke-width:1px;fill-opacity:1"
+     d="M 191.516,1003.617 L 191.253,994.429 L 177.988,994.619 L 178.23,1003.808 L 191.516,1003.617 z"
+     id="polygon800" />
+  <path
+     style="fill:#4b4b4b;stroke:none;stroke-width:1px;fill-opacity:1"
+     d="M 178.23,1003.808 L 177.988,994.619 L 160.286,994.244 L 160.528,1003.433 L 178.23,1003.808 z"
+     id="polygon806" />
+  <g
+     id="g5565"
+     style="fill-opacity:1;fill:url(#linearGradient5577);stroke:none">
+    <path
+       id="polygon782"
+       d="M 464.927,403.315 L 465.073,395.923 L 457.895,395.81 L 457.79,403.203 L 464.927,403.315 z"
+       style="fill:url(#linearGradient5577);stroke:none;stroke-width:1px;fill-opacity:1" />
+    <path
+       id="polygon794"
+       d="M 457.79,403.203 L 457.895,395.81 L 446.446,395.672 L 446.382,403.066 L 457.79,403.203 z"
+       style="fill:url(#linearGradient5577);stroke:none;stroke-width:1px;fill-opacity:1" />
+    <path
+       id="polygon796"
+       d="M 446.382,403.066 L 446.446,395.672 L 438.251,395.585 L 438.196,402.978 L 446.382,403.066 z"
+       style="fill:url(#linearGradient5577);stroke:none;stroke-width:1px;fill-opacity:1" />
+    <path
+       id="polygon810"
+       d="M 438.196,402.978 L 438.251,395.585 L 422.276,395.882 L 422.221,403.275 L 438.196,402.978 z"
+       style="fill:url(#linearGradient5577);stroke:none;stroke-width:1px;fill-opacity:1" />
+  </g>
+  <g
+     id="g5649"
+     style="fill-opacity:1;fill:url(#linearGradient5673);stroke:none">
+    <path
+       id="polygon766"
+       d="M 428.901,363.133 L 422.221,363.007 L 422.916,370.581 L 429.383,367.572 L 428.901,363.133 z"
+       style="fill:url(#linearGradient5673);stroke:none;stroke-width:1px;fill-opacity:1" />
+    <path
+       id="polygon774"
+       d="M 422.916,370.581 L 432.914,382.194 L 437.828,377.593 L 429.383,367.572 L 422.916,370.581 z"
+       style="fill:url(#linearGradient5673);stroke:none;stroke-width:1px;fill-opacity:1" />
+    <path
+       id="polygon778"
+       d="M 437.828,377.593 L 432.914,382.194 L 443.063,391.747 L 445.603,385.466 L 437.828,377.593 z"
+       style="fill:url(#linearGradient5673);stroke:none;stroke-width:1px;fill-opacity:1" />
+    <path
+       id="polygon784"
+       d="M 445.603,385.466 L 443.063,391.747 L 454.414,395.585 L 454.105,388.802 L 445.603,385.466 z"
+       style="fill:url(#linearGradient5673);stroke:none;stroke-width:1px;fill-opacity:1" />
+    <path
+       id="polygon792"
+       d="M 454.105,388.802 L 454.414,395.585 L 465.559,391.548 L 461.953,385.831 L 454.105,388.802 z"
+       style="fill:url(#linearGradient5673);stroke:none;stroke-width:1px;fill-opacity:1" />
+    <path
+       id="polygon798"
+       d="M 461.953,385.831 L 465.559,391.548 L 471.742,386.016 L 467.215,381.023 L 461.953,385.831 z"
+       style="fill:url(#linearGradient5673);stroke:none;stroke-width:1px;fill-opacity:1" />
+    <path
+       id="polygon808"
+       d="M 467.215,381.023 L 471.742,386.016 L 483.571,374.886 L 474.173,374.551 L 467.215,381.023 z"
+       style="fill:url(#linearGradient5673);stroke:none;stroke-width:1px;fill-opacity:1" />
+    <path
+       id="polygon812"
+       d="M 474.173,374.551 L 483.571,374.886 L 472.732,362.98 L 467.817,367.581 L 474.173,374.551 z"
+       style="fill:url(#linearGradient5673);stroke:none;stroke-width:1px;fill-opacity:1" />
+  </g>
+  <path
+     style="fill:#4b4b4b;stroke:none;stroke-width:1px;fill-opacity:1"
+     d="M 160.528,1003.433 L 160.286,994.244 L 142.75,994.217 L 142.709,1003.407 L 160.528,1003.433 z"
+     id="polygon814" />
+  <g
+     id="g5639"
+     style="fill-opacity:1;fill:url(#linearGradient5671);stroke:none">
+    <path
+       id="polygon768"
+       d="M 483.691,330.328 L 477.012,330.488 L 476.544,334.929 L 483.019,337.904 L 483.691,330.328 z"
+       style="fill:url(#linearGradient5671);stroke:none;stroke-width:1px;fill-opacity:1" />
+    <path
+       id="polygon772"
+       d="M 476.544,334.929 L 468.049,344.992 L 472.985,349.567 L 483.019,337.904 L 476.544,334.929 z"
+       style="fill:url(#linearGradient5671);stroke:none;stroke-width:1px;fill-opacity:1" />
+    <path
+       id="polygon776"
+       d="M 472.985,349.567 L 468.049,344.992 L 460.254,352.87 L 462.825,359.137 L 472.985,349.567 z"
+       style="fill:url(#linearGradient5671);stroke:none;stroke-width:1px;fill-opacity:1" />
+    <path
+       id="polygon786"
+       d="M 462.825,359.137 L 460.254,352.87 L 451.731,356.196 L 451.455,362.98 L 462.825,359.137 z"
+       style="fill:url(#linearGradient5671);stroke:none;stroke-width:1px;fill-opacity:1" />
+    <path
+       id="polygon788"
+       d="M 451.455,362.98 L 451.731,356.196 L 443.86,353.194 L 440.283,358.929 L 451.455,362.98 z"
+       style="fill:url(#linearGradient5671);stroke:none;stroke-width:1px;fill-opacity:1" />
+    <path
+       id="polygon802"
+       d="M 440.283,358.929 L 443.86,353.194 L 438.586,348.382 L 434.083,353.399 L 440.283,358.929 z"
+       style="fill:url(#linearGradient5671);stroke:none;stroke-width:1px;fill-opacity:1" />
+    <path
+       id="polygon804"
+       d="M 434.083,353.399 L 438.586,348.382 L 431.608,341.932 L 422.221,342.304 L 434.083,353.399 z"
+       style="fill:url(#linearGradient5671);stroke:none;stroke-width:1px;fill-opacity:1" />
+    <path
+       id="polygon816"
+       d="M 422.221,342.304 L 431.608,341.932 L 438.071,334.854 L 433.135,330.278 L 422.221,342.304 z"
+       style="fill:url(#linearGradient5671);stroke:none;stroke-width:1px;fill-opacity:1" />
+  </g>
+  <path
+     style="fill:#ababab;stroke:none;stroke-width:1px;fill-opacity:1"
+     d="M 142.013,570.175 L 167.818,574.351 L 168.063,582.175 L 139.735,577.826 L 142.013,570.175 z"
+     id="polygon818" />
+  <path
+     style="fill:#ababab;stroke:none;stroke-width:1px;fill-opacity:1"
+     d="M 201.833,601.611 L 173.497,606.042 L 173.514,598.331 L 199.366,594.109 L 201.833,601.611 z"
+     id="polygon820" />
+  <path
+     style="fill:#c4c4c4;stroke:none;stroke-width:1px;fill-opacity:1"
+     d="M 139.847,613.232 L 167.963,613.275 L 167.878,620.299 L 139.735,620.257 L 139.847,613.232 z"
+     id="polygon822" />
+  <path
+     style="fill:#c4c4c4;stroke:none;stroke-width:1px;fill-opacity:1"
+     d="M 201.86,613.128 L 201.748,606.104 L 173.632,606.146 L 173.717,613.17 L 201.86,613.128 z"
+     id="polygon824" />
+  <path
+     style="fill:#ababab;stroke:none;stroke-width:1px;fill-opacity:1"
+     d="M 142.203,582.175 L 139.735,589.677 L 168.072,594.109 L 168.055,586.398 L 142.203,582.175 z"
+     id="polygon826" />
+  <path
+     style="fill:#ababab;stroke:none;stroke-width:1px;fill-opacity:1"
+     d="M 201.702,565.826 L 199.425,558.174 L 173.619,562.351 L 173.375,570.175 L 201.702,565.826 z"
+     id="polygon828" />
+  <path
+     style="fill:#ababab;stroke:none;stroke-width:1px;fill-opacity:1"
+     d="M 173.375,570.175 L 173.619,562.351 L 146.447,558.201 L 139.735,564.343 L 173.375,570.175 z"
+     id="polygon830" />
+  <path
+     style="fill:#ababab;stroke:none;stroke-width:1px;fill-opacity:1"
+     d="M 168.055,586.398 L 168.072,594.109 L 201.834,588.375 L 195.385,582.228 L 168.055,586.398 z"
+     id="polygon832" />
+  <path
+     style="fill:#9d9d9d;stroke:none;stroke-width:1px;fill-opacity:1"
+     d="M 173.717,613.17 L 173.632,606.146 L 139.747,606.042 L 139.735,613.067 L 173.717,613.17 z"
+     id="polygon834" />
+  <path
+     style="fill:#9d9d9d;stroke:none;stroke-width:1px;fill-opacity:1"
+     d="M 167.963,613.275 L 201.848,613.17 L 201.86,620.195 L 167.878,620.299 L 167.963,613.275 z"
+     id="polygon836" />
+  <path
+     style="fill:#ababab;stroke:none;stroke-width:1px;fill-opacity:1"
+     d="M 173.497,606.042 L 139.735,600.308 L 146.185,594.161 L 173.514,598.331 L 173.497,606.042 z"
+     id="polygon838" />
+  <path
+     style="fill:#ababab;stroke:none;stroke-width:1px;fill-opacity:1"
+     d="M 167.818,574.351 L 194.99,570.201 L 201.702,576.343 L 168.063,582.175 L 167.818,574.351 z"
+     id="polygon840" />
+  <path
+     style="fill:#ababab;stroke:none;stroke-width:1px;fill-opacity:1"
+     d="M 173.625,719.35 L 200.797,715.2 L 207.509,721.342 L 173.869,727.174 L 173.625,719.35 z"
+     id="polygon842" />
+  <path
+     style="fill:#ababab;stroke:none;stroke-width:1px;fill-opacity:1"
+     d="M 179.304,751.04 L 145.542,745.307 L 151.991,739.16 L 179.321,743.33 L 179.304,751.04 z"
+     id="polygon844" />
+  <path
+     style="fill:#9d9d9d;stroke:none;stroke-width:1px;fill-opacity:1"
+     d="M 173.77,758.273 L 207.655,758.169 L 207.666,765.194 L 173.684,765.298 L 173.77,758.273 z"
+     id="polygon846" />
+  <path
+     style="fill:#9d9d9d;stroke:none;stroke-width:1px;fill-opacity:1"
+     d="M 179.524,758.169 L 179.438,751.144 L 145.553,751.04 L 145.542,758.065 L 179.524,758.169 z"
+     id="polygon848" />
+  <path
+     style="fill:#ababab;stroke:none;stroke-width:1px;fill-opacity:1"
+     d="M 173.861,731.397 L 173.878,739.107 L 207.64,733.374 L 201.191,727.227 L 173.861,731.397 z"
+     id="polygon850" />
+  <path
+     style="fill:#ababab;stroke:none;stroke-width:1px;fill-opacity:1"
+     d="M 179.181,715.174 L 179.426,707.349 L 152.254,703.199 L 145.542,709.341 L 179.181,715.174 z"
+     id="polygon852" />
+  <path
+     style="fill:#ababab;stroke:none;stroke-width:1px;fill-opacity:1"
+     d="M 207.509,710.824 L 205.231,703.173 L 179.426,707.349 L 179.181,715.174 L 207.509,710.824 z"
+     id="polygon854" />
+  <path
+     style="fill:#ababab;stroke:none;stroke-width:1px;fill-opacity:1"
+     d="M 148.009,727.174 L 145.542,734.676 L 173.878,739.107 L 173.861,731.397 L 148.009,727.174 z"
+     id="polygon856" />
+  <path
+     style="fill:#c4c4c4;stroke:none;stroke-width:1px;fill-opacity:1"
+     d="M 207.666,758.126 L 207.554,751.102 L 179.438,751.144 L 179.524,758.169 L 207.666,758.126 z"
+     id="polygon858" />
+  <path
+     style="fill:#c4c4c4;stroke:none;stroke-width:1px;fill-opacity:1"
+     d="M 145.654,758.231 L 173.77,758.273 L 173.684,765.298 L 145.542,765.255 L 145.654,758.231 z"
+     id="polygon860" />
+  <path
+     style="fill:#ababab;stroke:none;stroke-width:1px;fill-opacity:1"
+     d="M 207.64,746.609 L 179.304,751.04 L 179.321,743.33 L 205.172,739.107 L 207.64,746.609 z"
+     id="polygon862" />
+  <path
+     style="fill:#ababab;stroke:none;stroke-width:1px;fill-opacity:1"
+     d="M 147.82,715.174 L 173.625,719.35 L 173.869,727.174 L 145.542,722.825 L 147.82,715.174 z"
+     id="polygon864" />
+  <path
+     style="fill:#ababab;stroke:none;stroke-width:1px;fill-opacity:1"
+     d="M 148.898,870.349 L 174.703,874.525 L 174.948,882.349 L 146.62,878 L 148.898,870.349 z"
+     id="polygon866" />
+  <path
+     style="fill:#ababab;stroke:none;stroke-width:1px;fill-opacity:1"
+     d="M 208.718,901.784 L 180.382,906.215 L 180.399,898.505 L 206.251,894.282 L 208.718,901.784 z"
+     id="polygon868" />
+  <path
+     style="fill:#c4c4c4;stroke:none;stroke-width:1px;fill-opacity:1"
+     d="M 146.732,913.406 L 174.848,913.448 L 174.763,920.473 L 146.62,920.43 L 146.732,913.406 z"
+     id="polygon870" />
+  <path
+     style="fill:#c4c4c4;stroke:none;stroke-width:1px;fill-opacity:1"
+     d="M 208.745,913.302 L 208.633,906.277 L 180.517,906.32 L 180.602,913.344 L 208.745,913.302 z"
+     id="polygon872" />
+  <path
+     style="fill:#ababab;stroke:none;stroke-width:1px;fill-opacity:1"
+     d="M 149.088,882.349 L 146.62,889.851 L 174.957,894.282 L 174.939,886.572 L 149.088,882.349 z"
+     id="polygon874" />
+  <path
+     style="fill:#ababab;stroke:none;stroke-width:1px;fill-opacity:1"
+     d="M 208.587,866 L 206.309,858.348 L 180.504,862.524 L 180.259,870.349 L 208.587,866 z"
+     id="polygon876" />
+  <path
+     style="fill:#ababab;stroke:none;stroke-width:1px;fill-opacity:1"
+     d="M 180.259,870.349 L 180.504,862.524 L 153.332,858.374 L 146.62,864.516 L 180.259,870.349 z"
+     id="polygon878" />
+  <path
+     style="fill:#ababab;stroke:none;stroke-width:1px;fill-opacity:1"
+     d="M 174.939,886.572 L 174.957,894.282 L 208.719,888.549 L 202.269,882.402 L 174.939,886.572 z"
+     id="polygon880" />
+  <path
+     style="fill:#9d9d9d;stroke:none;stroke-width:1px;fill-opacity:1"
+     d="M 180.602,913.344 L 180.517,906.32 L 146.632,906.215 L 146.62,913.24 L 180.602,913.344 z"
+     id="polygon882" />
+  <path
+     style="fill:#9d9d9d;stroke:none;stroke-width:1px;fill-opacity:1"
+     d="M 174.848,913.448 L 208.733,913.344 L 208.744,920.369 L 174.763,920.473 L 174.848,913.448 z"
+     id="polygon884" />
+  <path
+     style="fill:#ababab;stroke:none;stroke-width:1px;fill-opacity:1"
+     d="M 180.382,906.215 L 146.62,900.482 L 153.069,894.335 L 180.399,898.505 L 180.382,906.215 z"
+     id="polygon886" />
+  <path
+     style="fill:#ababab;stroke:none;stroke-width:1px;fill-opacity:1"
+     d="M 174.703,874.525 L 201.875,870.375 L 208.587,876.517 L 174.948,882.349 L 174.703,874.525 z"
+     id="polygon888" />
+  <g
+     id="g5054"
+     style="fill-opacity:1;fill:url(#linearGradient5072);stroke:none">
+    <path
+       id="polygon892"
+       d="M 96.423,1009.495 L 116.702,1021.688 L 138.803,985.831 L 117.618,973.093 L 96.423,1009.495 z"
+       style="fill:url(#linearGradient5072);stroke:none;stroke-width:1px;fill-opacity:1" />
+    <path
+       id="polygon896"
+       d="M 138.803,985.831 L 135.451,965.001 L 117.618,973.093 L 138.803,985.831 z"
+       style="fill:url(#linearGradient5072);stroke:none;stroke-width:1px;fill-opacity:1" />
+    <path
+       id="polygon900"
+       d="M 184.72,938.896 L 194.758,956.98 L 213.206,946.744 L 203.168,928.66 L 184.72,938.896 z"
+       style="fill:url(#linearGradient5072);stroke:none;stroke-width:1px;fill-opacity:1" />
+    <path
+       id="polygon910"
+       d="M 137.255,884.735 L 114.571,884.475 L 114.337,905.571 L 137.02,905.831 L 137.255,884.735 z"
+       style="fill:url(#linearGradient5072);stroke:none;stroke-width:1px;fill-opacity:1" />
+    <path
+       id="polygon914"
+       d="M 194.758,956.98 L 213.875,966.323 L 213.206,946.744 L 194.758,956.98 z"
+       style="fill:url(#linearGradient5072);stroke:none;stroke-width:1px;fill-opacity:1" />
+    <path
+       id="polygon916"
+       d="M 194.758,956.98 L 198.137,977.844 L 213.875,966.323 L 194.758,956.98 z"
+       style="fill:url(#linearGradient5072);stroke:none;stroke-width:1px;fill-opacity:1" />
+    <path
+       id="polygon918"
+       d="M 97.029,893.195 L 114.337,905.571 L 114.571,884.475 L 97.029,893.195 z"
+       style="fill:url(#linearGradient5072);stroke:none;stroke-width:1px;fill-opacity:1" />
+    <path
+       id="polygon922"
+       d="M 94.375,912.518 L 114.337,905.571 L 97.029,893.195 L 94.375,912.518 z"
+       style="fill:url(#linearGradient5072);stroke:none;stroke-width:1px;fill-opacity:1" />
+    <path
+       id="polygon924"
+       d="M 117.618,973.093 L 135.451,965.001 L 114.337,905.571 L 94.375,912.518 L 117.618,973.093 z"
+       style="fill:url(#linearGradient5072);stroke:none;stroke-width:1px;fill-opacity:1" />
+    <path
+       id="polygon934"
+       d="M 138.803,985.831 L 198.137,977.844 L 194.758,956.98 L 135.451,965.001 L 138.803,985.831 z"
+       style="fill:url(#linearGradient5072);stroke:none;stroke-width:1px;fill-opacity:1" />
+  </g>
+  <g
+     id="g3270"
+     style="fill:#0f0f0f;fill-opacity:1">
+    <path
+       id="polygon82"
+       d="M 773.469,261.828 L 770.574,309.029 L 810.972,309.029 L 808.113,261.828 L 773.469,261.828 z"
+       style="fill:#0f0f0f;stroke:none;stroke-width:1px;fill-opacity:1" />
+    <path
+       id="polygon84"
+       d="M 942.462,261.087 L 939.56,308.4 L 980.054,308.4 L 977.189,261.087 L 942.462,261.087 z"
+       style="fill:#0f0f0f;stroke:none;stroke-width:1px;fill-opacity:1" />
+    <path
+       id="polygon86"
+       d="M 860.79,262.591 L 857.921,309.365 L 897.953,309.365 L 895.121,262.591 L 860.79,262.591 z"
+       style="fill:#0f0f0f;stroke:none;stroke-width:1px;fill-opacity:1" />
+    <path
+       id="polygon88"
+       d="M 818.657,261.807 L 815.762,309.007 L 856.159,309.007 L 853.301,261.807 L 818.657,261.807 z"
+       style="fill:#0f0f0f;stroke:none;stroke-width:1px;fill-opacity:1" />
+    <path
+       id="polygon938"
+       d="M 982.77,261.721 L 989.501,273.789 L 1006.164,273.795 L 1017.021,261.721 L 982.77,261.721 z"
+       style="fill:#0f0f0f;stroke:none;stroke-width:1px;fill-opacity:1" />
+    <path
+       id="polygon940"
+       d="M 982.77,261.721 L 979.908,308.385 L 989.501,290.128 L 989.501,273.789 L 982.77,261.721 z"
+       style="fill:#0f0f0f;stroke:none;stroke-width:1px;fill-opacity:1" />
+    <path
+       id="polygon942"
+       d="M 979.908,308.385 L 1019.847,308.385 L 1006.163,290.134 L 989.501,290.128 L 979.908,308.385 z"
+       style="fill:#0f0f0f;stroke:none;stroke-width:1px;fill-opacity:1" />
+    <path
+       id="polygon944"
+       d="M 1017.021,261.721 L 1006.164,273.795 L 1006.163,290.134 L 1019.847,308.385 L 1017.021,261.721 z"
+       style="fill:#0f0f0f;stroke:none;stroke-width:1px;fill-opacity:1" />
+    <path
+       id="polygon946"
+       d="M 902.287,262.251 L 909.806,274.403 L 926.511,274.399 L 936.625,262.251 L 902.287,262.251 z"
+       style="fill:#0f0f0f;stroke:none;stroke-width:1px;fill-opacity:1" />
+    <path
+       id="polygon948"
+       d="M 936.625,262.251 L 926.511,274.399 L 926.511,290.822 L 939.459,309.036 L 936.625,262.251 z"
+       style="fill:#0f0f0f;stroke:none;stroke-width:1px;fill-opacity:1" />
+    <path
+       id="polygon950"
+       d="M 899.417,309.036 L 939.459,309.036 L 926.511,290.822 L 909.806,290.826 L 899.417,309.036 z"
+       style="fill:#0f0f0f;stroke:none;stroke-width:1px;fill-opacity:1" />
+    <path
+       id="polygon952"
+       d="M 902.287,262.251 L 899.417,309.036 L 909.806,290.826 L 909.806,274.403 L 902.287,262.251 z"
+       style="fill:#0f0f0f;stroke:none;stroke-width:1px;fill-opacity:1" />
+  </g>
+  <g
+     id="g4244"
+     style="fill:url(#linearGradient5032);fill-opacity:1;stroke:none">
+    <path
+       id="polygon956"
+       d="M 132.64,685.085 L 190.643,676.445 L 187.045,656.057 L 129.07,664.729 L 132.64,685.085 z"
+       style="fill:url(#linearGradient5032);stroke:none;stroke-width:1px;fill-opacity:1" />
+    <path
+       id="polygon966"
+       d="M 111.715,672.901 L 129.07,664.729 L 107.571,606.813 L 88.116,613.891 L 111.715,672.901 z"
+       style="fill:url(#linearGradient5032);stroke:none;stroke-width:1px;fill-opacity:1" />
+    <path
+       id="polygon968"
+       d="M 88.116,613.891 L 107.571,606.813 L 90.449,594.93 L 88.116,613.891 z"
+       style="fill:url(#linearGradient5032);stroke:none;stroke-width:1px;fill-opacity:1" />
+    <path
+       id="polygon972"
+       d="M 90.449,594.93 L 107.571,606.813 L 107.51,586.147 L 90.449,594.93 z"
+       style="fill:url(#linearGradient5032);stroke:none;stroke-width:1px;fill-opacity:1" />
+    <path
+       id="polygon974"
+       d="M 187.045,656.057 L 190.643,676.445 L 205.898,664.945 L 187.045,656.057 z"
+       style="fill:url(#linearGradient5032);stroke:none;stroke-width:1px;fill-opacity:1" />
+    <path
+       id="polygon976"
+       d="M 187.045,656.057 L 205.898,664.945 L 204.973,645.778 L 187.045,656.057 z"
+       style="fill:url(#linearGradient5032);stroke:none;stroke-width:1px;fill-opacity:1" />
+    <path
+       id="polygon980"
+       d="M 129.731,586.09 L 107.51,586.147 L 107.571,606.813 L 129.791,606.756 L 129.731,586.09 z"
+       style="fill:url(#linearGradient5032);stroke:none;stroke-width:1px;fill-opacity:1" />
+    <path
+       id="polygon990"
+       d="M 176.965,638.484 L 187.045,656.057 L 204.973,645.778 L 194.893,628.203 L 176.965,638.484 z"
+       style="fill:url(#linearGradient5032);stroke:none;stroke-width:1px;fill-opacity:1" />
+    <path
+       id="polygon994"
+       d="M 132.64,685.085 L 129.07,664.729 L 111.715,672.901 L 132.64,685.085 z"
+       style="fill:url(#linearGradient5032);stroke:none;stroke-width:1px;fill-opacity:1" />
+    <path
+       id="polygon998"
+       d="M 91.458,708.845 L 111.487,720.508 L 132.64,685.085 L 111.715,672.901 L 91.458,708.845 z"
+       style="fill:url(#linearGradient5032);stroke:none;stroke-width:1px;fill-opacity:1" />
+  </g>
+  <g
+     id="g5105"
+     style="fill:#a4a4a4;fill-opacity:1;stroke:none">
+    <path
+       id="polygon894"
+       d="M 81.438,723.831 L 82.211,760.371 L 64.164,760.561 L 64.148,724.013 L 81.438,723.831 z"
+       style="fill:#a4a4a4;stroke:none;stroke-width:1px;fill-opacity:1" />
+    <path
+       id="polygon906"
+       d="M 64.921,833.774 L 64.742,816.853 L 82.806,816.662 L 82.984,833.583 L 64.921,833.774 z"
+       style="fill:#a4a4a4;stroke:none;stroke-width:1px;fill-opacity:1" />
+    <path
+       id="polygon908"
+       d="M 65.1,850.771 L 64.921,833.774 L 82.984,833.583 L 83.164,850.58 L 65.1,850.771 z"
+       style="fill:#a4a4a4;stroke:none;stroke-width:1px;fill-opacity:1" />
+    <path
+       id="polygon912"
+       d="M 65.422,868.423 L 65.1,850.771 L 83.164,850.58 L 83.393,870.261 L 65.422,868.423 z"
+       style="fill:#a4a4a4;stroke:none;stroke-width:1px;fill-opacity:1" />
+    <path
+       id="polygon928"
+       d="M 82.211,760.371 L 82.806,816.662 L 64.742,816.853 L 64.147,760.562 L 82.211,760.371 z"
+       style="fill:#a4a4a4;stroke:none;stroke-width:1px;fill-opacity:1" />
+    <path
+       id="polygon962"
+       d="M 63.673,609.758 L 63.672,666.048 L 81.735,666.049 L 81.736,609.758 L 63.673,609.758 z"
+       style="fill:#a4a4a4;stroke:none;stroke-width:1px;fill-opacity:1" />
+    <path
+       id="polygon978"
+       d="M 81.596,717.618 L 81.733,699.965 L 63.671,699.964 L 63.648,719.644 L 81.596,717.618 z"
+       style="fill:#a4a4a4;stroke:none;stroke-width:1px;fill-opacity:1" />
+    <path
+       id="polygon982"
+       d="M 81.733,699.965 L 81.734,682.969 L 63.672,682.969 L 63.671,699.964 L 81.733,699.965 z"
+       style="fill:#a4a4a4;stroke:none;stroke-width:1px;fill-opacity:1" />
+    <path
+       id="polygon984"
+       d="M 81.734,682.969 L 81.735,666.049 L 63.672,666.048 L 63.672,682.969 L 81.734,682.969 z"
+       style="fill:#a4a4a4;stroke:none;stroke-width:1px;fill-opacity:1" />
+    <path
+       id="polygon996"
+       d="M 81.35,573.213 L 64.06,573.213 L 63.673,609.758 L 81.736,609.758 L 81.35,573.213 z"
+       style="fill:#a4a4a4;stroke:none;stroke-width:1px;fill-opacity:1" />
+    <path
+       id="polygon1006"
+       d="M 83.288,871.286 L 65.998,871.286 L 65.611,907.831 L 83.675,907.831 L 83.288,871.286 z"
+       style="fill:#a4a4a4;stroke:none;stroke-width:1px;fill-opacity:1" />
+    <path
+       id="polygon1018"
+       d="M 83.674,981.042 L 83.675,964.121 L 65.612,964.121 L 65.612,981.042 L 83.674,981.042 z"
+       style="fill:#a4a4a4;stroke:none;stroke-width:1px;fill-opacity:1" />
+    <path
+       id="polygon1020"
+       d="M 83.674,998.037 L 83.674,981.042 L 65.612,981.042 L 65.612,998.037 L 83.674,998.037 z"
+       style="fill:#a4a4a4;stroke:none;stroke-width:1px;fill-opacity:1" />
+    <path
+       id="polygon1024"
+       d="M 83.538,1015.689 L 83.674,998.037 L 65.612,998.037 L 65.59,1017.716 L 83.538,1015.689 z"
+       style="fill:#a4a4a4;stroke:none;stroke-width:1px;fill-opacity:1" />
+    <path
+       id="polygon1040"
+       d="M 65.611,907.831 L 65.612,964.121 L 83.675,964.121 L 83.675,907.831 L 65.611,907.831 z"
+       style="fill:#a4a4a4;stroke:none;stroke-width:1px;fill-opacity:1" />
+  </g>
+  <g
+     id="g5074"
+     style="fill-opacity:1;fill:#858585;stroke:none">
+    <path
+       id="polygon920"
+       d="M 25.3,847.695 L 24.921,865.753 L 6.676,867.562 L 6.965,847.587 L 25.3,847.695 z"
+       style="fill:#858585;stroke:none;stroke-width:1px;fill-opacity:1" />
+    <path
+       id="polygon926"
+       d="M 25.271,792.038 L 25.3,847.695 L 6.965,847.587 L 6.936,792.047 L 25.271,792.038 z"
+       style="fill:#858585;stroke:none;stroke-width:1px;fill-opacity:1" />
+    <path
+       id="polygon930"
+       d="M 25.271,792.038 L 6.936,792.047 L 6.909,739.345 L 25.244,739.216 L 25.271,792.038 z"
+       style="fill:#858585;stroke:none;stroke-width:1px;fill-opacity:1" />
+    <path
+       id="polygon932"
+       d="M 6.676,721.132 L 24.963,722.459 L 25.244,739.216 L 6.909,739.345 L 6.676,721.132 z"
+       style="fill:#858585;stroke:none;stroke-width:1px;fill-opacity:1" />
+    <path
+       id="polygon958"
+       d="M 7.146,869.36 L 25.433,870.687 L 25.714,887.444 L 7.379,887.573 L 7.146,869.36 z"
+       style="fill:#858585;stroke:none;stroke-width:1px;fill-opacity:1" />
+    <path
+       id="polygon960"
+       d="M 25.741,940.266 L 7.406,940.275 L 7.379,887.573 L 25.714,887.444 L 25.741,940.266 z"
+       style="fill:#858585;stroke:none;stroke-width:1px;fill-opacity:1" />
+    <path
+       id="polygon964"
+       d="M 25.741,940.266 L 25.77,995.923 L 7.435,995.815 L 7.406,940.275 L 25.741,940.266 z"
+       style="fill:#858585;stroke:none;stroke-width:1px;fill-opacity:1" />
+    <path
+       id="polygon970"
+       d="M 25.77,995.923 L 25.392,1013.982 L 7.146,1015.79 L 7.435,995.815 L 25.77,995.923 z"
+       style="fill:#858585;stroke:none;stroke-width:1px;fill-opacity:1" />
+    <path
+       id="polygon1032"
+       d="M 25.79,699.345 L 25.412,717.403 L 7.166,719.212 L 7.455,699.237 L 25.79,699.345 z"
+       style="fill:#858585;stroke:none;stroke-width:1px;fill-opacity:1" />
+    <path
+       id="polygon1038"
+       d="M 25.761,643.687 L 25.79,699.345 L 7.455,699.237 L 7.426,643.697 L 25.761,643.687 z"
+       style="fill:#858585;stroke:none;stroke-width:1px;fill-opacity:1" />
+    <path
+       id="polygon1042"
+       d="M 25.761,643.687 L 7.426,643.697 L 7.399,590.995 L 25.734,590.866 L 25.761,643.687 z"
+       style="fill:#858585;stroke:none;stroke-width:1px;fill-opacity:1" />
+    <path
+       id="polygon1044"
+       d="M 7.166,572.782 L 25.453,574.108 L 25.734,590.866 L 7.399,590.995 L 7.166,572.782 z"
+       style="fill:#858585;stroke:none;stroke-width:1px;fill-opacity:1" />
+  </g>
+  <g
+     id="g5034"
+     style="fill-opacity:1;fill:url(#linearGradient5052);stroke:none">
+    <path
+       id="polygon1004"
+       d="M 93.069,856.235 L 112.538,867.441 L 132.867,833.006 L 112.528,821.299 L 93.069,856.235 z"
+       style="fill:url(#linearGradient5052);stroke:none;stroke-width:1px;fill-opacity:1" />
+    <path
+       id="polygon1008"
+       d="M 132.867,833.006 L 129.308,813.295 L 112.528,821.299 L 132.867,833.006 z"
+       style="fill:url(#linearGradient5052);stroke:none;stroke-width:1px;fill-opacity:1" />
+    <path
+       id="polygon1012"
+       d="M 175.6,787.624 L 185.456,804.608 L 202.781,794.557 L 192.926,777.573 L 175.6,787.624 z"
+       style="fill:url(#linearGradient5052);stroke:none;stroke-width:1px;fill-opacity:1" />
+    <path
+       id="polygon1022"
+       d="M 129.566,737.074 L 108.03,737.238 L 108.19,757.267 L 129.725,757.103 L 129.566,737.074 z"
+       style="fill:url(#linearGradient5052);stroke:none;stroke-width:1px;fill-opacity:1" />
+    <path
+       id="polygon1026"
+       d="M 185.456,804.608 L 203.771,813.129 L 202.781,794.557 L 185.456,804.608 z"
+       style="fill:url(#linearGradient5052);stroke:none;stroke-width:1px;fill-opacity:1" />
+    <path
+       id="polygon1028"
+       d="M 185.456,804.608 L 189.042,824.351 L 203.771,813.129 L 185.456,804.608 z"
+       style="fill:url(#linearGradient5052);stroke:none;stroke-width:1px;fill-opacity:1" />
+    <path
+       id="polygon1030"
+       d="M 91.536,745.833 L 108.19,757.267 L 108.03,737.238 L 91.536,745.833 z"
+       style="fill:url(#linearGradient5052);stroke:none;stroke-width:1px;fill-opacity:1" />
+    <path
+       id="polygon1034"
+       d="M 89.368,764.222 L 108.19,757.267 L 91.536,745.833 L 89.368,764.222 z"
+       style="fill:url(#linearGradient5052);stroke:none;stroke-width:1px;fill-opacity:1" />
+    <path
+       id="polygon1036"
+       d="M 112.528,821.299 L 129.308,813.295 L 108.19,757.267 L 89.368,764.222 L 112.528,821.299 z"
+       style="fill:url(#linearGradient5052);stroke:none;stroke-width:1px;fill-opacity:1" />
+    <path
+       id="polygon1046"
+       d="M 132.867,833.006 L 189.042,824.351 L 185.456,804.608 L 129.308,813.295 L 132.867,833.006 z"
+       style="fill:url(#linearGradient5052);stroke:none;stroke-width:1px;fill-opacity:1" />
+  </g>
+  <g
+     id="g5088"
+     style="fill:#a6a6a6;fill-opacity:1;stroke:none">
+    <path
+       id="polygon890"
+       d="M 54.229,721.477 L 36.19,721.478 L 35.787,759.605 L 54.634,759.605 L 54.229,721.477 z"
+       style="fill:#a6a6a6;stroke:none;stroke-width:1px;fill-opacity:1" />
+    <path
+       id="polygon898"
+       d="M 54.605,867.908 L 54.638,849.185 L 35.791,849.186 L 35.83,866.266 L 54.605,867.908 z"
+       style="fill:#a6a6a6;stroke:none;stroke-width:1px;fill-opacity:1" />
+    <path
+       id="polygon902"
+       d="M 54.638,849.185 L 54.637,831.452 L 35.79,831.453 L 35.791,849.186 L 54.638,849.185 z"
+       style="fill:#a6a6a6;stroke:none;stroke-width:1px;fill-opacity:1" />
+    <path
+       id="polygon904"
+       d="M 54.637,831.452 L 54.636,813.797 L 35.79,813.798 L 35.79,831.453 L 54.637,831.452 z"
+       style="fill:#a6a6a6;stroke:none;stroke-width:1px;fill-opacity:1" />
+    <path
+       id="polygon936"
+       d="M 35.787,759.605 L 35.79,813.798 L 54.636,813.797 L 54.634,759.605 L 35.787,759.605 z"
+       style="fill:#a6a6a6;stroke:none;stroke-width:1px;fill-opacity:1" />
+    <path
+       id="polygon954"
+       d="M 35.134,611.388 L 35.134,665.581 L 53.98,665.581 L 53.98,611.388 L 35.134,611.388 z"
+       style="fill:#a6a6a6;stroke:none;stroke-width:1px;fill-opacity:1" />
+    <path
+       id="polygon986"
+       d="M 53.98,683.236 L 53.98,665.581 L 35.134,665.581 L 35.134,683.235 L 53.98,683.236 z"
+       style="fill:#a6a6a6;stroke:none;stroke-width:1px;fill-opacity:1" />
+    <path
+       id="polygon988"
+       d="M 53.98,700.969 L 53.98,683.236 L 35.134,683.235 L 35.133,700.969 L 53.98,700.969 z"
+       style="fill:#a6a6a6;stroke:none;stroke-width:1px;fill-opacity:1" />
+    <path
+       id="polygon992"
+       d="M 53.946,719.692 L 53.98,700.969 L 35.133,700.969 L 35.171,718.049 L 53.946,719.692 z"
+       style="fill:#a6a6a6;stroke:none;stroke-width:1px;fill-opacity:1" />
+    <path
+       id="polygon1000"
+       d="M 53.576,573.261 L 35.537,573.261 L 35.134,611.388 L 53.98,611.388 L 53.576,573.261 z"
+       style="fill:#a6a6a6;stroke:none;stroke-width:1px;fill-opacity:1" />
+    <path
+       id="polygon1002"
+       d="M 54.577,869.627 L 36.537,869.627 L 36.134,907.755 L 54.981,907.755 L 54.577,869.627 z"
+       style="fill:#a6a6a6;stroke:none;stroke-width:1px;fill-opacity:1" />
+    <path
+       id="polygon1010"
+       d="M 54.948,1016.057 L 54.981,997.335 L 36.135,997.335 L 36.173,1014.415 L 54.948,1016.057 z"
+       style="fill:#a6a6a6;stroke:none;stroke-width:1px;fill-opacity:1" />
+    <path
+       id="polygon1014"
+       d="M 54.981,997.335 L 54.981,979.602 L 36.135,979.602 L 36.135,997.335 L 54.981,997.335 z"
+       style="fill:#a6a6a6;stroke:none;stroke-width:1px;fill-opacity:1" />
+    <path
+       id="polygon1016"
+       d="M 54.981,979.602 L 54.981,961.947 L 36.135,961.948 L 36.135,979.602 L 54.981,979.602 z"
+       style="fill:#a6a6a6;stroke:none;stroke-width:1px;fill-opacity:1" />
+    <path
+       id="polygon1048"
+       d="M 36.134,907.755 L 36.135,961.948 L 54.981,961.947 L 54.981,907.755 L 36.134,907.755 z"
+       style="fill:#a6a6a6;stroke:none;stroke-width:1px;fill-opacity:1" />
+  </g>
+  <g
+     id="g4144"
+     style="fill:#0f0f0f;fill-opacity:1;stroke:none">
+    <path
+       id="polygon66"
+       d="M 896.822,610.072 L 893.937,657.105 L 934.191,657.105 L 931.342,610.072 L 896.822,610.072 z"
+       style="fill:#0f0f0f;stroke:none;stroke-width:1px;fill-opacity:1" />
+    <path
+       id="polygon68"
+       d="M 817.011,611.882 L 814.126,658.914 L 854.379,658.914 L 851.531,611.882 L 817.011,611.882 z"
+       style="fill:#0f0f0f;stroke:none;stroke-width:1px;fill-opacity:1" />
+    <path
+       id="polygon70"
+       d="M 980.644,609.819 L 977.778,656.55 L 1017.773,656.55 L 1014.943,609.819 L 980.644,609.819 z"
+       style="fill:#0f0f0f;stroke:none;stroke-width:1px;fill-opacity:1" />
+    <path
+       id="polygon72"
+       d="M 976.42,656.843 L 973.572,609.811 L 939.052,609.811 L 936.167,656.843 L 976.42,656.843 z"
+       style="fill:#0f0f0f;stroke:none;stroke-width:1px;fill-opacity:1" />
+    <path
+       id="polygon1050"
+       d="M 775.213,611.746 L 781.548,623.874 L 798.336,623.87 L 809.599,611.746 L 775.213,611.746 z"
+       style="fill:#0f0f0f;stroke:none;stroke-width:1px;fill-opacity:1" />
+    <path
+       id="polygon1052"
+       d="M 809.599,611.746 L 798.336,623.87 L 798.336,640.374 L 812.436,658.595 L 809.599,611.746 z"
+       style="fill:#0f0f0f;stroke:none;stroke-width:1px;fill-opacity:1" />
+    <path
+       id="polygon1054"
+       d="M 772.339,658.595 L 812.436,658.595 L 798.336,640.374 L 781.548,640.379 L 772.339,658.595 z"
+       style="fill:#0f0f0f;stroke:none;stroke-width:1px;fill-opacity:1" />
+    <path
+       id="polygon1056"
+       d="M 775.213,611.746 L 772.339,658.595 L 781.548,640.379 L 781.548,623.874 L 775.213,611.746 z"
+       style="fill:#0f0f0f;stroke:none;stroke-width:1px;fill-opacity:1" />
+    <path
+       id="polygon1058"
+       d="M 857.335,611.844 L 865.751,623.967 L 882.605,623.972 L 891.855,611.844 L 857.335,611.844 z"
+       style="fill:#0f0f0f;stroke:none;stroke-width:1px;fill-opacity:1" />
+    <path
+       id="polygon1060"
+       d="M 891.855,611.844 L 882.605,623.972 L 882.605,640.499 L 894.704,658.877 L 891.855,611.844 z"
+       style="fill:#0f0f0f;stroke:none;stroke-width:1px;fill-opacity:1" />
+    <path
+       id="polygon1062"
+       d="M 854.45,658.877 L 894.704,658.877 L 882.605,640.499 L 865.751,640.494 L 854.45,658.877 z"
+       style="fill:#0f0f0f;stroke:none;stroke-width:1px;fill-opacity:1" />
+    <path
+       id="polygon1064"
+       d="M 857.335,611.844 L 854.45,658.877 L 865.751,640.494 L 865.751,623.967 L 857.335,611.844 z"
+       style="fill:#0f0f0f;stroke:none;stroke-width:1px;fill-opacity:1" />
+  </g>
+  <g
+     id="g8940"
+     style="fill-opacity:1;fill:url(#linearGradient8966);stroke:#757575;stroke-opacity:1;stroke-width:0.8;stroke-miterlimit:4;stroke-dasharray:none">
+    <path
+       id="polygon446"
+       d="M 606.295,850.889 L 507.156,850.889 L 507.156,1019.279 L 606.295,1019.279 L 606.295,850.889 z"
+       style="fill:url(#linearGradient8966);stroke:#757575;stroke-width:0.8;fill-opacity:1;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none" />
+    <path
+       id="polygon448"
+       d="M 606.295,182.521 L 507.156,182.521 L 507.156,358.332 L 606.295,358.332 L 606.295,182.521 z"
+       style="fill:url(#linearGradient8966);stroke:#757575;stroke-width:0.8;fill-opacity:1;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none" />
+    <path
+       id="polygon450"
+       d="M 606.295,526.779 L 507.156,526.779 L 507.156,688.847 L 606.295,688.847 L 606.295,526.779 z"
+       style="fill:url(#linearGradient8966);stroke:#757575;stroke-width:0.8;fill-opacity:1;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none" />
+    <g
+       style="fill-opacity:1;fill:url(#linearGradient8966);stroke:#757575;stroke-opacity:1;stroke-width:0.8;stroke-miterlimit:4;stroke-dasharray:none"
+       id="g8886">
+      <path
+         style="fill:url(#linearGradient5752);stroke:#757575;stroke-width:0.80000000000000004;fill-opacity:1;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+         d="M 507.15625 688.84375 L 507.15625 850.875 L 606.28125 850.875 L 606.28125 688.84375 L 507.15625 688.84375 z M 541.9375 756.875 L 571.5 756.875 L 571.5 781.03125 L 541.9375 781.03125 L 541.9375 756.875 z "
+         id="polygon568" />
+    </g>
+    <g
+       style="fill-opacity:1;fill:url(#linearGradient8966);stroke:#757575;stroke-opacity:1;stroke-width:0.8;stroke-miterlimit:4;stroke-dasharray:none"
+       id="g8880">
+      <path
+         style="fill:url(#linearGradient5755);stroke:#757575;stroke-width:0.80000000000000004;fill-opacity:1;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+         d="M 507.15625 358.34375 L 507.15625 526.78125 L 606.28125 526.78125 L 606.28125 358.34375 L 507.15625 358.34375 z M 541.9375 431.25 L 571.5 431.25 L 571.5 456.875 L 541.9375 456.875 L 541.9375 431.25 z "
+         id="polygon1066" />
+    </g>
+    <g
+       style="fill-opacity:1;fill:url(#linearGradient8966);stroke:#757575;stroke-opacity:1;stroke-width:0.8;stroke-miterlimit:4;stroke-dasharray:none"
+       id="g8874">
+      <path
+         style="fill:url(#linearGradient5758);stroke:#757575;stroke-width:0.80000000000000004;fill-opacity:1;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+         d="M 507.15625 6.75 L 507.15625 182.53125 L 606.28125 182.53125 L 606.28125 6.75 L 507.15625 6.75 z M 541.96875 77.53125 L 571.5 77.53125 L 571.5 104.5 L 541.96875 104.5 L 541.96875 77.53125 z "
+         id="polygon1074" />
+    </g>
+  </g>
+  <g
+     id="g4206"
+     style="fill:#0f0f0f;fill-opacity:1;stroke:none">
+    <path
+       id="polygon74"
+       d="M 771.09,966.58 L 768.255,1012.804 L 807.817,1012.804 L 805.017,966.58 L 771.09,966.58 z"
+       style="fill:#0f0f0f;stroke:none;stroke-width:1px;fill-opacity:1" />
+    <path
+       id="polygon76"
+       d="M 937.887,965.47 L 935.065,1011.471 L 974.436,1011.471 L 971.651,965.47 L 937.887,965.47 z"
+       style="fill:#0f0f0f;stroke:none;stroke-width:1px;fill-opacity:1" />
+    <path
+       id="polygon78"
+       d="M 854.918,966.731 L 852.1,1012.661 L 891.411,1012.661 L 888.63,966.731 L 854.918,966.731 z"
+       style="fill:#0f0f0f;stroke:none;stroke-width:1px;fill-opacity:1" />
+    <path
+       id="polygon80"
+       d="M 812.368,967.374 L 809.543,1013.43 L 848.961,1013.43 L 846.171,967.374 L 812.368,967.374 z"
+       style="fill:#0f0f0f;stroke:none;stroke-width:1px;fill-opacity:1" />
+    <path
+       id="polygon1082"
+       d="M 977.032,965.131 L 974.201,1011.287 L 985.898,993.281 L 985.898,976.952 L 977.032,965.131 z"
+       style="fill:#0f0f0f;stroke:none;stroke-width:1px;fill-opacity:1" />
+    <path
+       id="polygon1084"
+       d="M 977.032,965.131 L 985.898,976.952 L 1002.549,976.958 L 1010.909,965.131 L 977.032,965.131 z"
+       style="fill:#0f0f0f;stroke:none;stroke-width:1px;fill-opacity:1" />
+    <path
+       id="polygon1086"
+       d="M 1010.909,965.131 L 1002.549,976.958 L 1002.549,993.286 L 1013.704,1011.287 L 1010.909,965.131 z"
+       style="fill:#0f0f0f;stroke:none;stroke-width:1px;fill-opacity:1" />
+    <path
+       id="polygon1088"
+       d="M 974.201,1011.287 L 1013.704,1011.287 L 1002.549,993.286 L 985.898,993.281 L 974.201,1011.287 z"
+       style="fill:#0f0f0f;stroke:none;stroke-width:1px;fill-opacity:1" />
+    <path
+       id="polygon1090"
+       d="M 930.362,966.051 L 919.753,977.932 L 919.753,994.318 L 933.161,1012.253 L 930.362,966.051 z"
+       style="fill:#0f0f0f;stroke:none;stroke-width:1px;fill-opacity:1" />
+    <path
+       id="polygon1092"
+       d="M 896.452,966.051 L 903.085,977.937 L 919.753,977.932 L 930.362,966.051 L 896.452,966.051 z"
+       style="fill:#0f0f0f;stroke:none;stroke-width:1px;fill-opacity:1" />
+    <path
+       id="polygon1094"
+       d="M 896.452,966.051 L 893.618,1012.253 L 903.085,994.323 L 903.085,977.937 L 896.452,966.051 z"
+       style="fill:#0f0f0f;stroke:none;stroke-width:1px;fill-opacity:1" />
+    <path
+       id="polygon1096"
+       d="M 893.618,1012.253 L 933.161,1012.253 L 919.753,994.318 L 903.085,994.323 L 893.618,1012.253 z"
+       style="fill:#0f0f0f;stroke:none;stroke-width:1px;fill-opacity:1" />
+  </g>
+  <g
+     id="g8985"
+     style="fill-opacity:1;fill:url(#linearGradient9016);stroke:#9d9d9d;stroke-opacity:1">
+    <g
+       id="g8978"
+       style="fill-opacity:1;fill:url(#linearGradient9016);stroke:#9d9d9d;stroke-opacity:1">
+      <path
+         style="fill:url(#linearGradient9016);stroke:#9d9d9d;stroke-width:1px;fill-opacity:1;stroke-opacity:1"
+         d="M 760.29,688.847 L 760.29,526.779 L 739.974,619.573 L 760.29,688.847 z"
+         id="polygon50" />
+      <path
+         style="fill:url(#linearGradient9016);stroke:#9d9d9d;stroke-width:1px;fill-opacity:1;stroke-opacity:1"
+         d="M 740.882,584.377 L 739.974,619.573 L 760.29,526.779 L 740.882,584.377 z"
+         id="polygon52" />
+      <path
+         style="fill:url(#linearGradient9016);stroke:#9d9d9d;stroke-width:1px;fill-opacity:1;stroke-opacity:1"
+         d="M 760.29,526.779 L 655.79,526.779 L 689.883,583.886 L 740.882,584.377 L 760.29,526.779 z"
+         id="polygon428" />
+      <path
+         style="fill:url(#linearGradient9016);stroke:#9d9d9d;stroke-width:1px;fill-opacity:1;stroke-opacity:1"
+         d="M 655.79,526.779 L 655.79,688.847 L 689.883,619.857 L 689.883,583.886 L 655.79,526.779 z"
+         id="polygon430" />
+      <path
+         style="fill:url(#linearGradient9016);stroke:#9d9d9d;stroke-width:1px;fill-opacity:1;stroke-opacity:1"
+         d="M 655.79,688.847 L 760.29,688.847 L 739.974,619.573 L 689.883,619.857 L 655.79,688.847 z"
+         id="polygon432" />
+    </g>
+    <path
+       id="polygon452"
+       d="M 760.29,850.889 L 655.79,850.889 L 655.79,1019.279 L 760.29,1019.279 L 760.29,850.889 z"
+       style="fill:url(#linearGradient9016);stroke:#9d9d9d;stroke-width:1px;fill-opacity:1;stroke-opacity:1" />
+    <path
+       id="polygon454"
+       d="M 760.29,6.743 L 655.79,6.743 L 655.79,182.521 L 760.29,182.521 L 760.29,6.743 z"
+       style="fill:url(#linearGradient9016);stroke:#9d9d9d;stroke-width:1px;fill-opacity:1;stroke-opacity:1" />
+    <path
+       id="polygon456"
+       d="M 760.29,182.521 L 655.79,182.521 L 655.79,358.332 L 760.29,358.332 L 760.29,182.521 z"
+       style="fill:url(#linearGradient9016);stroke:#9d9d9d;stroke-width:1px;fill-opacity:1;stroke-opacity:1" />
+    <path
+       id="polygon458"
+       d="M 760.29,358.332 L 655.79,358.332 L 655.79,526.779 L 760.29,526.779 L 760.29,358.332 z"
+       style="fill:url(#linearGradient9016);stroke:#9d9d9d;stroke-width:1px;fill-opacity:1;stroke-opacity:1" />
+    <path
+       id="polygon460"
+       d="M 760.29,850.889 L 760.29,688.847 L 655.79,688.847 L 655.79,850.889 L 760.29,850.889 z"
+       style="fill:url(#linearGradient9016);stroke:#9d9d9d;stroke-width:1px;fill-opacity:1;stroke-opacity:1" />
+    <path
+       id="polygon1098"
+       d="M 655.79,852.118 L 655.79,688.842 L 648.768,688.841 L 648.768,852.314 L 655.79,852.118 z"
+       style="fill:url(#linearGradient9016);stroke:#9d9d9d;stroke-width:1px;fill-opacity:1;stroke-opacity:1" />
+    <path
+       id="polygon1100"
+       d="M 655.79,688.842 L 655.79,525.545 L 648.768,525.348 L 648.768,688.841 L 655.79,688.842 z"
+       style="fill:url(#linearGradient9016);stroke:#9d9d9d;stroke-width:1px;fill-opacity:1;stroke-opacity:1" />
+    <path
+       id="polygon1102"
+       d="M 655.79,525.545 L 655.79,356.988 L 648.768,356.776 L 648.768,525.348 L 655.79,525.545 z"
+       style="fill:url(#linearGradient9016);stroke:#9d9d9d;stroke-width:1px;fill-opacity:1;stroke-opacity:1" />
+    <path
+       id="polygon1104"
+       d="M 655.79,356.988 L 655.79,182.526 L 648.768,182.527 L 648.768,356.776 L 655.79,356.988 z"
+       style="fill:url(#linearGradient9016);stroke:#9d9d9d;stroke-width:1px;fill-opacity:1;stroke-opacity:1" />
+    <path
+       id="polygon1106"
+       d="M 655.79,182.526 L 655.79,8.092 L 648.768,8.305 L 648.768,182.527 L 655.79,182.526 z"
+       style="fill:url(#linearGradient9016);stroke:#9d9d9d;stroke-width:1px;fill-opacity:1;stroke-opacity:1" />
+    <path
+       id="polygon1108"
+       d="M 655.79,1020.627 L 655.79,852.118 L 648.768,852.314 L 648.768,1020.841 L 655.79,1020.627 z"
+       style="fill:url(#linearGradient9016);stroke:#9d9d9d;stroke-width:1px;fill-opacity:1;stroke-opacity:1" />
+    <path
+       id="polygon1110"
+       d="M 648.768,852.314 L 648.768,688.841 L 613.317,688.841 L 613.317,852.314 L 648.768,852.314 z"
+       style="fill:url(#linearGradient9016);stroke:#9d9d9d;stroke-width:1px;fill-opacity:1;stroke-opacity:1" />
+    <path
+       id="polygon1112"
+       d="M 648.768,525.348 L 613.317,525.348 L 613.317,688.841 L 648.768,688.841 L 648.768,525.348 z"
+       style="fill:url(#linearGradient9016);stroke:#9d9d9d;stroke-width:1px;fill-opacity:1;stroke-opacity:1" />
+    <path
+       id="polygon1114"
+       d="M 648.768,356.776 L 613.317,356.776 L 613.317,525.348 L 648.768,525.348 L 648.768,356.776 z"
+       style="fill:url(#linearGradient9016);stroke:#9d9d9d;stroke-width:1px;fill-opacity:1;stroke-opacity:1" />
+    <path
+       id="polygon1116"
+       d="M 648.768,182.527 L 613.317,182.527 L 613.317,356.776 L 648.768,356.776 L 648.768,182.527 z"
+       style="fill:url(#linearGradient9016);stroke:#9d9d9d;stroke-width:1px;fill-opacity:1;stroke-opacity:1" />
+    <path
+       id="polygon1118"
+       d="M 648.768,8.305 L 613.317,8.305 L 613.317,182.527 L 648.768,182.527 L 648.768,8.305 z"
+       style="fill:url(#linearGradient9016);stroke:#9d9d9d;stroke-width:1px;fill-opacity:1;stroke-opacity:1" />
+    <path
+       id="polygon1120"
+       d="M 613.317,1020.841 L 648.768,1020.841 L 648.768,852.314 L 613.317,852.314 L 613.317,1020.841 z"
+       style="fill:url(#linearGradient9016);stroke:#9d9d9d;stroke-width:1px;fill-opacity:1;stroke-opacity:1" />
+  </g>
+  <g
+     id="g5675"
+     style="fill-opacity:1;fill:url(#linearGradient5707);stroke:none">
+    <path
+       id="polygon580"
+       d="M 425.895,593.774 L 442.312,593.774 L 442.312,641.107 L 425.895,641.107 L 425.895,593.774 z"
+       style="fill:url(#linearGradient5707);stroke:none;stroke-width:1px;fill-opacity:1" />
+    <path
+       id="polygon586"
+       d="M 425.895,546.44 L 442.312,546.44 L 442.312,593.774 L 425.895,593.774 L 425.895,546.44 z"
+       style="fill:url(#linearGradient5707);stroke:none;stroke-width:1px;fill-opacity:1" />
+    <path
+       id="polygon592"
+       d="M 425.895,499.107 L 442.312,499.107 L 442.312,546.44 L 425.895,546.44 L 425.895,499.107 z"
+       style="fill:url(#linearGradient5707);stroke:none;stroke-width:1px;fill-opacity:1" />
+    <path
+       id="polygon598"
+       d="M 425.895,451.773 L 442.312,451.773 L 442.312,499.107 L 425.895,499.107 L 425.895,451.773 z"
+       style="fill:url(#linearGradient5707);stroke:none;stroke-width:1px;fill-opacity:1" />
+    <path
+       id="polygon604"
+       d="M 425.895,972.441 L 442.312,972.441 L 442.312,1019.774 L 425.895,1019.774 L 425.895,972.441 z"
+       style="fill:url(#linearGradient5707);stroke:none;stroke-width:1px;fill-opacity:1" />
+    <path
+       id="polygon610"
+       d="M 425.895,925.108 L 442.312,925.108 L 442.312,972.441 L 425.895,972.441 L 425.895,925.108 z"
+       style="fill:url(#linearGradient5707);stroke:none;stroke-width:1px;fill-opacity:1" />
+    <path
+       id="polygon616"
+       d="M 425.895,877.774 L 442.312,877.774 L 442.312,925.108 L 425.895,925.108 L 425.895,877.774 z"
+       style="fill:url(#linearGradient5707);stroke:none;stroke-width:1px;fill-opacity:1" />
+    <path
+       id="polygon620"
+       d="M 425.895,830.441 L 442.312,830.441 L 442.312,877.774 L 425.895,877.774 L 425.895,830.441 z"
+       style="fill:url(#linearGradient5707);stroke:none;stroke-width:1px;fill-opacity:1" />
+    <path
+       id="polygon626"
+       d="M 425.895,783.107 L 442.312,783.107 L 442.312,830.441 L 425.895,830.441 L 425.895,783.107 z"
+       style="fill:url(#linearGradient5707);stroke:none;stroke-width:1px;fill-opacity:1" />
+    <path
+       id="polygon632"
+       d="M 425.895,735.774 L 442.312,735.774 L 442.312,783.107 L 425.895,783.107 L 425.895,735.774 z"
+       style="fill:url(#linearGradient5707);stroke:none;stroke-width:1px;fill-opacity:1" />
+    <path
+       id="polygon638"
+       d="M 425.895,688.441 L 442.312,688.441 L 442.312,735.774 L 425.895,735.774 L 425.895,688.441 z"
+       style="fill:url(#linearGradient5707);stroke:none;stroke-width:1px;fill-opacity:1" />
+    <path
+       id="polygon644"
+       d="M 425.895,641.107 L 442.312,641.107 L 442.312,688.441 L 425.895,688.441 L 425.895,641.107 z"
+       style="fill:url(#linearGradient5707);stroke:none;stroke-width:1px;fill-opacity:1" />
+    <path
+       id="polygon1122"
+       d="M 460.773,714.812 L 442.312,735.774 L 442.312,688.441 L 460.773,714.812 z"
+       style="fill:url(#linearGradient5707);stroke:none;stroke-width:1px;fill-opacity:1" />
+    <path
+       id="polygon1124"
+       d="M 460.773,714.812 L 442.312,688.441 L 442.312,641.107 L 460.773,617.993 L 460.773,714.812 z"
+       style="fill:url(#linearGradient5707);stroke:none;stroke-width:1px;fill-opacity:1" />
+    <path
+       id="polygon1126"
+       d="M 460.773,617.993 L 442.312,641.107 L 442.312,593.774 L 460.773,617.993 z"
+       style="fill:url(#linearGradient5707);stroke:none;stroke-width:1px;fill-opacity:1" />
+    <path
+       id="polygon1128"
+       d="M 460.773,809.203 L 442.312,783.107 L 442.312,735.774 L 460.773,714.812 L 460.773,809.203 z"
+       style="fill:url(#linearGradient5707);stroke:none;stroke-width:1px;fill-opacity:1" />
+    <path
+       id="polygon1130"
+       d="M 460.773,809.203 L 442.312,830.441 L 442.312,783.107 L 460.773,809.203 z"
+       style="fill:url(#linearGradient5707);stroke:none;stroke-width:1px;fill-opacity:1" />
+    <path
+       id="polygon1132"
+       d="M 460.773,901.567 L 442.312,877.774 L 442.312,830.441 L 460.773,809.203 L 460.773,901.567 z"
+       style="fill:url(#linearGradient5707);stroke:none;stroke-width:1px;fill-opacity:1" />
+    <path
+       id="polygon1134"
+       d="M 460.773,901.567 L 442.312,925.108 L 442.312,877.774 L 460.773,901.567 z"
+       style="fill:url(#linearGradient5707);stroke:none;stroke-width:1px;fill-opacity:1" />
+    <path
+       id="polygon1136"
+       d="M 460.773,994.127 L 442.312,972.441 L 442.312,925.108 L 460.773,901.567 L 460.773,994.127 z"
+       style="fill:url(#linearGradient5707);stroke:none;stroke-width:1px;fill-opacity:1" />
+    <path
+       id="polygon1138"
+       d="M 460.773,994.127 L 442.312,1019.774 L 442.312,972.441 L 460.773,994.127 z"
+       style="fill:url(#linearGradient5707);stroke:none;stroke-width:1px;fill-opacity:1" />
+    <path
+       id="polygon1140"
+       d="M 460.773,520.942 L 442.312,499.107 L 442.312,451.773 L 460.773,426.126 L 460.773,520.942 z"
+       style="fill:url(#linearGradient5707);stroke:none;stroke-width:1px;fill-opacity:1" />
+    <path
+       id="polygon1142"
+       d="M 460.773,520.942 L 442.312,546.44 L 442.312,499.107 L 460.773,520.942 z"
+       style="fill:url(#linearGradient5707);stroke:none;stroke-width:1px;fill-opacity:1" />
+    <path
+       id="polygon1144"
+       d="M 460.773,520.942 L 460.773,617.993 L 442.312,593.774 L 442.312,546.44 L 460.773,520.942 z"
+       style="fill:url(#linearGradient5707);stroke:none;stroke-width:1px;fill-opacity:1" />
+  </g>
+  <g
+     id="g8825"
+     style="fill-opacity:1;fill:url(#radialGradient8839);stroke:#989898;stroke-opacity:1">
+    <path
+       style="fill:url(#radialGradient5761);stroke:none;stroke-width:1px;fill-opacity:1;stroke-opacity:1"
+       d="M 269.5625 52.4375 L 129.21875 52.46875 L 59.0625 174.0625 L 129.3125 295.59375 L 269.65625 295.53125 L 339.78125 173.96875 L 269.5625 52.4375 z M 219.5625 139.125 L 239.6875 174 L 219.5625 208.875 L 179.3125 208.875 L 159.1875 174.03125 L 179.28125 139.15625 L 219.5625 139.125 z "
+       id="polygon1146" />
+  </g>
+  <g
+     id="g5223"
+     style="fill-opacity:1;fill:url(#linearGradient5244);stroke:none">
+    <path
+       id="polygon1166"
+       d="M 308.801,960.49 L 308.801,998.478 L 316.945,1013.595 L 316.945,945.336 L 308.801,960.49 z"
+       style="fill:url(#linearGradient5244);stroke:none;stroke-width:1px;fill-opacity:1" />
+    <path
+       id="polygon1168"
+       d="M 275.953,960.49 L 308.801,960.49 L 316.945,945.336 L 276.22,945.336 L 275.953,960.49 z"
+       style="fill:url(#linearGradient5244);stroke:none;stroke-width:1px;fill-opacity:1" />
+    <path
+       id="polygon1170"
+       d="M 308.801,998.478 L 275.953,998.478 L 276.22,1013.595 L 316.945,1013.595 L 308.801,998.478 z"
+       style="fill:url(#linearGradient5244);stroke:none;stroke-width:1px;fill-opacity:1" />
+  </g>
+  <g
+     id="g5264"
+     style="fill-opacity:1;fill:url(#linearGradient5275);stroke:none">
+    <path
+       id="polygon1172"
+       d="M 365.668,998.644 L 365.668,960.653 L 373.813,945.534 L 373.813,1013.799 L 365.668,998.644 z"
+       style="fill:url(#linearGradient5277);stroke:none;stroke-width:1px;fill-opacity:1" />
+    <path
+       id="polygon1174"
+       d="M 365.668,960.653 L 332.817,960.653 L 333.084,945.534 L 373.813,945.534 L 365.668,960.653 z"
+       style="fill:url(#linearGradient5275);stroke:none;stroke-width:1px;fill-opacity:1" />
+    <path
+       id="polygon1176"
+       d="M 332.817,998.644 L 365.668,998.644 L 373.813,1013.799 L 333.084,1013.799 L 332.817,998.644 z"
+       style="fill:url(#linearGradient5275);stroke:none;stroke-width:1px;fill-opacity:1" />
+  </g>
+  <g
+     id="g5150"
+     style="fill:#bebebe;fill-opacity:1;stroke:none">
+    <path
+       id="polygon1160"
+       d="M 279.267,806.901 L 279.069,848.638 L 316.434,848.775 L 316.632,807.039 L 279.267,806.901 z"
+       style="fill:#bebebe;stroke:none;stroke-width:1px;fill-opacity:1" />
+    <path
+       id="polygon1164"
+       d="M 279.024,872.968 L 278.867,915.452 L 316.231,915.59 L 316.388,873.106 L 279.024,872.968 z"
+       style="fill:#bebebe;stroke:none;stroke-width:1px;fill-opacity:1" />
+    <path
+       id="polygon1182"
+       d="M 264.2,854.488 L 264.119,867.184 L 331.257,867.256 L 331.339,854.56 L 264.2,854.488 z"
+       style="fill:#bebebe;stroke:none;stroke-width:1px;fill-opacity:1" />
+  </g>
+  <path
+     style="fill:#bebebe;stroke:none;stroke-width:1px;fill-opacity:1"
+     d="M 233.224,1015.304 L 251.629,1015.332 L 251.629,977.582 L 233.224,977.555 L 233.224,1015.304 z"
+     id="polygon1202" />
+  <path
+     style="fill:#bebebe;stroke:none;stroke-width:1px;fill-opacity:1"
+     d="M 233.078,976.843 L 251.604,976.859 L 251.604,937.982 L 233.078,937.966 L 233.078,976.843 z"
+     id="polygon1208" />
+  <path
+     style="fill:#bebebe;stroke:none;stroke-width:1px;fill-opacity:1"
+     d="M 252.759,739.575 L 234.629,739.559 L 234.629,777.607 L 252.76,777.623 L 252.759,739.575 z"
+     id="polygon1214" />
+  <g
+     id="g5313"
+     style="fill-opacity:1;fill:url(#linearGradient5325);stroke:none">
+    <path
+       id="polygon1200"
+       d="M 251.629,1015.332 L 261.197,1015.332 L 261.197,977.582 L 251.629,977.582 L 251.629,1015.332 z"
+       style="fill:url(#linearGradient5325);stroke:none;stroke-width:1px;fill-opacity:1" />
+    <path
+       id="polygon1210"
+       d="M 251.604,976.859 L 261.373,976.859 L 261.373,937.982 L 251.604,937.982 L 251.604,976.859 z"
+       style="fill:url(#linearGradient5325);stroke:none;stroke-width:1px;fill-opacity:1" />
+    <path
+       id="polygon1216"
+       d="M 262.321,739.575 L 252.759,739.575 L 252.76,777.623 L 262.321,777.623 L 262.321,739.575 z"
+       style="fill:url(#linearGradient5325);stroke:none;stroke-width:1px;fill-opacity:1" />
+    <path
+       id="polygon1218"
+       d="M 262.574,701.376 L 252.935,701.376 L 252.935,739.406 L 262.574,739.406 L 262.574,701.376 z"
+       style="fill:url(#linearGradient5325);stroke:none;stroke-width:1px;fill-opacity:1" />
+  </g>
+  <path
+     style="fill:#bebebe;stroke:none;stroke-width:1px;fill-opacity:1"
+     d="M 252.935,701.376 L 234.394,701.348 L 234.394,739.378 L 252.935,739.406 L 252.935,701.376 z"
+     id="polygon1220" />
+  <g
+     id="g5299"
+     style="fill-opacity:1;fill:url(#linearGradient5311);stroke:none">
+    <path
+       id="polygon1204"
+       d="M 223.656,1015.305 L 233.224,1015.304 L 233.224,977.555 L 223.656,977.555 L 223.656,1015.305 z"
+       style="fill:url(#linearGradient5311);stroke:none;stroke-width:1px;fill-opacity:1" />
+    <path
+       id="polygon1206"
+       d="M 223.308,976.843 L 233.078,976.843 L 233.078,937.966 L 223.308,937.966 L 223.308,976.843 z"
+       style="fill:url(#linearGradient5311);stroke:none;stroke-width:1px;fill-opacity:1" />
+    <path
+       id="polygon1212"
+       d="M 234.629,739.559 L 225.067,739.559 L 225.067,777.607 L 234.629,777.607 L 234.629,739.559 z"
+       style="fill:url(#linearGradient5311);stroke:none;stroke-width:1px;fill-opacity:1" />
+    <path
+       id="polygon1222"
+       d="M 234.394,701.348 L 224.755,701.348 L 224.755,739.378 L 234.394,739.378 L 234.394,701.348 z"
+       style="fill:url(#linearGradient5311);stroke:none;stroke-width:1px;fill-opacity:1" />
+  </g>
+  <path
+     style="fill:#bebebe;stroke:none;stroke-width:1px;fill-opacity:1"
+     d="M 332.126,632.833 L 332.208,620.124 L 264.998,620.051 L 264.916,632.761 L 332.126,632.833 z"
+     id="polygon1240" />
+  <g
+     id="g5284"
+     style="fill-opacity:1;fill:url(#linearGradient5297);stroke:none">
+    <path
+       id="polygon1246"
+       d="M 278.86,724.622 L 311.203,724.622 L 319.222,709.701 L 279.123,709.701 L 278.86,724.622 z"
+       style="fill:url(#linearGradient5297);stroke:none;stroke-width:1px;fill-opacity:1" />
+    <path
+       id="polygon1248"
+       d="M 311.203,762.027 L 278.86,762.027 L 279.123,776.912 L 319.222,776.912 L 311.203,762.027 z"
+       style="fill:url(#linearGradient5297);stroke:none;stroke-width:1px;fill-opacity:1" />
+    <path
+       id="polygon1250"
+       d="M 311.203,724.622 L 311.203,762.027 L 319.222,776.912 L 319.222,709.701 L 311.203,724.622 z"
+       style="fill:url(#linearGradient5297);stroke:none;stroke-width:1px;fill-opacity:1" />
+  </g>
+  <g
+     id="g5279"
+     style="fill-opacity:1;fill:url(#linearGradient5295);stroke:none">
+    <path
+       id="polygon1252"
+       d="M 367.003,760.48 L 334.66,760.48 L 334.923,775.365 L 375.022,775.365 L 367.003,760.48 z"
+       style="fill:url(#linearGradient5295);stroke:none;stroke-width:1px;fill-opacity:1" />
+    <path
+       id="polygon1254"
+       d="M 334.66,723.075 L 367.003,723.075 L 375.022,708.154 L 334.923,708.154 L 334.66,723.075 z"
+       style="fill:url(#linearGradient5295);stroke:none;stroke-width:1px;fill-opacity:1" />
+    <path
+       id="polygon1256"
+       d="M 367.003,723.075 L 367.003,760.48 L 375.022,775.365 L 375.022,708.154 L 367.003,723.075 z"
+       style="fill:url(#linearGradient5295);stroke:none;stroke-width:1px;fill-opacity:1" />
+  </g>
+  <path
+     style="fill:#bebebe;stroke:none;stroke-width:1px;fill-opacity:1"
+     d="M 317.287,614.333 L 317.444,571.804 L 280.04,571.666 L 279.883,614.195 L 317.287,614.333 z"
+     id="polygon1258" />
+  <path
+     style="fill:#bebebe;stroke:none;stroke-width:1px;fill-opacity:1"
+     d="M 317.043,680.471 L 317.241,638.689 L 279.837,638.552 L 279.639,680.333 L 317.043,680.471 z"
+     id="polygon1262" />
+  <path
+     style="fill:#9f9f9f;stroke:none;stroke-width:1px;fill-opacity:1"
+     d="M 317.043,680.471 L 279.639,680.333 L 282.406,689.432 L 314.209,689.55 L 317.043,680.471 z"
+     id="polygon1270" />
+  <path
+     style="fill:url(#linearGradient5262);stroke:none;stroke-width:1px;fill-opacity:1"
+     d="M 281.282,758.994 L 308.782,758.994 L 308.782,727.191 L 281.282,727.191 L 281.282,758.994 z"
+     id="polygon1272" />
+  <g
+     id="g5327"
+     style="fill-opacity:1;fill:url(#linearGradient5346);stroke:none">
+    <path
+       id="polygon1224"
+       d="M 257.312,679.669 L 224.969,679.669 L 232.793,674.835 L 249.488,674.835 L 257.312,679.669 z"
+       style="fill:url(#linearGradient5346);stroke:none;stroke-width:1px;fill-opacity:1" />
+    <path
+       id="polygon1226"
+       d="M 257.312,637.888 L 257.312,679.669 L 249.488,674.835 L 249.488,642.722 L 257.312,637.888 z"
+       style="fill:url(#linearGradient5346);stroke:none;stroke-width:1px;fill-opacity:1" />
+    <path
+       id="polygon1228"
+       d="M 224.969,679.669 L 224.969,637.888 L 232.793,642.722 L 232.793,674.835 L 224.969,679.669 z"
+       style="fill:url(#linearGradient5346);stroke:none;stroke-width:1px;fill-opacity:1" />
+    <path
+       id="polygon1230"
+       d="M 224.969,637.888 L 257.312,637.888 L 249.488,642.722 L 232.793,642.722 L 224.969,637.888 z"
+       style="fill:url(#linearGradient5346);stroke:none;stroke-width:1px;fill-opacity:1" />
+    <path
+       id="polygon1232"
+       d="M 224.969,571.002 L 257.312,571.002 L 249.417,576.576 L 232.864,576.576 L 224.969,571.002 z"
+       style="fill:url(#linearGradient5346);stroke:none;stroke-width:1px;fill-opacity:1" />
+    <path
+       id="polygon1234"
+       d="M 257.312,571.002 L 257.312,613.532 L 249.417,607.963 L 249.417,576.576 L 257.312,571.002 z"
+       style="fill:url(#linearGradient5346);stroke:none;stroke-width:1px;fill-opacity:1" />
+    <path
+       id="polygon1236"
+       d="M 224.969,613.532 L 224.969,571.002 L 232.864,576.576 L 232.864,607.963 L 224.969,613.532 z"
+       style="fill:url(#linearGradient5346);stroke:none;stroke-width:1px;fill-opacity:1" />
+    <path
+       id="polygon1238"
+       d="M 257.312,613.532 L 224.969,613.532 L 232.864,607.963 L 249.417,607.963 L 257.312,613.532 z"
+       style="fill:url(#linearGradient5346);stroke:none;stroke-width:1px;fill-opacity:1" />
+    <path
+       id="polygon1242"
+       d="M 225.232,632.031 L 225.232,619.322 L 265.331,619.322 L 265.331,632.031 L 225.232,632.031 z"
+       style="fill:url(#linearGradient5346);stroke:none;stroke-width:1px;fill-opacity:1" />
+    <path
+       id="polygon1268"
+       d="M 224.969,679.669 L 257.312,679.669 L 254.891,688.748 L 227.39,688.748 L 224.969,679.669 z"
+       style="fill:url(#linearGradient5346);stroke:none;stroke-width:1px;fill-opacity:1" />
+    <path
+       id="polygon1274"
+       d="M 257.312,571.002 L 224.969,571.002 L 227.841,561.212 L 254.44,561.212 L 257.312,571.002 z"
+       style="fill:url(#linearGradient5346);stroke:none;stroke-width:1px;fill-opacity:1" />
+  </g>
+  <path
+     style="fill:#9f9f9f;stroke:none;stroke-width:1px;fill-opacity:1"
+     d="M 280.04,571.666 L 317.444,571.804 L 314.158,562.013 L 283.397,561.9 L 280.04,571.666 z"
+     id="polygon1276" />
+  <g
+     id="g5348"
+     style="fill-opacity:1;fill:url(#linearGradient5361);stroke:none">
+    <path
+       id="polygon1244"
+       d="M 372.25,632.44 L 372.25,619.73 L 332.15,619.73 L 332.15,632.44 L 372.25,632.44 z"
+       style="fill:url(#linearGradient5361);stroke:none;stroke-width:1px;fill-opacity:1" />
+    <path
+       id="polygon1260"
+       d="M 372.513,680.826 L 372.513,638.296 L 340.169,638.296 L 340.169,680.826 L 372.513,680.826 z"
+       style="fill:url(#linearGradient5361);stroke:none;stroke-width:1px;fill-opacity:1" />
+    <path
+       id="polygon1264"
+       d="M 372.513,613.94 L 372.513,572.159 L 340.169,572.159 L 340.169,613.94 L 372.513,613.94 z"
+       style="fill:url(#linearGradient5361);stroke:none;stroke-width:1px;fill-opacity:1" />
+    <path
+       id="polygon1266"
+       d="M 340.169,572.159 L 372.513,572.159 L 370.091,563.059 L 342.591,563.059 L 340.169,572.159 z"
+       style="fill:url(#linearGradient5361);stroke:none;stroke-width:1px;fill-opacity:1" />
+    <path
+       id="polygon1278"
+       d="M 372.513,680.826 L 340.169,680.826 L 343.042,690.592 L 369.641,690.592 L 372.513,680.826 z"
+       style="fill:url(#linearGradient5361);stroke:none;stroke-width:1px;fill-opacity:1" />
+  </g>
+  <path
+     style="fill:url(#linearGradient5260);stroke:none;stroke-width:1px;fill-opacity:1"
+     d="M 364.131,726.204 L 337.532,726.204 L 337.532,756.965 L 364.131,756.965 L 364.131,726.204 z"
+     id="polygon1280" />
+  <path
+     style="fill:#939393;stroke:none;stroke-width:1px;fill-opacity:1"
+     d="M 316.231,915.59 L 278.867,915.452 L 280.632,925.606 L 314.382,925.73 L 316.231,915.59 z"
+     id="polygon1284" />
+  <path
+     style="fill:url(#linearGradient5242);stroke:none;stroke-width:1px;fill-opacity:1"
+     d="M 307.212,962.125 L 277.542,962.125 L 277.542,996.438 L 307.212,996.438 L 307.212,962.125 z"
+     id="polygon1288" />
+  <path
+     style="fill:#939393;stroke:none;stroke-width:1px;fill-opacity:1"
+     d="M 279.267,806.901 L 316.632,807.039 L 313.187,796.643 L 281.67,796.891 L 279.267,806.901 z"
+     id="polygon1290" />
+  <g
+     id="g5192"
+     style="fill-opacity:1;fill:url(#linearGradient5211);stroke:none">
+    <path
+       id="polygon1180"
+       d="M 224.18,854.382 L 224.18,867.094 L 264.289,867.094 L 264.289,854.382 L 224.18,854.382 z"
+       style="fill:url(#linearGradient5211);stroke:none;stroke-width:1px;fill-opacity:1" />
+    <path
+       id="polygon1184"
+       d="M 256.268,872.886 L 223.917,872.886 L 231.814,878.456 L 248.371,878.456 L 256.268,872.886 z"
+       style="fill:url(#linearGradient5211);stroke:none;stroke-width:1px;fill-opacity:1" />
+    <path
+       id="polygon1186"
+       d="M 223.917,872.886 L 223.917,915.426 L 231.814,909.851 L 231.814,878.456 L 223.917,872.886 z"
+       style="fill:url(#linearGradient5211);stroke:none;stroke-width:1px;fill-opacity:1" />
+    <path
+       id="polygon1188"
+       d="M 256.268,915.426 L 256.268,872.886 L 248.371,878.456 L 248.371,909.851 L 256.268,915.426 z"
+       style="fill:url(#linearGradient5211);stroke:none;stroke-width:1px;fill-opacity:1" />
+    <path
+       id="polygon1190"
+       d="M 223.917,915.426 L 256.268,915.426 L 248.371,909.851 L 231.814,909.851 L 223.917,915.426 z"
+       style="fill:url(#linearGradient5211);stroke:none;stroke-width:1px;fill-opacity:1" />
+    <path
+       id="polygon1192"
+       d="M 223.917,848.524 L 256.268,848.524 L 248.442,843.689 L 231.743,843.689 L 223.917,848.524 z"
+       style="fill:url(#linearGradient5211);stroke:none;stroke-width:1px;fill-opacity:1" />
+    <path
+       id="polygon1194"
+       d="M 223.917,806.733 L 223.917,848.524 L 231.743,843.689 L 231.743,811.568 L 223.917,806.733 z"
+       style="fill:url(#linearGradient5211);stroke:none;stroke-width:1px;fill-opacity:1" />
+    <path
+       id="polygon1196"
+       d="M 256.268,848.524 L 256.268,806.733 L 248.442,811.568 L 248.442,843.689 L 256.268,848.524 z"
+       style="fill:url(#linearGradient5211);stroke:none;stroke-width:1px;fill-opacity:1" />
+    <path
+       id="polygon1198"
+       d="M 256.268,806.733 L 223.917,806.733 L 231.743,811.568 L 248.442,811.568 L 256.268,806.733 z"
+       style="fill:url(#linearGradient5211);stroke:none;stroke-width:1px;fill-opacity:1" />
+    <path
+       id="polygon1286"
+       d="M 256.268,915.426 L 223.917,915.426 L 225.85,925.192 L 255.072,925.192 L 256.268,915.426 z"
+       style="fill:url(#linearGradient5211);stroke:none;stroke-width:1px;fill-opacity:1" />
+    <path
+       id="polygon1292"
+       d="M 223.917,806.733 L 256.268,806.733 L 254.584,796.309 L 226.338,796.309 L 223.917,806.733 z"
+       style="fill:url(#linearGradient5211);stroke:none;stroke-width:1px;fill-opacity:1" />
+  </g>
+  <g
+     id="g5177"
+     style="fill-opacity:1;fill:url(#linearGradient5190);stroke:none">
+    <path
+       id="polygon1158"
+       d="M 371.232,849.411 L 371.232,807.797 L 339.017,807.797 L 339.017,849.411 L 371.232,849.411 z"
+       style="fill:url(#linearGradient5190);stroke:none;stroke-width:1px;fill-opacity:1" />
+    <path
+       id="polygon1162"
+       d="M 371.232,916.029 L 371.232,873.67 L 339.017,873.67 L 339.017,916.029 L 371.232,916.029 z"
+       style="fill:url(#linearGradient5190);stroke:none;stroke-width:1px;fill-opacity:1" />
+    <path
+       id="polygon1178"
+       d="M 370.97,867.837 L 370.97,855.178 L 331.03,855.178 L 331.03,867.837 L 370.97,867.837 z"
+       style="fill:url(#linearGradient5190);stroke:none;stroke-width:1px;fill-opacity:1" />
+    <path
+       id="polygon1282"
+       d="M 371.232,916.029 L 339.017,916.029 L 340.575,927.576 L 369.673,927.576 L 371.232,916.029 z"
+       style="fill:url(#linearGradient5190);stroke:none;stroke-width:1px;fill-opacity:1" />
+    <path
+       id="polygon1294"
+       d="M 339.017,807.797 L 371.232,807.797 L 369.187,799.234 L 341.061,799.234 L 339.017,807.797 z"
+       style="fill:url(#linearGradient5190);stroke:none;stroke-width:1px;fill-opacity:1" />
+  </g>
+  <path
+     style="fill:url(#linearGradient5252);stroke:none;stroke-width:1px;fill-opacity:1"
+     d="M 334.902,963.297 L 363.584,963.297 L 363.584,996.467 L 334.902,996.467 L 334.902,963.297 z"
+     id="polygon1296" />
+  <path
+     style="fill:url(#linearGradient5391);stroke:none;stroke-width:1px;fill-opacity:1"
+     d="M 326.484,495.906 L 350.168,496.005 L 364.799,482.954 L 311.002,482.729 L 326.484,495.906 z"
+     id="polygon1298" />
+  <path
+     style="fill:url(#linearGradient5393);stroke:none;stroke-width:1px;fill-opacity:1"
+     d="M 398.606,512.587 L 376.737,513.018 L 361.769,533.093 L 414.633,532.318 L 398.606,512.587 z"
+     id="polygon1300" />
+  <path
+     style="fill:url(#linearGradient5395);stroke:none;stroke-width:1px;fill-opacity:1"
+     d="M 375.598,271.357 L 397.327,271.365 L 411.546,254.154 L 362.19,254.14 L 375.598,271.357 z"
+     id="polygon1302" />
+  <path
+     style="fill:url(#linearGradient5389);stroke:none;stroke-width:1px;fill-opacity:1"
+     d="M 299.008,519.376 L 276.758,519.314 L 260.521,533.232 L 313.319,532.748 L 299.008,519.376 z"
+     id="polygon1304" />
+  <path
+     style="fill:url(#linearGradient5369);stroke:none;stroke-width:1px;fill-opacity:1"
+     d="M 311.002,482.729 L 364.799,482.954 L 364.699,463.721 L 310.902,463.495 L 311.002,482.729 z"
+     id="polygon1306" />
+  <path
+     style="fill:url(#linearGradient5371);stroke:none;stroke-width:1px;fill-opacity:1"
+     d="M 414.633,532.318 L 361.769,533.093 L 361.813,554.182 L 414.901,554.598 L 414.633,532.318 z"
+     id="polygon1308" />
+  <path
+     style="fill:url(#linearGradient5381);stroke:none;stroke-width:1px;fill-opacity:1"
+     d="M 362.19,254.14 L 411.546,254.154 L 411.5,232.801 L 362.144,232.731 L 362.19,254.14 z"
+     id="polygon1310" />
+  <path
+     style="fill:url(#linearGradient5373);stroke:none;stroke-width:1px;fill-opacity:1"
+     d="M 313.319,532.748 L 260.521,533.232 L 260.521,551.977 L 313.319,551.481 L 313.319,532.748 z"
+     id="polygon1312" />
+  <path
+     style="fill:#ababab;stroke:none;stroke-width:1px;fill-opacity:1"
+     d="M 276.647,431.756 L 298.464,431.534 L 291.656,405.451 L 283.71,405.504 L 276.647,431.756 z"
+     id="polygon1314" />
+  <path
+     style="fill:url(#linearGradient5431);stroke:none;stroke-width:1px;fill-opacity:1"
+     d="M 273.057,370.226 L 302.203,370.226 L 293.211,348.257 L 282.597,348.1 L 273.057,370.226 z"
+     id="polygon1316" />
+  <path
+     style="fill:#ababab;stroke:none;stroke-width:1px;fill-opacity:1"
+     d="M 283.71,405.504 L 291.656,405.451 L 291.668,392.625 L 283.722,392.678 L 283.71,405.504 z"
+     id="polygon1318" />
+  <path
+     style="fill:#c5c5c5;stroke:none;stroke-width:1px;fill-opacity:1"
+     d="M 283.722,392.678 L 291.668,392.625 L 291.705,384.922 L 283.759,384.946 L 283.722,392.678 z"
+     id="polygon1320" />
+  <path
+     style="fill:#bebebe;stroke:none;stroke-width:1px;fill-opacity:1"
+     d="M 283.759,384.946 L 291.705,384.922 L 291.77,374.787 L 283.823,374.778 L 283.759,384.946 z"
+     id="polygon1326" />
+  <g
+     id="g5457"
+     style="fill-opacity:1;fill:url(#linearGradient5481);stroke:none">
+    <path
+       id="polygon48"
+       d="M 322.615,359.72 L 375.317,334.665 L 322.645,334.857 L 322.615,359.72 z"
+       style="fill:url(#linearGradient5481);stroke:none;stroke-width:1px;fill-opacity:1" />
+    <path
+       id="polygon92"
+       d="M 369.874,359.404 L 396.911,335.231 L 375.317,334.665 L 322.615,359.72 L 369.874,359.404 z"
+       style="fill:url(#linearGradient5485);stroke:none;stroke-width:1px;fill-opacity:1" />
+    <path
+       id="polygon1322"
+       d="M 325.181,387.562 L 328.975,380.105 L 321.168,376.004 L 315.041,382.025 L 325.181,387.562 z"
+       style="fill:url(#linearGradient5481);stroke:none;stroke-width:1px;fill-opacity:1" />
+    <path
+       id="polygon1330"
+       d="M 333.947,387.073 L 328.975,380.105 L 325.181,387.562 L 333.947,387.073 z"
+       style="fill:url(#linearGradient5481);stroke:none;stroke-width:1px;fill-opacity:1" />
+    <path
+       id="polygon1332"
+       d="M 345.436,378.031 L 339.138,372.188 L 328.975,380.105 L 333.947,387.073 L 345.436,378.031 z"
+       style="fill:url(#linearGradient5481);stroke:none;stroke-width:1px;fill-opacity:1" />
+    <path
+       id="polygon1336"
+       d="M 369.874,359.404 L 339.138,372.188 L 345.436,378.031 L 369.874,359.404 z"
+       style="fill:url(#linearGradient5481);stroke:none;stroke-width:1px;fill-opacity:1" />
+    <path
+       id="polygon1338"
+       d="M 322.615,359.72 L 339.138,372.188 L 369.874,359.404 L 322.615,359.72 z"
+       style="fill:url(#linearGradient5481);stroke:none;stroke-width:1px;fill-opacity:1" />
+  </g>
+  <g
+     id="g5466"
+     style="fill-opacity:1;fill:url(#linearGradient5483);stroke:none">
+    <path
+       id="polygon10"
+       d="M 322.223,423.153 L 322.068,449.55 L 376.765,450.141 L 322.223,423.153 z"
+       style="fill:url(#linearGradient5483);stroke:none;stroke-width:1px;fill-opacity:1" />
+    <path
+       id="polygon90"
+       d="M 371.724,424.308 L 322.223,423.153 L 376.765,450.141 L 399.289,449.696 L 371.724,424.308 z"
+       style="fill:url(#linearGradient5483);stroke:none;stroke-width:1px;fill-opacity:1" />
+    <path
+       id="polygon1324"
+       d="M 328.776,402.393 L 325.028,394.522 L 314.393,400.263 L 320.695,406.751 L 328.776,402.393 z"
+       style="fill:url(#linearGradient5483);stroke:none;stroke-width:1px;fill-opacity:1" />
+    <path
+       id="polygon1328"
+       d="M 334.201,395.088 L 325.028,394.522 L 328.776,402.393 L 334.201,395.088 z"
+       style="fill:url(#linearGradient5483);stroke:none;stroke-width:1px;fill-opacity:1" />
+    <path
+       id="polygon1334"
+       d="M 346.137,404.571 L 334.201,395.088 L 328.776,402.393 L 339.365,410.568 L 346.137,404.571 z"
+       style="fill:url(#linearGradient5483);stroke:none;stroke-width:1px;fill-opacity:1" />
+    <path
+       id="polygon1340"
+       d="M 371.724,424.308 L 346.137,404.571 L 339.365,410.568 L 371.724,424.308 z"
+       style="fill:url(#linearGradient5483);stroke:none;stroke-width:1px;fill-opacity:1" />
+    <path
+       id="polygon1342"
+       d="M 322.223,423.153 L 371.724,424.308 L 339.365,410.568 L 322.223,423.153 z"
+       style="fill:url(#linearGradient5483);stroke:none;stroke-width:1px;fill-opacity:1" />
+  </g>
+  <g
+     id="g9105"
+     style="fill:#939393;fill-opacity:1;stroke:none">
+    <path
+       id="polygon1350"
+       d="M 229.785,372.263 L 228.571,345.915 L 227.286,372.263 L 229.785,372.263 z"
+       style="fill:#939393;stroke:none;stroke-width:1px;fill-opacity:1" />
+    <path
+       id="polygon1344"
+       d="M 106.359,374.711 L 108.857,374.711 L 107.588,348.364 L 106.359,374.711 z"
+       style="fill:#939393;stroke:none;stroke-width:1px;fill-opacity:1" />
+    <path
+       id="polygon1346"
+       d="M 147.375,373.373 L 149.874,373.373 L 148.657,347.026 L 147.375,373.373 z"
+       style="fill:#939393;stroke:none;stroke-width:1px;fill-opacity:1" />
+    <path
+       id="polygon1348"
+       d="M 189.639,371.393 L 188.45,345.046 L 187.14,371.393 L 189.639,371.393 z"
+       style="fill:#939393;stroke:none;stroke-width:1px;fill-opacity:1" />
+    <path
+       id="polygon1352"
+       d="M 30.972,375.384 L 33.471,375.384 L 32.206,349.037 L 30.972,375.384 z"
+       style="fill:#939393;stroke:none;stroke-width:1px;fill-opacity:1" />
+    <path
+       id="polygon1354"
+       d="M 69.438,376.505 L 71.936,376.505 L 70.642,350.158 L 69.438,376.505 z"
+       style="fill:#939393;stroke:none;stroke-width:1px;fill-opacity:1" />
+  </g>
+</svg>
